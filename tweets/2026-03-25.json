@@ -1,592 +1,354 @@
 [
   {
-    "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143286 },
-    "images": [],
-    "tweetUrl": "https://x.com/nntaleb/status/2036702181860966843",
-    "fullText": "RT @AssalRad: NYT finally got a community note for its whitewashing language. https://t.co/cZywaw4ZVa",
-    "createdAt": "Wed Mar 25 07:10:14 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 14689,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 1342, "replies": 0 }
-  },
-  {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "karpathy", "name": "Andrej Karpathy", "followersCount": 2009001 },
+    "user": { "screenName": "karpathy", "name": "Andrej Karpathy", "followersCount": 2010445 },
     "images": [],
     "tweetUrl": "https://x.com/karpathy/status/2036487306585268612",
     "fullText": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database",
     "createdAt": "Tue Mar 24 16:56:24 +0000 2026",
     "metrics": {
-      "likes": 25504,
-      "retweets": 4910,
-      "replies": 1226,
-      "quotes": 1178,
-      "bookmarks": 12624,
+      "likes": 26160,
+      "retweets": 5045,
+      "replies": 1244,
+      "quotes": 1206,
+      "bookmarks": 12976,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1106, "retweets": 253, "replies": 65 }
+    "growth": { "views": 0, "likes": 656, "retweets": 135, "replies": 18 }
+  },
+  {
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143269 },
+    "images": [],
+    "tweetUrl": "https://x.com/nntaleb/status/2036888033727799710",
+    "fullText": "RT @james406: 110-year-old Turkish grandma shares her secret to a long life:  \n\n\"i never once used Microsoft Teams\" https://t.co/OOhfZtkYn7",
+    "createdAt": "Wed Mar 25 19:28:45 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 7229,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 7229, "replies": 0 }
   },
   {
     "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391308 },
+    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391348 },
     "images": [],
     "tweetUrl": "https://x.com/RnaudBertrand/status/2036352697822224406",
     "fullText": "I don't think people realize just how extraordinary what we're witnessing with Iran is.\n\nI was arguing with a dear journalist friend of mine yesterday who was telling me that Iran was winning, yes, but only on the strategic level, not tactically. \n\nThe type of thing a skinny kid https://t.co/hzBuTEb51l",
     "createdAt": "Tue Mar 24 08:01:31 +0000 2026",
     "metrics": {
-      "likes": 9616,
-      "retweets": 3015,
-      "replies": 379,
-      "quotes": 216,
-      "bookmarks": 3702,
+      "likes": 9669,
+      "retweets": 3036,
+      "replies": 380,
+      "quotes": 218,
+      "bookmarks": 3720,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 104, "retweets": 37, "replies": 4 }
+    "growth": { "views": 0, "likes": 53, "retweets": 21, "replies": 1 }
+  },
+  {
+    "tags": [ "Tech", "Politics", "Economy" ],
+    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237440768 },
+    "images": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2036889456142397808",
+    "fullText": "Welcome to @xAI and 𝕏, Benji!",
+    "createdAt": "Wed Mar 25 19:34:24 +0000 2026",
+    "metrics": {
+      "likes": 26721,
+      "retweets": 2473,
+      "replies": 1932,
+      "quotes": 92,
+      "bookmarks": 613,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 26721, "retweets": 2473, "replies": 1932 }
   },
   {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116225 },
+    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116556 },
     "images": [],
     "tweetUrl": "https://x.com/naval/status/2036467656371609976",
     "fullText": "The only book an entrepreneur needs.",
     "createdAt": "Tue Mar 24 15:38:19 +0000 2026",
     "metrics": {
-      "likes": 8471,
-      "retweets": 636,
-      "replies": 374,
-      "quotes": 61,
-      "bookmarks": 5021,
+      "likes": 8761,
+      "retweets": 664,
+      "replies": 378,
+      "quotes": 62,
+      "bookmarks": 5220,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 485, "retweets": 35, "replies": 18 }
+    "growth": { "views": 0, "likes": 290, "retweets": 28, "replies": 4 }
   },
   {
     "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237426897 },
+    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237440768 },
     "images": [],
-    "tweetUrl": "https://x.com/elonmusk/status/2036803390551056759",
-    "fullText": "Make video stories with @Grok Imagine",
-    "createdAt": "Wed Mar 25 13:52:24 +0000 2026",
+    "tweetUrl": "https://x.com/elonmusk/status/2036889670832054387",
+    "fullText": "Try Tesla self-driving!",
+    "createdAt": "Wed Mar 25 19:35:15 +0000 2026",
     "metrics": {
-      "likes": 10478,
-      "retweets": 1879,
-      "replies": 2355,
-      "quotes": 104,
-      "bookmarks": 398,
+      "likes": 23534,
+      "retweets": 1725,
+      "replies": 2125,
+      "quotes": 108,
+      "bookmarks": 800,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 10167, "retweets": 1818, "replies": 2154 }
+    "growth": { "views": 0, "likes": 23534, "retweets": 1725, "replies": 2125 }
   },
   {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116225 },
+    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116556 },
     "images": [],
     "tweetUrl": "https://x.com/naval/status/2036285641462595898",
     "fullText": "AI coding agents can now deliver one-shot custom apps straight to your phone. \n\nIt’s the beginning of the end for the iPhone’s dominance.",
     "createdAt": "Tue Mar 24 03:35:03 +0000 2026",
     "metrics": {
-      "likes": 11137,
-      "retweets": 680,
-      "replies": 1184,
-      "quotes": 277,
-      "bookmarks": 1997,
+      "likes": 11321,
+      "retweets": 695,
+      "replies": 1196,
+      "quotes": 281,
+      "bookmarks": 2039,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 269, "retweets": 28, "replies": 22 }
+    "growth": { "views": 0, "likes": 184, "retweets": 15, "replies": 12 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538096 },
+    "user": { "screenName": "karpathy", "name": "Andrej Karpathy", "followersCount": 2010445 },
+    "images": [],
+    "tweetUrl": "https://x.com/karpathy/status/2036836816654147718",
+    "fullText": "One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.",
+    "createdAt": "Wed Mar 25 16:05:14 +0000 2026",
+    "metrics": {
+      "likes": 11050,
+      "retweets": 524,
+      "replies": 1087,
+      "quotes": 219,
+      "bookmarks": 1418,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 5140, "retweets": 248, "replies": 393 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538788 },
     "images": [],
     "tweetUrl": "https://x.com/sama/status/2036488680769241223",
     "fullText": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will",
     "createdAt": "Tue Mar 24 17:01:52 +0000 2026",
     "metrics": {
-      "likes": 6272,
-      "retweets": 524,
-      "replies": 1599,
-      "quotes": 313,
-      "bookmarks": 1198,
+      "likes": 6369,
+      "retweets": 531,
+      "replies": 1618,
+      "quotes": 318,
+      "bookmarks": 1215,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 227, "retweets": 30, "replies": 65 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232252 },
-    "images": [],
-    "tweetUrl": "https://x.com/spectatorindex/status/2036766874298634687",
-    "fullText": "BREAKING: Israel's government approves calling of up to 400,000 reservists",
-    "createdAt": "Wed Mar 25 11:27:18 +0000 2026",
-    "metrics": {
-      "likes": 6456,
-      "retweets": 1181,
-      "replies": 283,
-      "quotes": 251,
-      "bookmarks": 338,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1497, "retweets": 221, "replies": 30 }
+    "growth": { "views": 0, "likes": 97, "retweets": 7, "replies": 19 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088553 },
+    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088721 },
     "images": [],
     "tweetUrl": "https://x.com/ylecun/status/2036704778634334564",
     "fullText": "RT @Kasparov63: As I wrote over a decade ago about these people, when it comes to far-right Europeans, it’s always money and it’s always Ru…",
     "createdAt": "Wed Mar 25 07:20:34 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 1757,
+      "retweets": 1809,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 76, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237426897 },
-    "images": [],
-    "tweetUrl": "https://x.com/elonmusk/status/2036803827341615452",
-    "fullText": "RT @MartinSellner_: The reason for white replacment is white guilt.\nThe problem is not in the hardware but in the software.\n\nWe have all th…",
-    "createdAt": "Wed Mar 25 13:54:09 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 1632,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 1537, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232252 },
-    "images": [],
-    "tweetUrl": "https://x.com/spectatorindex/status/2036749816370504049",
-    "fullText": "BREAKING: Iran has received a US proposal via Pakistan, according to Reuters report.",
-    "createdAt": "Wed Mar 25 10:19:31 +0000 2026",
-    "metrics": {
-      "likes": 6251,
-      "retweets": 778,
-      "replies": 271,
-      "quotes": 62,
-      "bookmarks": 125,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 735, "retweets": 65, "replies": 5 }
+    "growth": { "views": 0, "likes": 0, "retweets": 52, "replies": 0 }
   },
   {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116225 },
+    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116556 },
     "images": [],
     "tweetUrl": "https://x.com/naval/status/2036768607074406606",
     "fullText": "Make your own App Store. https://t.co/Jd3QfhWaCm",
     "createdAt": "Wed Mar 25 11:34:11 +0000 2026",
     "metrics": {
-      "likes": 3474,
-      "retweets": 195,
-      "replies": 381,
-      "quotes": 77,
-      "bookmarks": 1446,
+      "likes": 3936,
+      "retweets": 214,
+      "replies": 405,
+      "quotes": 82,
+      "bookmarks": 1657,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1036, "retweets": 62, "replies": 63 }
-  },
-  {
-    "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "karpathy", "name": "Andrej Karpathy", "followersCount": 2009001 },
-    "images": [],
-    "tweetUrl": "https://x.com/karpathy/status/2036836816654147718",
-    "fullText": "One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.",
-    "createdAt": "Wed Mar 25 16:05:14 +0000 2026",
-    "metrics": {
-      "likes": 5910,
-      "retweets": 276,
-      "replies": 694,
-      "quotes": 114,
-      "bookmarks": 650,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 5910, "retweets": 276, "replies": 694 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333866 },
-    "images": [],
-    "tweetUrl": "https://x.com/SantiagoAuFund/status/2036818663165079871",
-    "fullText": "RT @johnkonrad: Trump is NOT escalating this into a major ground war. Let me spell this out with crayons.\n\nI’m a US Merchant Marine Captain…",
-    "createdAt": "Wed Mar 25 14:53:06 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 1068,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 1068, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232252 },
-    "images": [],
-    "tweetUrl": "https://x.com/spectatorindex/status/2036743460557082840",
-    "fullText": "The chief of the world's largest asset manager, Larry Fink of BlackRock, tells BBC that if the price of oil 'hits $150 a barrel it will trigger a global recession'.",
-    "createdAt": "Wed Mar 25 09:54:16 +0000 2026",
-    "metrics": {
-      "likes": 3919,
-      "retweets": 639,
-      "replies": 164,
-      "quotes": 46,
-      "bookmarks": 153,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 751, "retweets": 94, "replies": 2 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Crypto" ],
-    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894659 },
-    "images": [],
-    "tweetUrl": "https://x.com/LynAldenContact/status/2036599393537667371",
-    "fullText": "RT @kshaughnessy2: It’s very easy for the SEC to figure out who placed the trades. \n\nBut there is no political\nWill to follow the money",
-    "createdAt": "Wed Mar 25 00:21:48 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 901,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 20, "replies": 0 }
+    "growth": { "views": 0, "likes": 462, "retweets": 19, "replies": 24 }
   },
   {
     "tags": [ "Crypto", "Finance" ],
-    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960703 },
+    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960990 },
     "images": [],
-    "tweetUrl": "https://x.com/saylor/status/2036785899401257106",
-    "fullText": "71% to 2%. We engineer volatility. $MSTR $STRC $BTC https://t.co/BIQwR2e1yx",
-    "createdAt": "Wed Mar 25 12:42:54 +0000 2026",
+    "tweetUrl": "https://x.com/saylor/status/2036852528332124582",
+    "fullText": "Learn the language of prosperity. $BTC",
+    "createdAt": "Wed Mar 25 17:07:40 +0000 2026",
     "metrics": {
-      "likes": 4136,
-      "retweets": 499,
-      "replies": 377,
-      "quotes": 35,
-      "bookmarks": 75,
+      "likes": 5514,
+      "retweets": 579,
+      "replies": 632,
+      "quotes": 60,
+      "bookmarks": 64,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1490, "retweets": 185, "replies": 74 }
+    "growth": { "views": 0, "likes": 4662, "retweets": 483, "replies": 448 }
   },
   {
     "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391308 },
+    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391348 },
     "images": [],
     "tweetUrl": "https://x.com/RnaudBertrand/status/2036721235070267656",
     "fullText": "RT @soldierspeaks: Thanks God, at least somebody is speaking the truth. Former MI6 Chief Alex Younger says #Iran has the \"upper hand\"...\n\nV…",
     "createdAt": "Wed Mar 25 08:25:57 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 779,
+      "retweets": 1004,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 142, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 225, "replies": 0 }
+  },
+  {
+    "tags": [ "Crypto", "Finance" ],
+    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960990 },
+    "images": [],
+    "tweetUrl": "https://x.com/saylor/status/2036785899401257106",
+    "fullText": "71% to 2%. We engineer volatility. $MSTR $STRC $BTC https://t.co/BIQwR2e1yx",
+    "createdAt": "Wed Mar 25 12:42:54 +0000 2026",
+    "metrics": {
+      "likes": 4780,
+      "retweets": 557,
+      "replies": 395,
+      "quotes": 36,
+      "bookmarks": 91,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 644, "retweets": 58, "replies": 18 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Crypto" ],
+    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894781 },
+    "images": [],
+    "tweetUrl": "https://x.com/LynAldenContact/status/2036599393537667371",
+    "fullText": "RT @kshaughnessy2: It’s very easy for the SEC to figure out who placed the trades. \n\nBut there is no political\nWill to follow the money",
+    "createdAt": "Wed Mar 25 00:21:48 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 908,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 7, "replies": 0 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232504 },
+    "images": [],
+    "tweetUrl": "https://x.com/spectatorindex/status/2036899294171779492",
+    "fullText": "Spain's PM Pedro Sanchez says, 'We are going to demand that this war stop. It is not fair that some set the world on fire while the rest of us swallow their ashes.' https://t.co/Q3F9hvlrLp",
+    "createdAt": "Wed Mar 25 20:13:30 +0000 2026",
+    "metrics": {
+      "likes": 2965,
+      "retweets": 562,
+      "replies": 230,
+      "quotes": 41,
+      "bookmarks": 60,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2965, "retweets": 562, "replies": 230 }
   },
   {
     "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
-    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389203 },
+    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389527 },
     "images": [],
     "tweetUrl": "https://x.com/balajis/status/2036571457459986942",
     "fullText": "It's a global energy crisis.\nBut India is far better positioned than it was in 2020. https://t.co/P8A9RIuuPz",
     "createdAt": "Tue Mar 24 22:30:47 +0000 2026",
     "metrics": {
-      "likes": 2728,
-      "retweets": 422,
-      "replies": 86,
-      "quotes": 37,
-      "bookmarks": 316,
+      "likes": 2794,
+      "retweets": 435,
+      "replies": 88,
+      "quotes": 39,
+      "bookmarks": 322,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 147, "retweets": 22, "replies": 2 }
+    "growth": { "views": 0, "likes": 66, "retweets": 13, "replies": 2 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2042825 },
+    "tags": [ "Politics", "Geopolitics", "Science" ],
+    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690450 },
     "images": [],
-    "tweetUrl": "https://x.com/RayDalio/status/2036492607862284449",
-    "fullText": "After studying over 500 years of history, I’ve found there are really only three things you need to do to build a healthy society.\n\nFirst, educate your young people well—not just to be capable, but to be civil. If you have capable, civil people in a productive society, that’s a https://t.co/v1XNZQXY1s",
-    "createdAt": "Tue Mar 24 17:17:28 +0000 2026",
+    "tweetUrl": "https://x.com/disclosetv/status/2036885733672092094",
+    "fullText": "NEW - Japan will deploy approximately 1,000 combat troops to the Philippines for the 2026 Balikatan exercises, marking the first time since 1945 that Japanese combat forces have set foot on Philippine soil — PNA https://t.co/GxLp9WKwM3",
+    "createdAt": "Wed Mar 25 19:19:37 +0000 2026",
     "metrics": {
-      "likes": 1628,
-      "retweets": 344,
-      "replies": 112,
-      "quotes": 49,
-      "bookmarks": 449,
+      "likes": 2757,
+      "retweets": 384,
+      "replies": 71,
+      "quotes": 59,
+      "bookmarks": 220,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 91, "retweets": 24, "replies": 2 }
+    "growth": { "views": 0, "likes": 2757, "retweets": 384, "replies": 71 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1589311 },
+    "images": [],
+    "tweetUrl": "https://x.com/KobeissiLetter/status/2036886803077079538",
+    "fullText": "BREAKING: Iran's attacks on US military bases across the Middle East have forced many American troops to \"work remotely\" due to \"severe\" damage, per NYT.\n\nDetails include:\n\n1. Many American troops have had to relocate to hotels and office spaces throughout the Middle East\n\n2. An",
+    "createdAt": "Wed Mar 25 19:23:52 +0000 2026",
+    "metrics": {
+      "likes": 2454,
+      "retweets": 396,
+      "replies": 161,
+      "quotes": 51,
+      "bookmarks": 204,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2454, "retweets": 396, "replies": 161 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538096 },
+    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538788 },
     "images": [],
     "tweetUrl": "https://x.com/sama/status/2036489823792607273",
     "fullText": "I would like a single word for this phrase: \"throw it into the maw with every bit of context I can think of\".",
     "createdAt": "Tue Mar 24 17:06:24 +0000 2026",
     "metrics": {
-      "likes": 2719,
-      "retweets": 112,
-      "replies": 893,
-      "quotes": 41,
-      "bookmarks": 430,
+      "likes": 2764,
+      "retweets": 115,
+      "replies": 909,
+      "quotes": 42,
+      "bookmarks": 437,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 105, "retweets": 5, "replies": 40 }
+    "growth": { "views": 0, "likes": 45, "retweets": 3, "replies": 16 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088553 },
+    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088721 },
     "images": [],
     "tweetUrl": "https://x.com/ylecun/status/2036704929075638764",
     "fullText": "RT @JayinKyiv: Working for Russia to aid in its efforts toward creating an authoritarian hell on earth is now the primary source of income…",
     "createdAt": "Wed Mar 25 07:21:09 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 617,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 6, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237426897 },
-    "images": [],
-    "tweetUrl": "https://x.com/elonmusk/status/2036795686507917655",
-    "fullText": "RT @xenocosmography: Another ten years of Democrat governance will have cougars dropped from attack helicopters into people's backyards. ht…",
-    "createdAt": "Wed Mar 25 13:21:48 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 573,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 339, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116225 },
-    "images": [],
-    "tweetUrl": "https://x.com/naval/status/2036467270348841424",
-    "fullText": "RT @EricJorgenson: 🚨📕 THE BOOK OF ELON IS NOW LIVE!!! 🎉🚀\n\nThis is the book we WISHED @elonmusk would write…\n\n“All of Elon's most useful ide…",
-    "createdAt": "Tue Mar 24 15:36:47 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 564,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 23, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088553 },
-    "images": [],
-    "tweetUrl": "https://x.com/ylecun/status/2036763677466980541",
-    "fullText": "RT @joni_askola: The horseshoe theory is amply demonstrated by Russia. \n\nIf you go far enough left or right in European politics, you ultim…",
-    "createdAt": "Wed Mar 25 11:14:36 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 490,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 8, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690007 },
-    "images": [],
-    "tweetUrl": "https://x.com/disclosetv/status/2036848604292292792",
-    "fullText": "NEW - Scientists at CERN transport antimatter for the first time ever. 92 antiprotons, in a custom designed bottle that trapped the particles using magnetic and electric fields, took a 30 minute journey in the back of CERN’s truck. https://t.co/0wjgJBI37H",
-    "createdAt": "Wed Mar 25 16:52:04 +0000 2026",
-    "metrics": {
-      "likes": 1140,
-      "retweets": 173,
-      "replies": 156,
-      "quotes": 100,
-      "bookmarks": 146,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1140, "retweets": 173, "replies": 156 }
-  },
-  {
-    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
-    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389203 },
-    "images": [],
-    "tweetUrl": "https://x.com/balajis/status/2036698808629776523",
-    "fullText": "This is the wrong way of thinking about it.\n\nBy this logic, a school shooter is \"powerful\" because they can kill an entire school.\n\nReal power is the power to build, to maintain stability and prosperity.\n\nIt's not the power to destroy. Anyone can kill. Anyone can bomb, https://t.co/5xqkWakh4y",
-    "createdAt": "Wed Mar 25 06:56:50 +0000 2026",
-    "metrics": {
-      "likes": 1742,
-      "retweets": 148,
-      "replies": 153,
-      "quotes": 35,
-      "bookmarks": 198,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 299, "retweets": 26, "replies": 29 }
-  },
-  {
-    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358353 },
-    "images": [],
-    "tweetUrl": "https://x.com/PeterSchiff/status/2036830743150690618",
-    "fullText": "Given Trump's history of lying, nothing he says about the war can be believed. Trump is either lying as part of his negotiating strategy to win more favorable peace terms with Iran, or he is lying to the American people to pretend that the war is going better than it actually is.",
-    "createdAt": "Wed Mar 25 15:41:06 +0000 2026",
-    "metrics": {
-      "likes": 1748,
-      "retweets": 198,
-      "replies": 323,
-      "quotes": 14,
-      "bookmarks": 34,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1748, "retweets": 198, "replies": 323 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1588151 },
-    "images": [],
-    "tweetUrl": "https://x.com/KobeissiLetter/status/2036855128645374130",
-    "fullText": "BREAKING: Iran says it could shut the vital Bab el-Mandeb Strait if attacks are carried out on its territory or islands.\n\nDetails include:\n\n1. The Bab al-Mandeb Strait is a narrow passage linking the Red Sea to the Gulf of Aden and the Arabian Sea\n\n2. ~12% of global seaborne oil https://t.co/1WUYNYn7ml",
-    "createdAt": "Wed Mar 25 17:18:00 +0000 2026",
-    "metrics": {
-      "likes": 812,
-      "retweets": 170,
-      "replies": 128,
-      "quotes": 21,
-      "bookmarks": 75,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 812, "retweets": 170, "replies": 128 }
-  },
-  {
-    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358353 },
-    "images": [],
-    "tweetUrl": "https://x.com/PeterSchiff/status/2036822359550685393",
-    "fullText": "Trump will dismiss the surge in inflation as a temporary consequence of the war. But data confirms prices were already surging before Trump started the war. Higher inflation is here to stay. It's the result of deficit spending by Trump &amp; Congress and an overly accommodative Fed.",
-    "createdAt": "Wed Mar 25 15:07:47 +0000 2026",
-    "metrics": {
-      "likes": 1222,
-      "retweets": 180,
-      "replies": 129,
-      "quotes": 7,
-      "bookmarks": 31,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1222, "retweets": 180, "replies": 129 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1009946 },
-    "images": [],
-    "tweetUrl": "https://x.com/ianbremmer/status/2036853487993065959",
-    "fullText": "6:49am: sudden spike in oil futures trading. no news. no announcement. nothing public.\n7:05am: trump announces a pause on iran strikes. markets move.\nsomeone knew. 16 minutes early. $580 million in contracts. the corruption is staggering. https://t.co/kUORlIRPJp",
-    "createdAt": "Wed Mar 25 17:11:29 +0000 2026",
-    "metrics": {
-      "likes": 576,
-      "retweets": 190,
-      "replies": 20,
-      "quotes": 7,
-      "bookmarks": 47,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 576, "retweets": 190, "replies": 20 }
-  },
-  {
-    "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143286 },
-    "images": [],
-    "tweetUrl": "https://x.com/nntaleb/status/2036798952180175276",
-    "fullText": "RT @curaffairs: If the NYT wants to function as a propaganda outlet for illegal wars, it should at least have to pay a financial penalty fo…",
-    "createdAt": "Wed Mar 25 13:34:46 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 235,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 61, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690007 },
-    "images": [],
-    "tweetUrl": "https://x.com/disclosetv/status/2036843310044643577",
-    "fullText": "JUST IN - Vance may travel to Pakistan for discussions on Iran, where the U.S. is planning to set up talks with Iran in Pakistan this weekend — CNN https://t.co/uCvWkjJVHn",
-    "createdAt": "Wed Mar 25 16:31:02 +0000 2026",
-    "metrics": {
-      "likes": 852,
-      "retweets": 113,
-      "replies": 120,
-      "quotes": 27,
-      "bookmarks": 48,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 852, "retweets": 113, "replies": 120 }
-  },
-  {
-    "tags": [ "Crypto", "Finance" ],
-    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960703 },
-    "images": [],
-    "tweetUrl": "https://x.com/saylor/status/2036852528332124582",
-    "fullText": "Learn the language of prosperity. $BTC",
-    "createdAt": "Wed Mar 25 17:07:40 +0000 2026",
-    "metrics": {
-      "likes": 852,
-      "retweets": 96,
-      "replies": 184,
-      "quotes": 10,
-      "bookmarks": 11,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 852, "retweets": 96, "replies": 184 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Politics" ],
-    "user": { "screenName": "paulg", "name": "Paul Graham", "followersCount": 2365996 },
-    "images": [],
-    "tweetUrl": "https://x.com/paulg/status/2036688227466183001",
-    "fullText": "RT @bscholl: BREAKING: The bipartisan Supersonic Aviation Modernization Act (SAMA) just passed the House UNANIMOUSLY and is headed to the S…",
-    "createdAt": "Wed Mar 25 06:14:47 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 185,
+      "retweets": 627,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
@@ -595,450 +357,705 @@
     "growth": { "views": 0, "likes": 0, "retweets": 10, "replies": 0 }
   },
   {
-    "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604762 },
     "images": [],
-    "tweetUrl": "https://x.com/EricTopol/status/2036608793677853080",
-    "fullText": "New on exercise\n—the best medicine vs age-related chronic diseases, a review @Cell_Metabolism \nhttps://t.co/axi6aUDpZ7\n—salutary effect on the blood brain barrier (BBB) vs Alzheimer's and brain aging\ngift link https://t.co/x9QQovOR8d\nby @GretchenReynold \n—original research on BBB https://t.co/NiUXmqfYoJ",
-    "createdAt": "Wed Mar 25 00:59:09 +0000 2026",
-    "metrics": {
-      "likes": 297,
-      "retweets": 84,
-      "replies": 7,
-      "quotes": 2,
-      "bookmarks": 151,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 41, "retweets": 8, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2042825 },
-    "images": [],
-    "tweetUrl": "https://x.com/RayDalio/status/2036516875585077311",
-    "fullText": "Have a conversation with Digital Ray about an All Weather portfolio now: https://t.co/aGk1cHNA5N\n\nhttps://t.co/5XEk60Xt1i",
-    "createdAt": "Tue Mar 24 18:53:54 +0000 2026",
-    "metrics": {
-      "likes": 271,
-      "retweets": 32,
-      "replies": 20,
-      "quotes": 0,
-      "bookmarks": 255,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 16, "retweets": 1, "replies": 2 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391308 },
-    "images": [],
-    "tweetUrl": "https://x.com/RnaudBertrand/status/2036758203636322355",
-    "fullText": "RT @ShanghaiMacro: China’s COSCO Shipping just announced: Effective immediately, our company has resumed new booking services (standard con…",
-    "createdAt": "Wed Mar 25 10:52:51 +0000 2026",
+    "tweetUrl": "https://x.com/zerohedge/status/2036914134646710652",
+    "fullText": "RT @ImtiazMadmood: Rumours are growing that Rupert Lowe and Nigel Farage could be preparing to join forces. If true, this would mark one of…",
+    "createdAt": "Wed Mar 25 21:12:28 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 173,
+      "retweets": 591,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 19, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 591, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1288717 },
+    "tags": [ "Tech", "Science", "Finance" ],
+    "user": { "screenName": "naval", "name": "Naval", "followersCount": 3116556 },
     "images": [],
-    "tweetUrl": "https://x.com/DeItaone/status/2036847363042443639",
-    "fullText": "SHIPS LOADED WITH LNG AND STUCK IN THE MIDDLE EAST ARE LOSING PRODUCT TO EVAPORATION- MITSUI O.S.K LINES SAYS",
-    "createdAt": "Wed Mar 25 16:47:08 +0000 2026",
-    "metrics": {
-      "likes": 557,
-      "retweets": 79,
-      "replies": 37,
-      "quotes": 20,
-      "bookmarks": 28,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 557, "retweets": 79, "replies": 37 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Crypto" ],
-    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894659 },
-    "images": [],
-    "tweetUrl": "https://x.com/LynAldenContact/status/2036578393202799053",
-    "fullText": "In practice, the wealthy nations including Taiwan can scramble to bid high prices for unencumbered energy and materials to fill some/all of their gap, which will likely leave the worst shortages with the poorest countries.",
-    "createdAt": "Tue Mar 24 22:58:21 +0000 2026",
-    "metrics": {
-      "likes": 772,
-      "retweets": 70,
-      "replies": 54,
-      "quotes": 3,
-      "bookmarks": 40,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 39, "retweets": 3, "replies": 3 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Crypto" ],
-    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894659 },
-    "images": [],
-    "tweetUrl": "https://x.com/LynAldenContact/status/2036629552160465182",
-    "fullText": "I don’t think pay-per-impressions is a great model anyway, since it incentivizes sensationalism.\n\nThat’s part of why I’ve never taken a moment to turn on monetization for this app, despite my reach.",
-    "createdAt": "Wed Mar 25 02:21:38 +0000 2026",
-    "metrics": {
-      "likes": 1050,
-      "retweets": 32,
-      "replies": 91,
-      "quotes": 8,
-      "bookmarks": 28,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 78, "retweets": 2, "replies": 10 }
-  },
-  {
-    "tags": [ "Crypto", "Tech", "Science" ],
-    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5997562 },
-    "images": [],
-    "tweetUrl": "https://x.com/VitalikButerin/status/2036253650012586039",
-    "fullText": "RT @corcoranwill: Today I had the opportunity to present Ethereum's post-quantum security strategy at the Institutional Ethereum Forum in N…",
-    "createdAt": "Tue Mar 24 01:27:56 +0000 2026",
+    "tweetUrl": "https://x.com/naval/status/2036467270348841424",
+    "fullText": "RT @EricJorgenson: 🚨📕 THE BOOK OF ELON IS NOW LIVE!!! 🎉🚀\n\nThis is the book we WISHED @elonmusk would write…\n\n“All of Elon's most useful ide…",
+    "createdAt": "Tue Mar 24 15:36:47 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 124,
+      "retweets": 584,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 20, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095561 },
+    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
+    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358770 },
     "images": [],
-    "tweetUrl": "https://x.com/sentdefender/status/2036847441127899492",
-    "fullText": "Israel’s I24 News has also confirmed recent reporting on the Iranian supreme leader, saying that a western intelligence source has told them that Mojtaba Khamenei, who was injured in a strike earlier in the conflict, remains in contact with principal Iranian regime https://t.co/LDs3LDZufR",
-    "createdAt": "Wed Mar 25 16:47:27 +0000 2026",
+    "tweetUrl": "https://x.com/PeterSchiff/status/2036830743150690618",
+    "fullText": "Given Trump's history of lying, nothing he says about the war can be believed. Trump is either lying as part of his negotiating strategy to win more favorable peace terms with Iran, or he is lying to the American people to pretend that the war is going better than it actually is.",
+    "createdAt": "Wed Mar 25 15:41:06 +0000 2026",
     "metrics": {
-      "likes": 544,
-      "retweets": 55,
-      "replies": 51,
-      "quotes": 4,
-      "bookmarks": 39,
+      "likes": 2680,
+      "retweets": 319,
+      "replies": 376,
+      "quotes": 17,
+      "bookmarks": 61,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 544, "retweets": 55, "replies": 51 }
+    "growth": { "views": 0, "likes": 932, "retweets": 121, "replies": 53 }
   },
   {
-    "tags": [ "Crypto", "Finance" ],
-    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960703 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1589311 },
     "images": [],
-    "tweetUrl": "https://x.com/saylor/status/2036784527461212589",
-    "fullText": "RT @phongle: @Strategy is hiring a Bitcoin Security Director to coordinate with the global Cyber, Crypto, and Bitcoin security community. A…",
-    "createdAt": "Wed Mar 25 12:37:27 +0000 2026",
+    "tweetUrl": "https://x.com/KobeissiLetter/status/2036893447903170858",
+    "fullText": "BREAKING: The White House has rejected Elon Musk’s offer to cover TSA agents’ salary during the ongoing funding lapse, per CBS News.",
+    "createdAt": "Wed Mar 25 19:50:16 +0000 2026",
+    "metrics": {
+      "likes": 2330,
+      "retweets": 266,
+      "replies": 213,
+      "quotes": 75,
+      "bookmarks": 131,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2330, "retweets": 266, "replies": 213 }
+  },
+  {
+    "tags": [ "Tech", "Politics", "Economy" ],
+    "user": { "screenName": "elonmusk", "name": "Elon Musk", "followersCount": 237440768 },
+    "images": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2036888175281659939",
+    "fullText": "RT @r0ck3t23: Elon Musk just explained how Starlink moves the GDP of entire nations.\n\nThe formula is so simple it should embarrass every de…",
+    "createdAt": "Wed Mar 25 19:29:19 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 111,
+      "retweets": 515,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 24, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 515, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2042825 },
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088721 },
     "images": [],
-    "tweetUrl": "https://x.com/RayDalio/status/2036801152314929504",
-    "fullText": "One of the most important lessons I’ve learned is to distinguish between what you can control and what you can’t.\n\nYou’ll lead a much happier life if you’re able to focus your energy on the things you can influence — like how you treat others — and also learn how to adapt well to https://t.co/YUbZq6cNkh",
-    "createdAt": "Wed Mar 25 13:43:31 +0000 2026",
+    "tweetUrl": "https://x.com/ylecun/status/2036763677466980541",
+    "fullText": "RT @joni_askola: The horseshoe theory is amply demonstrated by Russia. \n\nIf you go far enough left or right in European politics, you ultim…",
+    "createdAt": "Wed Mar 25 11:14:36 +0000 2026",
     "metrics": {
-      "likes": 307,
-      "retweets": 37,
-      "replies": 22,
-      "quotes": 2,
-      "bookmarks": 95,
+      "likes": 0,
+      "retweets": 495,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 243, "retweets": 31, "replies": 16 }
+    "growth": { "views": 0, "likes": 0, "retweets": 5, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
+    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389527 },
+    "images": [],
+    "tweetUrl": "https://x.com/balajis/status/2036698808629776523",
+    "fullText": "This is the wrong way of thinking about it.\n\nBy this logic, a school shooter is \"powerful\" because they can kill an entire school.\n\nReal power is the power to build, to maintain stability and prosperity.\n\nIt's not the power to destroy. Anyone can kill. Anyone can bomb, https://t.co/5xqkWakh4y",
+    "createdAt": "Wed Mar 25 06:56:50 +0000 2026",
+    "metrics": {
+      "likes": 1846,
+      "retweets": 159,
+      "replies": 162,
+      "quotes": 36,
+      "bookmarks": 211,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 104, "retweets": 11, "replies": 9 }
   },
   {
     "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690007 },
+    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690450 },
     "images": [],
     "tweetUrl": "https://x.com/disclosetv/status/2036856984444481689",
     "fullText": "JUST IN - Meta and YouTube found liable in social media addiction trial — AFP https://t.co/Yj94T0bEXu",
     "createdAt": "Wed Mar 25 17:25:22 +0000 2026",
     "metrics": {
-      "likes": 295,
-      "retweets": 61,
-      "replies": 32,
-      "quotes": 6,
-      "bookmarks": 23,
+      "likes": 1445,
+      "retweets": 213,
+      "replies": 62,
+      "quotes": 36,
+      "bookmarks": 111,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 295, "retweets": 61, "replies": 32 }
+    "growth": { "views": 0, "likes": 1150, "retweets": 152, "replies": 30 }
+  },
+  {
+    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
+    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358770 },
+    "images": [],
+    "tweetUrl": "https://x.com/PeterSchiff/status/2036822359550685393",
+    "fullText": "Trump will dismiss the surge in inflation as a temporary consequence of the war. But data confirms prices were already surging before Trump started the war. Higher inflation is here to stay. It's the result of deficit spending by Trump &amp; Congress and an overly accommodative Fed.",
+    "createdAt": "Wed Mar 25 15:07:47 +0000 2026",
+    "metrics": {
+      "likes": 1454,
+      "retweets": 210,
+      "replies": 129,
+      "quotes": 7,
+      "bookmarks": 39,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 232, "retweets": 30, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1289745 },
+    "images": [],
+    "tweetUrl": "https://x.com/DeItaone/status/2036883252653207641",
+    "fullText": "IRAN BUILDING UP DEFENSES OF KHARG ISLAND TO PROTECT AGAINST POTENTIAL US GROUND ATTACK, SOURCES SAY - CNN \n\nIRAN IS FORTIFYING KHARG ISLAND WITH MINES AND AIR DEFENSES AGAINST POTENTIAL US MILITARY SEIZURE \n\nKHARG ISLAND PROCESSES ROUGHLY 90% OF IRAN’S CRUDE OIL EXPORTS,",
+    "createdAt": "Wed Mar 25 19:09:45 +0000 2026",
+    "metrics": {
+      "likes": 1072,
+      "retweets": 180,
+      "replies": 99,
+      "quotes": 22,
+      "bookmarks": 80,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 1072, "retweets": 180, "replies": 99 }
+  },
+  {
+    "tags": [ "Politics", "Geopolitics", "Science" ],
+    "user": { "screenName": "disclosetv", "name": "Disclose.tv", "followersCount": 1690450 },
+    "images": [],
+    "tweetUrl": "https://x.com/disclosetv/status/2036876190862966872",
+    "fullText": "NEW - Melania Trump escorted by Figure 3 humanoid robot for White House event: \"Thank you, First Lady Melania Trump, for inviting me to the White House.\" https://t.co/1VpMsZHNu3",
+    "createdAt": "Wed Mar 25 18:41:41 +0000 2026",
+    "metrics": {
+      "likes": 753,
+      "retweets": 110,
+      "replies": 105,
+      "quotes": 66,
+      "bookmarks": 137,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 753, "retweets": 110, "replies": 105 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232504 },
+    "images": [],
+    "tweetUrl": "https://x.com/spectatorindex/status/2036894477428940972",
+    "fullText": "BREAKING: US Postal Service is set to impose its 'first-ever surcharge on packages to cover the rising cost of fuel', according to Wall Street Journal report.",
+    "createdAt": "Wed Mar 25 19:54:21 +0000 2026",
+    "metrics": {
+      "likes": 868,
+      "retweets": 132,
+      "replies": 87,
+      "quotes": 26,
+      "bookmarks": 43,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 868, "retweets": 132, "replies": 87 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1289745 },
+    "images": [],
+    "tweetUrl": "https://x.com/DeItaone/status/2036893061976825917",
+    "fullText": "WHITE HOUSE HAS REJECTED AN OFFER FROM BILLIONAIRE ELON MUSK TO COVER TSA WORKERS' PAY DURING PARTIAL SHUTDOWN - CBS NEWS",
+    "createdAt": "Wed Mar 25 19:48:44 +0000 2026",
+    "metrics": {
+      "likes": 1051,
+      "retweets": 96,
+      "replies": 133,
+      "quotes": 41,
+      "bookmarks": 44,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 1051, "retweets": 96, "replies": 133 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095961 },
+    "images": [],
+    "tweetUrl": "https://x.com/sentdefender/status/2036874279057252529",
+    "fullText": "Speaker of the Iranian Parliament Mohammad Bagher Ghalibaf said  in a statement that Iranian intelligence has viewed what they believe are preparations by “enemies” (likely the U.S.), backed by a regional power, to take one of Iran’s key Islands. https://t.co/4QZ92mFwfD",
+    "createdAt": "Wed Mar 25 18:34:06 +0000 2026",
+    "metrics": {
+      "likes": 811,
+      "retweets": 112,
+      "replies": 80,
+      "quotes": 12,
+      "bookmarks": 77,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 811, "retweets": 112, "replies": 80 }
   },
   {
     "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143286 },
+    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143269 },
+    "images": [],
+    "tweetUrl": "https://x.com/nntaleb/status/2036891651138810353",
+    "fullText": "He either forgot how many children they killed ( and, worse, tortured) or has been so brainwashed by his ethnoobsession that the \"other\", kids or no kids, does not exist.",
+    "createdAt": "Wed Mar 25 19:43:07 +0000 2026",
+    "metrics": {
+      "likes": 700,
+      "retweets": 148,
+      "replies": 18,
+      "quotes": 2,
+      "bookmarks": 28,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 700, "retweets": 148, "replies": 18 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "screenName": "paulg", "name": "Paul Graham", "followersCount": 2366909 },
+    "images": [],
+    "tweetUrl": "https://x.com/paulg/status/2036850752962891993",
+    "fullText": "The thing that will make a VC want to fund you is not how well you match their (claimed) investment thesis. It's the same thing that will make every other VC want to fund you: how well you're doing.",
+    "createdAt": "Wed Mar 25 17:00:37 +0000 2026",
+    "metrics": {
+      "likes": 768,
+      "retweets": 39,
+      "replies": 94,
+      "quotes": 9,
+      "bookmarks": 186,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 666, "retweets": 31, "replies": 62 }
+  },
+  {
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143269 },
     "images": [],
     "tweetUrl": "https://x.com/nntaleb/status/2036849389826724001",
     "fullText": "RT @voiceofrabbis: @ClearReason If you think Judaism is a real estate project, you’re the one insulting Jews. \n\nOur 'homeland' is the Torah…",
     "createdAt": "Wed Mar 25 16:55:12 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 98,
+      "retweets": 194,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 98, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 96, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1288717 },
+    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2043051 },
     "images": [],
-    "tweetUrl": "https://x.com/DeItaone/status/2036844981101436963",
-    "fullText": "TRUMP ADMINISTRATION HAD YET TO RECEIVE ANY OFFICIAL MESSAGES FROM IRAN REJECTING OFFER - AXIOS REPORTER BARAK RAVID",
-    "createdAt": "Wed Mar 25 16:37:40 +0000 2026",
+    "tweetUrl": "https://x.com/RayDalio/status/2036516875585077311",
+    "fullText": "Have a conversation with Digital Ray about an All Weather portfolio now: https://t.co/aGk1cHNA5N\n\nhttps://t.co/5XEk60Xt1i",
+    "createdAt": "Tue Mar 24 18:53:54 +0000 2026",
     "metrics": {
-      "likes": 404,
-      "retweets": 39,
-      "replies": 62,
-      "quotes": 9,
-      "bookmarks": 13,
+      "likes": 278,
+      "retweets": 34,
+      "replies": 20,
+      "quotes": 0,
+      "bookmarks": 263,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 404, "retweets": 39, "replies": 62 }
+    "growth": { "views": 0, "likes": 7, "retweets": 2, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "screenName": "RnaudBertrand", "name": "Arnaud Bertrand", "followersCount": 391348 },
+    "images": [],
+    "tweetUrl": "https://x.com/RnaudBertrand/status/2036758203636322355",
+    "fullText": "RT @ShanghaiMacro: China’s COSCO Shipping just announced: Effective immediately, our company has resumed new booking services (standard con…",
+    "createdAt": "Wed Mar 25 10:52:51 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 182,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 9, "replies": 0 }
+  },
+  {
+    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
+    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358770 },
+    "images": [],
+    "tweetUrl": "https://x.com/PeterSchiff/status/2036861246067048785",
+    "fullText": "Since the economy was going to be in a recession with high inflation when voters cast their votes in the midterm elections, perhaps Trump realized that a war with Iran would be the best way to divert blame and get voters to accept the economic pain as a needed sacrifice to win.",
+    "createdAt": "Wed Mar 25 17:42:18 +0000 2026",
+    "metrics": {
+      "likes": 732,
+      "retweets": 85,
+      "replies": 135,
+      "quotes": 2,
+      "bookmarks": 26,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 732, "retweets": 85, "replies": 135 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "Schuldensuehner", "name": "Holger Zschaepitz", "followersCount": 368026 },
+    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1589311 },
+    "images": [],
+    "tweetUrl": "https://x.com/KobeissiLetter/status/2036905335840178204",
+    "fullText": "The market is experiencing historically high intraday volatility:\n\nThe number of intraday reversals in the S&amp;P 500 over the last 3 months is up to 28, the highest since 2015.\n\nThis means that in nearly half of all trading sessions over the last 3 months, the market opened either https://t.co/gdPohnMPEk",
+    "createdAt": "Wed Mar 25 20:37:30 +0000 2026",
+    "metrics": {
+      "likes": 378,
+      "retweets": 63,
+      "replies": 67,
+      "quotes": 10,
+      "bookmarks": 53,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 378, "retweets": 63, "replies": 67 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Crypto" ],
+    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894781 },
+    "images": [],
+    "tweetUrl": "https://x.com/LynAldenContact/status/2036629552160465182",
+    "fullText": "I don’t think pay-per-impressions is a great model anyway, since it incentivizes sensationalism.\n\nThat’s part of why I’ve never taken a moment to turn on monetization for this app, despite my reach.",
+    "createdAt": "Wed Mar 25 02:21:38 +0000 2026",
+    "metrics": {
+      "likes": 1084,
+      "retweets": 33,
+      "replies": 92,
+      "quotes": 8,
+      "bookmarks": 29,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 34, "retweets": 1, "replies": 1 }
+  },
+  {
+    "tags": [ "Crypto", "Tech", "Science" ],
+    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5998544 },
+    "images": [],
+    "tweetUrl": "https://x.com/VitalikButerin/status/2036253650012586039",
+    "fullText": "RT @corcoranwill: Today I had the opportunity to present Ethereum's post-quantum security strategy at the Institutional Ethereum Forum in N…",
+    "createdAt": "Tue Mar 24 01:27:56 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 126,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2043051 },
+    "images": [],
+    "tweetUrl": "https://x.com/RayDalio/status/2036801152314929504",
+    "fullText": "One of the most important lessons I’ve learned is to distinguish between what you can control and what you can’t.\n\nYou’ll lead a much happier life if you’re able to focus your energy on the things you can influence — like how you treat others — and also learn how to adapt well to https://t.co/YUbZq6cNkh",
+    "createdAt": "Wed Mar 25 13:43:31 +0000 2026",
+    "metrics": {
+      "likes": 359,
+      "retweets": 43,
+      "replies": 29,
+      "quotes": 3,
+      "bookmarks": 108,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 52, "retweets": 6, "replies": 7 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604762 },
+    "images": [],
+    "tweetUrl": "https://x.com/zerohedge/status/2036914040413262047",
+    "fullText": "RT @Sajwani: BREAKING: Kuwait dismantles and arrests a large Hezbollah terror cell that was planning to carry out assassination operations…",
+    "createdAt": "Wed Mar 25 21:12:05 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 122,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 122, "replies": 0 }
+  },
+  {
+    "tags": [ "Crypto", "Finance" ],
+    "user": { "screenName": "saylor", "name": "Michael Saylor", "followersCount": 4960990 },
+    "images": [],
+    "tweetUrl": "https://x.com/saylor/status/2036784527461212589",
+    "fullText": "RT @phongle: @Strategy is hiring a Bitcoin Security Director to coordinate with the global Cyber, Crypto, and Bitcoin security community. A…",
+    "createdAt": "Wed Mar 25 12:37:27 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 120,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 9, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "screenName": "paulg", "name": "Paul Graham", "followersCount": 2366909 },
+    "images": [],
+    "tweetUrl": "https://x.com/paulg/status/2036896125232283727",
+    "fullText": "Trying to make founders describe their products in simple everyday language is like trying to push together the north poles of two magnets.",
+    "createdAt": "Wed Mar 25 20:00:54 +0000 2026",
+    "metrics": {
+      "likes": 518,
+      "retweets": 22,
+      "replies": 102,
+      "quotes": 14,
+      "bookmarks": 63,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 518, "retweets": 22, "replies": 102 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "screenName": "spectatorindex", "name": "The Spectator Index", "followersCount": 3232504 },
+    "images": [],
+    "tweetUrl": "https://x.com/spectatorindex/status/2036911417551708512",
+    "fullText": "BREAKING: US military says it has now struck 10,000 targets in Iran",
+    "createdAt": "Wed Mar 25 21:01:40 +0000 2026",
+    "metrics": {
+      "likes": 330,
+      "retweets": 55,
+      "replies": 62,
+      "quotes": 5,
+      "bookmarks": 10,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 330, "retweets": 55, "replies": 62 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095961 },
+    "images": [],
+    "tweetUrl": "https://x.com/sentdefender/status/2036902611417182665",
+    "fullText": "According to CBS, citing sources with knowledge on the matter, the White House has rejected Elon Musk’s offer to pay the salaries of TSA workers, who have been working without pay due to the Democrats’ holdup of the Department of Homeland Security funding. https://t.co/2qDcEuSjZI",
+    "createdAt": "Wed Mar 25 20:26:41 +0000 2026",
+    "metrics": {
+      "likes": 445,
+      "retweets": 36,
+      "replies": 63,
+      "quotes": 7,
+      "bookmarks": 28,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 445, "retweets": 36, "replies": 63 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604762 },
+    "images": [],
+    "tweetUrl": "https://x.com/zerohedge/status/2036911202253615565",
+    "fullText": "Total US debt: $38.9999 trillion",
+    "createdAt": "Wed Mar 25 21:00:49 +0000 2026",
+    "metrics": {
+      "likes": 249,
+      "retweets": 51,
+      "replies": 48,
+      "quotes": 14,
+      "bookmarks": 7,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 249, "retweets": 51, "replies": 48 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1010334 },
+    "images": [],
+    "tweetUrl": "https://x.com/ianbremmer/status/2036897410665111624",
+    "fullText": "if you’re iran right now, you hear lots of president trump talking about negotiations. while you see him 1) trying his hardest to talk down oil prices, 2) getting ground troops in place for phase two of operations.",
+    "createdAt": "Wed Mar 25 20:06:01 +0000 2026",
+    "metrics": {
+      "likes": 321,
+      "retweets": 57,
+      "replies": 29,
+      "quotes": 3,
+      "bookmarks": 14,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 321, "retweets": 57, "replies": 29 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
+    "images": [],
+    "tweetUrl": "https://x.com/EricTopol/status/2036836694570496015",
+    "fullText": "The AI Scientist, a new @Nature article making the case:\n\"The dawn of a new era in which the process of discovery is no longer a solely human pursuit and in which the pace at which we are able to reap the harvest of scientific discovery could accelerate dramatically.\"",
+    "createdAt": "Wed Mar 25 16:04:45 +0000 2026",
+    "metrics": {
+      "likes": 132,
+      "retweets": 28,
+      "replies": 9,
+      "quotes": 4,
+      "bookmarks": 96,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 74, "retweets": 16, "replies": 5 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "Schuldensuehner", "name": "Holger Zschaepitz", "followersCount": 368043 },
     "images": [],
     "tweetUrl": "https://x.com/Schuldensuehner/status/2036748547563917703",
     "fullText": "Good Morning from Germany, where sentiment among business leaders has deteriorated sharply, casting doubt on the expected economic recovery.\nThe Ifo Business Climate Index fell from 88.4 in February to 86.4 in March, its lowest level since February 2025 – just before the debt https://t.co/H1hGZZxauY",
     "createdAt": "Wed Mar 25 10:14:29 +0000 2026",
     "metrics": {
-      "likes": 172,
-      "retweets": 56,
-      "replies": 22,
+      "likes": 183,
+      "retweets": 59,
+      "replies": 23,
       "quotes": 5,
-      "bookmarks": 9,
+      "bookmarks": 11,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 23, "retweets": 8, "replies": 1 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095561 },
-    "images": [],
-    "tweetUrl": "https://x.com/sentdefender/status/2036852202489217082",
-    "fullText": "According to Reuters, citing sources close to the matter, while Iran has publicly rejected the ceasefire proposal sent by the U.S., they have yet to formally respond to the proposal via key intermediaries like Pakistan, as a senior Pakistani security source has told I24 News that https://t.co/EUxtXdVfrz",
-    "createdAt": "Wed Mar 25 17:06:22 +0000 2026",
-    "metrics": {
-      "likes": 236,
-      "retweets": 45,
-      "replies": 33,
-      "quotes": 1,
-      "bookmarks": 28,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 236, "retweets": 45, "replies": 33 }
+    "growth": { "views": 0, "likes": 11, "retweets": 3, "replies": 1 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1588151 },
-    "images": [],
-    "tweetUrl": "https://x.com/KobeissiLetter/status/2036858358351765942",
-    "fullText": "BREAKING: US oil prices rise back above $90/barrel after Iran rejects President Trump's \"15-point peace plan.\" https://t.co/wvdM3kD24W",
-    "createdAt": "Wed Mar 25 17:30:50 +0000 2026",
-    "metrics": {
-      "likes": 254,
-      "retweets": 39,
-      "replies": 55,
-      "quotes": 7,
-      "bookmarks": 9,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 254, "retweets": 39, "replies": 55 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333866 },
+    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333874 },
     "images": [],
     "tweetUrl": "https://x.com/SantiagoAuFund/status/2036818895886041417",
     "fullText": "RT @IMPERATORAUS: Architecture is theology in form. https://t.co/W1WElYLwiv",
     "createdAt": "Wed Mar 25 14:54:01 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 72,
+      "retweets": 77,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 72, "replies": 0 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1009946 },
-    "images": [],
-    "tweetUrl": "https://x.com/ianbremmer/status/2036839812729102800",
-    "fullText": "bipartisan legislation introduced to ban members of congress, the president, and senior executive branch officials from trading prediction markets.\n\nthe right move and long overdue. we already banned it at eurasia group. https://t.co/Ygsk5ODNWI",
-    "createdAt": "Wed Mar 25 16:17:08 +0000 2026",
-    "metrics": {
-      "likes": 263,
-      "retweets": 49,
-      "replies": 11,
-      "quotes": 1,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 263, "retweets": 49, "replies": 11 }
+    "growth": { "views": 0, "likes": 0, "retweets": 5, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1288717 },
+    "user": { "screenName": "RayDalio", "name": "Ray Dalio", "followersCount": 2043051 },
     "images": [],
-    "tweetUrl": "https://x.com/DeItaone/status/2036849716630077866",
-    "fullText": "UNITED NATIONS (AP) — UN chief urges US and Israel to end Iran war and Tehran to stop attacking Gulf countries, saying 'this has gone too far.'",
-    "createdAt": "Wed Mar 25 16:56:29 +0000 2026",
+    "tweetUrl": "https://x.com/RayDalio/status/2036861173484683511",
+    "fullText": "Whenever there is a dispute, both parties are required to have equal levels of integrity, to be open-minded and assertive, and to be equally considerate. The judges must hold the parties to the same standards and provide feedback consistent with these standards. I have often seen https://t.co/jWLn5ED64P",
+    "createdAt": "Wed Mar 25 17:42:01 +0000 2026",
     "metrics": {
-      "likes": 314,
-      "retweets": 31,
-      "replies": 47,
-      "quotes": 3,
-      "bookmarks": 12,
+      "likes": 214,
+      "retweets": 27,
+      "replies": 32,
+      "quotes": 2,
+      "bookmarks": 34,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 314, "retweets": 31, "replies": 47 }
-  },
-  {
-    "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143286 },
-    "images": [],
-    "tweetUrl": "https://x.com/nntaleb/status/2036501544560931273",
-    "fullText": "RT @SaadMaan15: 100% applies on why the US attacked Iran\n\nThanks Professor @nntaleb https://t.co/3ZHAhwj7iE",
-    "createdAt": "Tue Mar 24 17:52:59 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 65,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 214, "retweets": 27, "replies": 32 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710449 },
-    "images": [],
-    "tweetUrl": "https://x.com/CMEGroup/status/2036458562113638902",
-    "fullText": "RT @business: Bank of Montreal plans to offer tokenized cash services and deposits via CME Group, allowing institutional clients to move mo…",
-    "createdAt": "Tue Mar 24 15:02:11 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 64,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "Schuldensuehner", "name": "Holger Zschaepitz", "followersCount": 368026 },
+    "user": { "screenName": "Schuldensuehner", "name": "Holger Zschaepitz", "followersCount": 368043 },
     "images": [],
     "tweetUrl": "https://x.com/Schuldensuehner/status/2036379190149128572",
     "fullText": "Good Morning from Germany, where private-sector activity is weakening as the Iran war fuels fears of stagflation.\nHowever, a relatively strong rebound in manufacturing has cushioned the decline, leaving the Composite PMI at 51.9, only its lowest level since December, rather than https://t.co/i0Lu6qncYx",
     "createdAt": "Tue Mar 24 09:46:47 +0000 2026",
     "metrics": {
-      "likes": 157,
-      "retweets": 42,
-      "replies": 9,
+      "likes": 159,
+      "retweets": 43,
+      "replies": 8,
       "quotes": 3,
       "bookmarks": 15,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 3, "retweets": 0, "replies": 0 }
-  },
-  {
-    "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
-    "images": [],
-    "tweetUrl": "https://x.com/EricTopol/status/2036545737845252435",
-    "fullText": "VibeGen. When vibe is for vibrational dynamics of proteins, not coding. https://t.co/GeiyspCsiK https://t.co/8Bw3jq1GtV",
-    "createdAt": "Tue Mar 24 20:48:35 +0000 2026",
-    "metrics": {
-      "likes": 110,
-      "retweets": 14,
-      "replies": 2,
-      "quotes": 1,
-      "bookmarks": 56,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 10, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 2, "retweets": 1, "replies": 0 }
   },
   {
     "tags": [ "Crypto", "Tech", "Science" ],
-    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5997562 },
+    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5998544 },
     "images": [],
     "tweetUrl": "https://x.com/VitalikButerin/status/2036701681468035449",
     "fullText": "RT @decentrek: https://t.co/WdW9T061SA",
     "createdAt": "Wed Mar 25 07:08:15 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 48,
+      "retweets": 54,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 14, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 6, "replies": 0 }
   },
   {
     "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095561 },
+    "user": { "screenName": "sentdefender", "name": "OSINTdefender", "followersCount": 2095961 },
     "images": [],
-    "tweetUrl": "https://x.com/sentdefender/status/2036854065687052301",
-    "fullText": "According to the Israel Defense Force, they apprehended a cell commander of the Lebanese Resistance Brigades inside the Mount Dov area. The operation was enabled by a considerable intelligence surveillance effort targeting the group that has close ties to Lebanese Hezbollah. https://t.co/Llh6jQPp5M",
-    "createdAt": "Wed Mar 25 17:13:46 +0000 2026",
+    "tweetUrl": "https://x.com/sentdefender/status/2036904426439672094",
+    "fullText": "According to a release from U.S. Southern Command (SOUTHCOM), SOUTHCOM commander Gen. Francis L. Donovan, directed Joint Task Force Southern Spear to conduct a strike on a vessel operated by a designated terrorist organization operating in known Caribbean trafficking routes. Four https://t.co/HCRT2MGLoT",
+    "createdAt": "Wed Mar 25 20:33:53 +0000 2026",
     "metrics": {
-      "likes": 164,
-      "retweets": 25,
-      "replies": 20,
-      "quotes": 1,
-      "bookmarks": 15,
+      "likes": 260,
+      "retweets": 24,
+      "replies": 30,
+      "quotes": 0,
+      "bookmarks": 19,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 164, "retweets": 25, "replies": 20 }
+    "growth": { "views": 0, "likes": 260, "retweets": 24, "replies": 30 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "DeItaone", "name": "*Walter Bloomberg", "followersCount": 1289745 },
+    "images": [],
+    "tweetUrl": "https://x.com/DeItaone/status/2036907233108185152",
+    "fullText": "U.S. SENATOR WARREN SAYS SHE AND SENATOR BANKS WANT TO FREEZE NVIDIA'S EXPORT LICENSES UNTIL IT TAKES OUR NATIONAL SECURITY 'SERIOUSLY'",
+    "createdAt": "Wed Mar 25 20:45:02 +0000 2026",
+    "metrics": {
+      "likes": 158,
+      "retweets": 18,
+      "replies": 51,
+      "quotes": 8,
+      "bookmarks": 6,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 158, "retweets": 18, "replies": 51 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088553 },
+    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088721 },
     "images": [],
     "tweetUrl": "https://x.com/ylecun/status/2036757740857487442",
     "fullText": "RT @KenRoth: Trump criticized Obama for sending $1.7B  to Tehran as part of a deal to curtail Iran’s nuclear program. Trump ripped up that…",
     "createdAt": "Wed Mar 25 10:51:01 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 43,
+      "retweets": 44,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Economy", "Finance" ],
+    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834967 },
+    "images": [],
+    "tweetUrl": "https://x.com/elerianm/status/2036791074451038428",
+    "fullText": "H/T: LS https://t.co/e2lP8iJBKq",
+    "createdAt": "Wed Mar 25 13:03:28 +0000 2026",
+    "metrics": {
+      "likes": 159,
+      "retweets": 24,
+      "replies": 14,
+      "quotes": 3,
+      "bookmarks": 11,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 18, "retweets": 3, "replies": 0 }
   },
   {
     "tags": [ "Crypto", "Tech", "Science" ],
-    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5997562 },
+    "user": { "screenName": "VitalikButerin", "name": "vitalik.eth", "followersCount": 5998544 },
     "images": [],
     "tweetUrl": "https://x.com/VitalikButerin/status/2036255733474361605",
     "fullText": "RT @Kleros_io: 🍿 Can you scale a movie critic?\n\nThat's the question behind Kleros Foresight's first experiment. 16 movies, 1 judge: Kleros…",
@@ -1051,62 +1068,96 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
-  },
-  {
-    "tags": [ "Economy", "Finance" ],
-    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834829 },
-    "images": [],
-    "tweetUrl": "https://x.com/elerianm/status/2036791074451038428",
-    "fullText": "H/T: LS https://t.co/e2lP8iJBKq",
-    "createdAt": "Wed Mar 25 13:03:28 +0000 2026",
-    "metrics": {
-      "likes": 141,
-      "retweets": 21,
-      "replies": 14,
-      "quotes": 2,
-      "bookmarks": 11,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 61, "retweets": 5, "replies": 6 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Politics" ],
-    "user": { "screenName": "paulg", "name": "Paul Graham", "followersCount": 2365996 },
-    "images": [],
-    "tweetUrl": "https://x.com/paulg/status/2036850752962891993",
-    "fullText": "The thing that will make a VC want to fund you is not how well you match their (claimed) investment thesis. It's the same thing that will make every other VC want to fund you: how well you're doing.",
-    "createdAt": "Wed Mar 25 17:00:37 +0000 2026",
-    "metrics": {
-      "likes": 102,
-      "retweets": 8,
-      "replies": 32,
-      "quotes": 3,
-      "bookmarks": 30,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 102, "retweets": 8, "replies": 32 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
     "images": [],
-    "tweetUrl": "https://x.com/EricTopol/status/2036836694570496015",
-    "fullText": "The AI Scientist, a new @Nature article making the case:\n\"The dawn of a new era in which the process of discovery is no longer a solely human pursuit and in which the pace at which we are able to reap the harvest of scientific discovery could accelerate dramatically.\"",
-    "createdAt": "Wed Mar 25 16:04:45 +0000 2026",
+    "tweetUrl": "https://x.com/EricTopol/status/2036826134177030289",
+    "fullText": "How good is AI for diagnosing melanoma?\nA systematic review of 11 studies, 2500 patients, finds accuracy and performance comparable to 50 dermatologists, with promise for broad use requiring further validation @JAMADerm \nThis is important with the big shortage of dermatologists https://t.co/Wnz5LBIgNs",
+    "createdAt": "Wed Mar 25 15:22:47 +0000 2026",
     "metrics": {
-      "likes": 58,
-      "retweets": 12,
+      "likes": 83,
+      "retweets": 23,
       "replies": 4,
-      "quotes": 3,
-      "bookmarks": 37,
+      "quotes": 1,
+      "bookmarks": 23,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 58, "retweets": 12, "replies": 4 }
+    "growth": { "views": 0, "likes": 32, "retweets": 10, "replies": 3 }
+  },
+  {
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143269 },
+    "images": [],
+    "tweetUrl": "https://x.com/nntaleb/status/2036869166032998849",
+    "fullText": "Hello @Grok mon ami, which African Islamic cultures have such names as \"Yatloghto\"?",
+    "createdAt": "Wed Mar 25 18:13:47 +0000 2026",
+    "metrics": {
+      "likes": 76,
+      "retweets": 5,
+      "replies": 11,
+      "quotes": 0,
+      "bookmarks": 56,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 76, "retweets": 5, "replies": 11 }
+  },
+  {
+    "tags": [ "Economy", "Finance" ],
+    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834967 },
+    "images": [],
+    "tweetUrl": "https://x.com/elerianm/status/2036888732477878442",
+    "fullText": "This volatile oil price remains at the mercy of a flood of (often-contradictory) headlines emanating from the three warring parties — US, Iran, and Israel.\n#economy #oil #markets #energy #middleeastwar https://t.co/mSByMCjAii",
+    "createdAt": "Wed Mar 25 19:31:32 +0000 2026",
+    "metrics": {
+      "likes": 104,
+      "retweets": 24,
+      "replies": 20,
+      "quotes": 0,
+      "bookmarks": 8,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 104, "retweets": 24, "replies": 20 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
+    "images": [],
+    "tweetUrl": "https://x.com/EricTopol/status/2036817337366802666",
+    "fullText": "Steady progress towards engineering immune cells in the body now for refractory myeloma , with major implications for many autoimmune diseases and cancers\nhttps://t.co/ESnREALD4h\nhttps://t.co/uSUGFpeetr https://t.co/7qdBIDKirv",
+    "createdAt": "Wed Mar 25 14:47:50 +0000 2026",
+    "metrics": {
+      "likes": 76,
+      "retweets": 22,
+      "replies": 6,
+      "quotes": 0,
+      "bookmarks": 19,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 22, "retweets": 6, "replies": 3 }
+  },
+  {
+    "tags": [ "Economy", "Finance" ],
+    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834967 },
+    "images": [],
+    "tweetUrl": "https://x.com/elerianm/status/2036877585481642120",
+    "fullText": "This simple fact from The New York Times explains why many Asian nations are taking measures to lower energy use ahead of possible supply shortages.\nSeveral countries are adopting one or more of the following  measures:\nNudging citizens to reduce consumption, \nImposing usage https://t.co/H6heX5w1qw",
+    "createdAt": "Wed Mar 25 18:47:14 +0000 2026",
+    "metrics": {
+      "likes": 107,
+      "retweets": 21,
+      "replies": 7,
+      "quotes": 1,
+      "bookmarks": 10,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 107, "retweets": 21, "replies": 7 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538096 },
+    "user": { "screenName": "sama", "name": "Sam Altman", "followersCount": 4538788 },
     "images": [],
     "tweetUrl": "https://x.com/sama/status/2036558551825653810",
     "fullText": "RT @nanransohoff: The new OpenAI nonprofit just announced that it aims to spend $1B in its *first year\" and will be led by two superb human…",
@@ -1119,11 +1170,11 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
     "images": [],
     "tweetUrl": "https://x.com/EricTopol/status/2036616135693754688",
     "fullText": "RT @ShengLiu_: 🚀Introducing Cerebra: A Multidisciplinary AI Board for dementia\n\n🧠 The need for dementia care is rapidly evolving. But the w…",
@@ -1136,79 +1187,45 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
+    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389527 },
     "images": [],
-    "tweetUrl": "https://x.com/EricTopol/status/2036817337366802666",
-    "fullText": "Steady progress towards engineering immune cells in the body now for refractory myeloma , with major implications for many autoimmune diseases and cancers\nhttps://t.co/ESnREALD4h\nhttps://t.co/uSUGFpeetr https://t.co/7qdBIDKirv",
-    "createdAt": "Wed Mar 25 14:47:50 +0000 2026",
+    "tweetUrl": "https://x.com/balajis/status/2036821675938074767",
+    "fullText": "RT @a16z: Balaji Srinivasan on taking the L to set up for the W:\n\n\"Before Satya Nadella took over Microsoft, it was losing on mobile to iOS…",
+    "createdAt": "Wed Mar 25 15:05:04 +0000 2026",
     "metrics": {
-      "likes": 54,
-      "retweets": 16,
-      "replies": 3,
+      "likes": 0,
+      "retweets": 25,
+      "replies": 0,
       "quotes": 0,
-      "bookmarks": 13,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 54, "retweets": 16, "replies": 3 }
-  },
-  {
-    "tags": [ "Economy", "Finance" ],
-    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834829 },
-    "images": [],
-    "tweetUrl": "https://x.com/elerianm/status/2036770841787072872",
-    "fullText": "Released this morning, the UK’s February inflation figures mirror recent data from the US and elsewhere: inflation remained sticky even before the adverse impact of the Middle East conflict.\nSpecifically, UK headline inflation held at 3% in February—unchanged from January and in https://t.co/P6VEZSqZBS",
-    "createdAt": "Wed Mar 25 11:43:04 +0000 2026",
-    "metrics": {
-      "likes": 75,
-      "retweets": 17,
-      "replies": 12,
-      "quotes": 0,
-      "bookmarks": 4,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 25, "retweets": 8, "replies": 0 }
-  },
-  {
-    "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
-    "images": [],
-    "tweetUrl": "https://x.com/EricTopol/status/2036826134177030289",
-    "fullText": "How good is AI for diagnosing melanoma?\nA systematic review of 11 studies, 2500 patients, finds accuracy and performance comparable to 50 dermatologists, with promise for broad use requiring further validation @JAMADerm \nThis is important with the big shortage of dermatologists https://t.co/Wnz5LBIgNs",
-    "createdAt": "Wed Mar 25 15:22:47 +0000 2026",
-    "metrics": {
-      "likes": 51,
-      "retweets": 13,
-      "replies": 1,
-      "quotes": 1,
-      "bookmarks": 13,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 51, "retweets": 13, "replies": 1 }
+    "growth": { "views": 0, "likes": 0, "retweets": 8, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "GoldmanSachs", "name": "Goldman Sachs", "followersCount": 1122805 },
+    "user": { "screenName": "GoldmanSachs", "name": "Goldman Sachs", "followersCount": 1122827 },
     "images": [],
     "tweetUrl": "https://x.com/GoldmanSachs/status/2036479142451900607",
     "fullText": "US hyperscalers have captured much of the attention when it comes to AI. However, European companies may have an edge in AI application development, according to Goldman Sachs Global Banking &amp; Markets. \n\nRead more from our Disruptive Technology Symposium: https://t.co/Ma6g2ehDwt",
     "createdAt": "Tue Mar 24 16:23:58 +0000 2026",
     "metrics": {
-      "likes": 57,
+      "likes": 58,
       "retweets": 10,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 18,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 5, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 0 }
   },
   {
     "tags": [ "Economy", "Politics" ],
-    "user": { "screenName": "IMFNews", "name": "IMF", "followersCount": 2486645 },
+    "user": { "screenName": "IMFNews", "name": "IMF", "followersCount": 2487334 },
     "images": [],
     "tweetUrl": "https://x.com/IMFNews/status/2036410508828615130",
     "fullText": "Global economics at your fingertips, from the source policymakers trust.\n \nNew &amp; Noteworthy is our free newsletter bringing you the latest research and analysis on the issues shaping the world economy, straight to your inbox. \n \nStay informed. Stay confident. \n\nSubscribe: https://t.co/Ej3CMt6lUk",
@@ -1216,105 +1233,71 @@
     "metrics": {
       "likes": 52,
       "retweets": 14,
-      "replies": 9,
+      "replies": 10,
       "quotes": 2,
       "bookmarks": 4,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 1 }
   },
   {
-    "tags": [ "Economy", "Finance" ],
-    "user": { "screenName": "elerianm", "name": "Mohamed A. El-Erian", "followersCount": 834829 },
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143269 },
     "images": [],
-    "tweetUrl": "https://x.com/elerianm/status/2036776204083028316",
-    "fullText": "Excellent policy framing (below) from ECB President Christine Lagarde in her speech today.\n(The link to the speech:\nhttps://t.co/XYWI6YZILa )\n#economy #markets #centralbanks @ecb @Lagarde https://t.co/0Fg2vmZToR",
-    "createdAt": "Wed Mar 25 12:04:23 +0000 2026",
-    "metrics": {
-      "likes": 34,
-      "retweets": 8,
-      "replies": 6,
-      "quotes": 0,
-      "bookmarks": 16,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 9, "retweets": 3, "replies": 1 }
-  },
-  {
-    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "screenName": "PeterSchiff", "name": "Peter Schiff", "followersCount": 1358353 },
-    "images": [],
-    "tweetUrl": "https://x.com/PeterSchiff/status/2036814672083452247",
-    "fullText": "RT @SchiffGold: Oil spikes can push gold down short term by strengthening the dollar - but rising energy costs and instability still point…",
-    "createdAt": "Wed Mar 25 14:37:14 +0000 2026",
+    "tweetUrl": "https://x.com/nntaleb/status/2036852589610836317",
+    "fullText": "RT @muratkaryan: genetic heatmap for 1) Nabataean sample and 2) Roman Judea sample\n\n(yes they are quite similar) https://t.co/U0IgwyKpPH",
+    "createdAt": "Wed Mar 25 17:07:54 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 18,
+      "retweets": 14,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 18, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
-    "user": { "screenName": "balajis", "name": "Balaji", "followersCount": 1389203 },
-    "images": [],
-    "tweetUrl": "https://x.com/balajis/status/2036821675938074767",
-    "fullText": "RT @a16z: Balaji Srinivasan on taking the L to set up for the W:\n\n\"Before Satya Nadella took over Microsoft, it was losing on mobile to iOS…",
-    "createdAt": "Wed Mar 25 15:05:04 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 17,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 17, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604354 },
-    "images": [],
-    "tweetUrl": "https://x.com/zerohedge/status/2036856918979862787",
-    "fullText": "Meet The Stupidest Spring-Breakers In America: \"Who The F**k Is Ayatollah?\" https://t.co/a7rsN5IGC9",
-    "createdAt": "Wed Mar 25 17:25:07 +0000 2026",
-    "metrics": {
-      "likes": 62,
-      "retweets": 5,
-      "replies": 23,
-      "quotes": 0,
-      "bookmarks": 8,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 62, "retweets": 5, "replies": 23 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1009946 },
-    "images": [],
-    "tweetUrl": "https://x.com/ianbremmer/status/2036850066300756102",
-    "fullText": "talked to @vicenews about how success in venezuela and trump’s previous attacks on iran led to this war.\nhttps://t.co/QxugO86XQ5",
-    "createdAt": "Wed Mar 25 16:57:53 +0000 2026",
-    "metrics": {
-      "likes": 43,
-      "retweets": 6,
-      "replies": 7,
-      "quotes": 0,
-      "bookmarks": 12,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 43, "retweets": 6, "replies": 7 }
+    "growth": { "views": 0, "likes": 0, "retweets": 9, "replies": 0 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088553 },
+    "user": { "screenName": "ylecun", "name": "Yann LeCun", "followersCount": 1088721 },
     "images": [],
     "tweetUrl": "https://x.com/ylecun/status/2036766492478361937",
     "fullText": "RT @Dan_Jeffries1: We wrote the open source playbook and then abandoned it. \n\nStupid.\n\nBut we'll figure out open source is the way again.…",
     "createdAt": "Wed Mar 25 11:25:47 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 14,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "screenName": "paulg", "name": "Paul Graham", "followersCount": 2366909 },
+    "images": [],
+    "tweetUrl": "https://x.com/paulg/status/2036907742573494373",
+    "fullText": "I now get so many AI-generated replies that it's just too much work to report them for spam and block them, so I'm downshifting to muting.",
+    "createdAt": "Wed Mar 25 20:47:04 +0000 2026",
+    "metrics": {
+      "likes": 66,
+      "retweets": 1,
+      "replies": 31,
+      "quotes": 0,
+      "bookmarks": 5,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 66, "retweets": 1, "replies": 31 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710462 },
+    "images": [],
+    "tweetUrl": "https://x.com/CMEGroup/status/2036880316824969311",
+    "fullText": "RT @Interest_Rates: The last 30 days has been the most actively traded period in STIR futures history.\n\n#SOFR futures and options volume ha…",
+    "createdAt": "Wed Mar 25 18:58:05 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 12,
@@ -1323,79 +1306,249 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 12, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604354 },
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1010334 },
     "images": [],
-    "tweetUrl": "https://x.com/zerohedge/status/2036859238555779211",
-    "fullText": "\"Iran is being less strident in private discussions to end the war than it is in public, Arab mediators and other people familiar with the matter said, giving them hope the diplomatic effort they are trying to spark isn’t dead on arrival.\" - WSJ",
-    "createdAt": "Wed Mar 25 17:34:20 +0000 2026",
+    "tweetUrl": "https://x.com/ianbremmer/status/2036906491861500180",
+    "fullText": "ground troops in the gulf\na red line for trump supporters.\neverything else? up for debate.\n@gzeromedia \nhttps://t.co/ZLBD5pg4Bm",
+    "createdAt": "Wed Mar 25 20:42:06 +0000 2026",
     "metrics": {
-      "likes": 31,
-      "retweets": 4,
-      "replies": 9,
+      "likes": 34,
+      "retweets": 6,
+      "replies": 8,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 4,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 31, "retweets": 4, "replies": 9 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950781 },
-    "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036850660352618750",
-    "fullText": "Robert “Madyar” Brovdi’s drone unit has an ecosystem of 15 interlocking functions, from jamming to surveillance, mine-laying and explosive production. It is a concept NATO generals have yet to grasp, says the Ukrainian commander https://t.co/ss8AfJYEiX",
-    "createdAt": "Wed Mar 25 17:00:14 +0000 2026",
-    "metrics": {
-      "likes": 27,
-      "retweets": 4,
-      "replies": 1,
-      "quotes": 1,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 27, "retweets": 4, "replies": 1 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142833 },
-    "images": [],
-    "tweetUrl": "https://x.com/Convertbond/status/2036602954686329061",
-    "fullText": "The mag7 pumpers are getting nervous - NO where near enough power to support the clueless growth assumptions???",
-    "createdAt": "Wed Mar 25 00:35:57 +0000 2026",
-    "metrics": {
-      "likes": 32,
-      "retweets": 3,
-      "replies": 2,
-      "quotes": 0,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 34, "retweets": 6, "replies": 8 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
     "images": [],
     "tweetUrl": "https://x.com/EricTopol/status/2036838825079771586",
     "fullText": "A 2-edged sword: an immune response vs cancer but autoimmune adverse brain effects, the pleitropy of anti-NMDA antibodies\nhttps://t.co/Ik78AD7NQK",
     "createdAt": "Wed Mar 25 16:13:13 +0000 2026",
     "metrics": {
-      "likes": 19,
-      "retweets": 2,
+      "likes": 29,
+      "retweets": 5,
       "replies": 3,
+      "quotes": 0,
+      "bookmarks": 8,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 10, "retweets": 3, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142843 },
+    "images": [],
+    "tweetUrl": "https://x.com/Convertbond/status/2036887487675576667",
+    "fullText": "Too many monkeys in the tree…",
+    "createdAt": "Wed Mar 25 19:26:35 +0000 2026",
+    "metrics": {
+      "likes": 37,
+      "retweets": 4,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 7,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 37, "retweets": 4, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "fchollet", "name": "François Chollet", "followersCount": 625403 },
+    "images": [],
+    "tweetUrl": "https://x.com/fchollet/status/2036889580084101324",
+    "fullText": "RT @bradenjhancock: An alien species with zero knowledge of human language could ace ARC-AGI-3 on day 1, and I think that's beautiful. \n\nAt…",
+    "createdAt": "Wed Mar 25 19:34:54 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 10,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 10, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "fchollet", "name": "François Chollet", "followersCount": 625403 },
+    "images": [],
+    "tweetUrl": "https://x.com/fchollet/status/2036888638899052912",
+    "fullText": "RT @mark_k: ARC-AGI 3 is here, and all existing AI models are below 1% on the benchmark. It's gonna take a while until this one is saturate…",
+    "createdAt": "Wed Mar 25 19:31:09 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 10,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 10, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333874 },
+    "images": [],
+    "tweetUrl": "https://x.com/SantiagoAuFund/status/2036904305643458983",
+    "fullText": "RT @Fact: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.",
+    "createdAt": "Wed Mar 25 20:33:24 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 9,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 9, "replies": 0 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
+    "images": [],
+    "tweetUrl": "https://x.com/EricTopol/status/2036873102404313481",
+    "fullText": "Rethinking why the pancreas β-cells become vulnerable to autoimmune attack, leading to Type 1 diabetes. An illuminating review with ideas to counter β-cell stress \n@ScienceTM\nhttps://t.co/zn6a6wEg7u https://t.co/BV0LYnWRNL",
+    "createdAt": "Wed Mar 25 18:29:25 +0000 2026",
+    "metrics": {
+      "likes": 36,
+      "retweets": 3,
+      "replies": 4,
       "quotes": 0,
       "bookmarks": 5,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 19, "retweets": 2, "replies": 3 }
+    "growth": { "views": 0, "likes": 36, "retweets": 3, "replies": 4 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566223 },
+    "images": [],
+    "tweetUrl": "https://x.com/CFR_org/status/2036844988617601103",
+    "fullText": "“American voters need to look at our military and have confidence that, regardless of who they voted for for president, that our military works for us. If our military starts being viewed as being more closely aligned with one particular political party, that is going to be a https://t.co/aW1sRdAvAG",
+    "createdAt": "Wed Mar 25 16:37:42 +0000 2026",
+    "metrics": {
+      "likes": 8,
+      "retweets": 5,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 2,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3, "retweets": 2, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Tech" ],
+    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279510 },
+    "images": [],
+    "tweetUrl": "https://x.com/defense_news/status/2036805062282952932",
+    "fullText": "The seeker deal aligns with an agreement in January between the Pentagon and Lockheed to up the annual production of THAAD interceptors from 96 to 400. https://t.co/VIM0GjxB7b",
+    "createdAt": "Wed Mar 25 13:59:03 +0000 2026",
+    "metrics": {
+      "likes": 16,
+      "retweets": 5,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 3,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3, "retweets": 2, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "fchollet", "name": "François Chollet", "followersCount": 625403 },
+    "images": [],
+    "tweetUrl": "https://x.com/fchollet/status/2036897242536435987",
+    "fullText": "RT @ChrisRytting: ARC AGI has been beating the drum of adaptive (and hopefully sample-efficient!) reasoning for 7 years now (I first read “…",
+    "createdAt": "Wed Mar 25 20:05:20 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 7,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 7, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566223 },
+    "images": [],
+    "tweetUrl": "https://x.com/CFR_org/status/2036882820354740265",
+    "fullText": ".@scmallaby’s nomadic childhood sparked a lifelong fascination with international affairs. He launched his journalism career at the Economist, which took him to Africa, Asia, and the United States, before joining the Washington Post as a columnist and member of the paper’s",
+    "createdAt": "Wed Mar 25 19:08:02 +0000 2026",
+    "metrics": {
+      "likes": 6,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 6,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 6, "retweets": 3, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Tech" ],
+    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279510 },
+    "images": [],
+    "tweetUrl": "https://x.com/defense_news/status/2036875791162569105",
+    "fullText": "The Turkish air force eventually wants to perform its own depot-level maintenance of the airframes, engines and other on-board equipment in Turkey. https://t.co/Jo99UME21l",
+    "createdAt": "Wed Mar 25 18:40:06 +0000 2026",
+    "metrics": {
+      "likes": 16,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 5,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 16, "retweets": 3, "replies": 0 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729344 },
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
+    "images": [],
+    "tweetUrl": "https://x.com/EricTopol/status/2036912500311249203",
+    "fullText": "\"We health professionals must call urgent attention to this silent but deadly assault  [EPA dismantling ] on American's health....\"\n@NEJM \nhttps://t.co/FJYbZh5O1m https://t.co/hajEmMWHTs",
+    "createdAt": "Wed Mar 25 21:05:58 +0000 2026",
+    "metrics": {
+      "likes": 15,
+      "retweets": 5,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 15, "retweets": 5, "replies": 2 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Crypto" ],
+    "user": { "screenName": "LynAldenContact", "name": "Lyn Alden", "followersCount": 894781 },
+    "images": [],
+    "tweetUrl": "https://x.com/LynAldenContact/status/2036894131411116519",
+    "fullText": "RT @TrungTPhan: Warner Bros has “use or lose it” rights to Lord of the Rings IP. Terms aren’t public but always has to be some level of dev…",
+    "createdAt": "Wed Mar 25 19:52:59 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 6,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 6, "replies": 0 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "screenName": "EricTopol", "name": "Eric Topol", "followersCount": 729390 },
     "images": [],
     "tweetUrl": "https://x.com/EricTopol/status/2036821866388885893",
     "fullText": "RT @RockportAI: @AlexBarba @EricTopol CAR-T therapy costs hundreds of thousands of dollars and takes weeks to manufacture. This phase 1 tri…",
@@ -1408,164 +1561,130 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 6, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics", "Tech" ],
-    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279474 },
+    "tags": [ "Politics", "Economy", "Science" ],
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951238 },
     "images": [],
-    "tweetUrl": "https://x.com/defense_news/status/2036778138940637288",
-    "fullText": "Taking cues from combat operations in Ukraine, the German army wants to exploit battlefield data to predict the dynamics of future conflicts. https://t.co/CuQNSuIzZN",
-    "createdAt": "Wed Mar 25 12:12:04 +0000 2026",
+    "tweetUrl": "https://x.com/TheEconomist/status/2036911234595909915",
+    "fullText": "Millions of girls were aborted for being girls. Now parents often lean towards them  https://t.co/nEkjQl4iHy",
+    "createdAt": "Wed Mar 25 21:00:56 +0000 2026",
     "metrics": {
-      "likes": 6,
-      "retweets": 5,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 1,
+      "likes": 3,
+      "retweets": 3,
+      "replies": 3,
+      "quotes": 1,
+      "bookmarks": 2,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 3, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 3, "retweets": 3, "replies": 3 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142833 },
+    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142843 },
     "images": [],
     "tweetUrl": "https://x.com/Convertbond/status/2036809901842776194",
     "fullText": "An outstanding catch up today with @APompliano - portfolio construction over the next decade has taken a sharp turn, join us soon, details to come. https://t.co/QShJKvrcKn",
     "createdAt": "Wed Mar 25 14:18:17 +0000 2026",
     "metrics": {
-      "likes": 13,
+      "likes": 14,
       "retweets": 2,
       "replies": 4,
       "quotes": 2,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 13, "retweets": 2, "replies": 4 }
+    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics", "Tech" ],
-    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279474 },
+    "tags": [ "Politics", "Economy", "Science" ],
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951238 },
     "images": [],
-    "tweetUrl": "https://x.com/defense_news/status/2036805062282952932",
-    "fullText": "The seeker deal aligns with an agreement in January between the Pentagon and Lockheed to up the annual production of THAAD interceptors from 96 to 400. https://t.co/VIM0GjxB7b",
-    "createdAt": "Wed Mar 25 13:59:03 +0000 2026",
+    "tweetUrl": "https://x.com/TheEconomist/status/2036905981041431021",
+    "fullText": "The share of inactive young people in Britain who cite ill health has nearly tripled over the past two decades. This complexity means youth unemployment cannot be solved simply https://t.co/KHxuFMFol4",
+    "createdAt": "Wed Mar 25 20:40:04 +0000 2026",
     "metrics": {
-      "likes": 13,
-      "retweets": 3,
-      "replies": 0,
+      "likes": 10,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "bookmarks": 3,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 10, "retweets": 1, "replies": 6 }
+  },
+  {
+    "tags": [ "Economy", "Politics" ],
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951211 },
+    "images": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2036905981041431021",
+    "fullText": "The share of inactive young people in Britain who cite ill health has nearly tripled over the past two decades. This complexity means youth unemployment cannot be solved simply https://t.co/KHxuFMFol4",
+    "createdAt": "Wed Mar 25 20:40:04 +0000 2026",
+    "metrics": {
+      "likes": 9,
+      "retweets": 1,
+      "replies": 6,
+      "quotes": 1,
+      "bookmarks": 3,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 9, "retweets": 1, "replies": 6 }
+  },
+  {
+    "tags": [ "Economy", "Politics" ],
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951211 },
+    "images": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2036900944101654929",
+    "fullText": "The longest-lasting economic consequence of war in the Middle East could be to compound the rich world’s fiscal woes https://t.co/zb4RHgHAxP",
+    "createdAt": "Wed Mar 25 20:20:03 +0000 2026",
+    "metrics": {
+      "likes": 8,
+      "retweets": 2,
+      "replies": 4,
       "quotes": 0,
       "bookmarks": 3,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 12, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 8, "retweets": 2, "replies": 4 }
   },
   {
     "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950781 },
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951238 },
     "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036851924482306529",
-    "fullText": "The evolutionary tale of Europe’s dogs is becoming clearer https://t.co/j6jgE1PCqJ",
-    "createdAt": "Wed Mar 25 17:05:16 +0000 2026",
+    "tweetUrl": "https://x.com/TheEconomist/status/2036900944101654929",
+    "fullText": "The longest-lasting economic consequence of war in the Middle East could be to compound the rich world’s fiscal woes https://t.co/zb4RHgHAxP",
+    "createdAt": "Wed Mar 25 20:20:03 +0000 2026",
     "metrics": {
-      "likes": 6,
+      "likes": 8,
       "retweets": 2,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 4,
+      "bookmarks": 3,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 6, "retweets": 2, "replies": 4 }
-  },
-  {
-    "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "screenName": "nntaleb", "name": "Nassim Nicholas Taleb", "followersCount": 1143286 },
-    "images": [],
-    "tweetUrl": "https://x.com/nntaleb/status/2036852589610836317",
-    "fullText": "RT @muratkaryan: genetic heatmap for 1) Nabataean sample and 2) Roman Judea sample\n\n(yes they are quite similar) https://t.co/U0IgwyKpPH",
-    "createdAt": "Wed Mar 25 17:07:54 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 5,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 5, "replies": 0 }
+    "growth": { "views": 0, "likes": 8, "retweets": 2, "replies": 4 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "KobeissiLetter", "name": "The Kobeissi Letter", "followersCount": 1588151 },
+    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333874 },
     "images": [],
-    "tweetUrl": "https://x.com/KobeissiLetter/status/2036847707738779648",
-    "fullText": "RT @TKL_Adam: As the Iran War nears its one-month mark, I will be joining Charles Payne, @cvpayne, on Fox Business today at 2:25 PM ET.\n\nOu…",
-    "createdAt": "Wed Mar 25 16:48:30 +0000 2026",
+    "tweetUrl": "https://x.com/SantiagoAuFund/status/2036887034346799610",
+    "fullText": "RT @alexejjordanov: Will stablecoins replace the need for the Federal Reserve?\n\nIt was a pleasure to meet in person Brent Milkshake @Santia…",
+    "createdAt": "Wed Mar 25 19:24:47 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 5,
+      "retweets": 4,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 5, "replies": 0 }
-  },
-  {
-    "tags": [ "Economy", "Politics" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950730 },
-    "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036850660352618750",
-    "fullText": "Robert “Madyar” Brovdi’s drone unit has an ecosystem of 15 interlocking functions, from jamming to surveillance, mine-laying and explosive production. It is a concept NATO generals have yet to grasp, says the Ukrainian commander https://t.co/ss8AfJYEiX",
-    "createdAt": "Wed Mar 25 17:00:14 +0000 2026",
-    "metrics": {
-      "likes": 16,
-      "retweets": 2,
-      "replies": 0,
-      "quotes": 1,
-      "bookmarks": 2,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 16, "retweets": 2, "replies": 0 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Tech" ],
-    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279474 },
-    "images": [],
-    "tweetUrl": "https://x.com/defense_news/status/2036596447508844978",
-    "fullText": "Indra signed a binding agreement with Hanwha to produce 280 tracked vehicles based on the South Korean company’s K9 155mm self-propelled howitzer. https://t.co/A8jcKHcOLh",
-    "createdAt": "Wed Mar 25 00:10:05 +0000 2026",
-    "metrics": {
-      "likes": 11,
-      "retweets": 3,
-      "replies": 1,
-      "quotes": 0,
-      "bookmarks": 1,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1, "retweets": 1, "replies": 1 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566189 },
-    "images": [],
-    "tweetUrl": "https://x.com/CFR_org/status/2036844988617601103",
-    "fullText": "“American voters need to look at our military and have confidence that, regardless of who they voted for for president, that our military works for us. If our military starts being viewed as being more closely aligned with one particular political party, that is going to be a https://t.co/aW1sRdAvAG",
-    "createdAt": "Wed Mar 25 16:37:42 +0000 2026",
-    "metrics": {
-      "likes": 5,
-      "retweets": 3,
-      "replies": 0,
-      "quotes": 1,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 5, "retweets": 3, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 4, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710449 },
+    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710462 },
     "images": [],
     "tweetUrl": "https://x.com/CMEGroup/status/2036537417163833817",
     "fullText": "RT @CMEPredictMkts: More than 13M predictions for postseason college hoops have traded at @CMEGroup through @FanDuelPredicts and @DKPredict…",
@@ -1581,97 +1700,80 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566189 },
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9892415 },
     "images": [],
-    "tweetUrl": "https://x.com/CFR_org/status/2036793625816785011",
-    "fullText": "“I would like to return to a place where government news entities are driving a stake through the heart of dictatorial regimes like North Korea, like Iran,” says Sebastian Gorka, deputy assistant to the president and senior director for counterterrorism at the National Security https://t.co/jhWIkprkxq",
-    "createdAt": "Wed Mar 25 13:13:36 +0000 2026",
+    "tweetUrl": "https://x.com/business/status/2036911881940508797",
+    "fullText": "Fed Governor Stephen Miran says he moved up his projection for where rates should end the year by half a percentage point in response to disappointing inflation data since officials last issued forecasts in December https://t.co/uE3JZ5c00O",
+    "createdAt": "Wed Mar 25 21:03:31 +0000 2026",
     "metrics": {
-      "likes": 3,
-      "retweets": 1,
-      "replies": 4,
-      "quotes": 1,
+      "likes": 7,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0,
       "bookmarks": 1,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 7, "retweets": 2, "replies": 3 }
   },
   {
-    "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950781 },
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "fchollet", "name": "François Chollet", "followersCount": 625403 },
     "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036855646352539818",
-    "fullText": "Concerns about Islamophobia are a factor in this expansion. Reported hate crimes against Muslims have risen in Canada in recent years. State-schools are responding to the critique https://t.co/D5U0N5W2gN",
-    "createdAt": "Wed Mar 25 17:20:03 +0000 2026",
+    "tweetUrl": "https://x.com/fchollet/status/2036889189904757174",
+    "fullText": "RT @inkycat: These games are amazingly fun to play and very creative! props to the team and super excited to get working on arc-agi-3",
+    "createdAt": "Wed Mar 25 19:33:21 +0000 2026",
     "metrics": {
-      "likes": 9,
-      "retweets": 1,
-      "replies": 5,
+      "likes": 0,
+      "retweets": 3,
+      "replies": 0,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 9, "retweets": 1, "replies": 5 }
+    "growth": { "views": 0, "likes": 0, "retweets": 3, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566223 },
+    "images": [],
+    "tweetUrl": "https://x.com/CFR_org/status/2036866071760629832",
+    "fullText": "“If you follow trust from like East to West, you can march right down and look at emerging economies that are either autocracies or nonelected officials all the way through Western democracy, and Western democracy is at the bottom of trust,” says Aaron Guiterman, chair of U.S. https://t.co/X9t3sosN7x",
+    "createdAt": "Wed Mar 25 18:01:29 +0000 2026",
+    "metrics": {
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 3,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3, "retweets": 1, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142833 },
+    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710462 },
     "images": [],
-    "tweetUrl": "https://x.com/Convertbond/status/2036546985222615251",
-    "fullText": "Slime city, very stinky, no? \n\n(2)",
-    "createdAt": "Tue Mar 24 20:53:33 +0000 2026",
+    "tweetUrl": "https://x.com/CMEGroup/status/2036805299923718390",
+    "fullText": "The Energy Box Spread on CME Direct lets you execute all four legs of a crack spread in a single click. No slippage, no leg risk - just efficient execution. #OOTT https://t.co/o9h3j4mjn8",
+    "createdAt": "Wed Mar 25 14:00:00 +0000 2026",
     "metrics": {
-      "likes": 20,
+      "likes": 11,
       "retweets": 1,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 1,
       "views": 0
     },
     "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Economy", "Politics" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950730 },
+    "tags": [ "Tech", "Science" ],
+    "user": { "screenName": "fchollet", "name": "François Chollet", "followersCount": 625403 },
     "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036851924482306529",
-    "fullText": "The evolutionary tale of Europe’s dogs is becoming clearer https://t.co/j6jgE1PCqJ",
-    "createdAt": "Wed Mar 25 17:05:16 +0000 2026",
-    "metrics": {
-      "likes": 4,
-      "retweets": 1,
-      "replies": 4,
-      "quotes": 0,
-      "bookmarks": 2,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 4, "retweets": 1, "replies": 4 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "screenName": "zerohedge", "name": "zerohedge", "followersCount": 2604354 },
-    "images": [],
-    "tweetUrl": "https://x.com/zerohedge/status/2036859098377904245",
-    "fullText": "ITALY SAID TO PLAN CUTTING GROWTH FORECAST TO AS LOW AS 0.5%",
-    "createdAt": "Wed Mar 25 17:33:46 +0000 2026",
-    "metrics": {
-      "likes": 16,
-      "retweets": 1,
-      "replies": 6,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 16, "retweets": 1, "replies": 6 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "SantiagoAuFund", "name": "Santiago Capital", "followersCount": 333866 },
-    "images": [],
-    "tweetUrl": "https://x.com/SantiagoAuFund/status/2036817645912162315",
-    "fullText": "RT @Richard_Casey: Safe haven for 2 weeks🙄after massively underperforming other EM bond markets last year. Foreigners been net sellers of C…",
-    "createdAt": "Wed Mar 25 14:49:03 +0000 2026",
+    "tweetUrl": "https://x.com/fchollet/status/2036908638028390918",
+    "fullText": "RT @mikeknoop: One killer feature of ARC-AGI-3 is hosted replays for analysis. We published replays for all verified scores (seen below). A…",
+    "createdAt": "Wed Mar 25 20:50:37 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 2,
@@ -1683,42 +1785,76 @@
     "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "CMEGroup", "name": "CME Group", "followersCount": 710449 },
+    "tags": [ "Economy", "Politics" ],
+    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25951211 },
     "images": [],
-    "tweetUrl": "https://x.com/CMEGroup/status/2036805299923718390",
-    "fullText": "The Energy Box Spread on CME Direct lets you execute all four legs of a crack spread in a single click. No slippage, no leg risk - just efficient execution. #OOTT https://t.co/o9h3j4mjn8",
-    "createdAt": "Wed Mar 25 14:00:00 +0000 2026",
+    "tweetUrl": "https://x.com/TheEconomist/status/2036911234595909915",
+    "fullText": "Millions of girls were aborted for being girls. Now parents often lean towards them  https://t.co/nEkjQl4iHy",
+    "createdAt": "Wed Mar 25 21:00:56 +0000 2026",
     "metrics": {
-      "likes": 9,
+      "likes": 2,
       "retweets": 1,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 8, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 2, "retweets": 1, "replies": 2 }
   },
   {
     "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9891520 },
+    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9892415 },
     "images": [],
-    "tweetUrl": "https://x.com/business/status/2036855312100020427",
-    "fullText": "Denmark will start talks to form a ruling coalition with caretaker Prime Minister Mette Frederiksen moving closer to securing a third term in office https://t.co/kTOHd8I5kn",
-    "createdAt": "Wed Mar 25 17:18:44 +0000 2026",
+    "tweetUrl": "https://x.com/business/status/2036913030181646608",
+    "fullText": "SpaceX is considering a fundraising target in its IPO of as much as $75 billion, which would dwarf the previous largest ever market debut https://t.co/pYQirgjLse",
+    "createdAt": "Wed Mar 25 21:08:05 +0000 2026",
     "metrics": {
-      "likes": 5,
+      "likes": 10,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 2,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 10, "retweets": 0, "replies": 2 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "screenName": "ianbremmer", "name": "ian bremmer", "followersCount": 1010334 },
+    "images": [],
+    "tweetUrl": "https://x.com/ianbremmer/status/2036912256693232020",
+    "fullText": "take relief that trump avoided disaster this week.\nbut his climbdown wasn’t an off-ramp to ending the war. https://t.co/MgGoLg5j76",
+    "createdAt": "Wed Mar 25 21:05:00 +0000 2026",
+    "metrics": {
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2, "retweets": 1, "replies": 1 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Tech" ],
+    "user": { "screenName": "defense_news", "name": "Defense News", "followersCount": 279510 },
+    "images": [],
+    "tweetUrl": "https://x.com/defense_news/status/2036910759809057020",
+    "fullText": "All missile systems and components being surged have critical bearing on U.S. ability to defeat aerial threats, including one-way attack drones. https://t.co/HiHSuq2Yxc",
+    "createdAt": "Wed Mar 25 20:59:03 +0000 2026",
+    "metrics": {
+      "likes": 4,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 5, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 4, "retweets": 1, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134600 },
+    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134603 },
     "images": [],
     "tweetUrl": "https://x.com/FitchRatings/status/2036790248869359838",
     "fullText": "How exposed could issuers be if the Iran conflict further escalates? #FitchRatings' new heat map shows risks under an adverse case: USD100/bbl oil, wider spreads, tighter conditions, and ~0.8% lower global GDP.\n\nLearn more: https://t.co/0ytzqsx3Q1 https://t.co/wULKmkf8SE",
@@ -1734,76 +1870,42 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "screenName": "CFR_org", "name": "Council on Foreign Relations", "followersCount": 566189 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "screenName": "Convertbond", "name": "Lawrence McDonald", "followersCount": 142843 },
     "images": [],
-    "tweetUrl": "https://x.com/CFR_org/status/2036818780509159439",
-    "fullText": "Governments and companies are sounding alarms about energy market disruptions due to the Iran war. The UK offered to host a summit on creating a “viable, collective plan” to reopen the Strait of Hormuz. Meanwhile, the U.S. has sent Iran a 15-point plan for ending the war, an",
-    "createdAt": "Wed Mar 25 14:53:34 +0000 2026",
+    "tweetUrl": "https://x.com/Convertbond/status/2036907627448279325",
+    "fullText": "RT @kieranwgoodwin: You have to know when to hold 'em and know when to fold 'em",
+    "createdAt": "Wed Mar 25 20:46:36 +0000 2026",
     "metrics": {
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 1,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 4, "retweets": 0, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9891520 },
-    "images": [],
-    "tweetUrl": "https://x.com/business/status/2036855888292569509",
-    "fullText": "The head of the International Energy Agency will participate in a meeting of European Union finance ministers this week as they craft possible responses to the war in the Middle East. https://t.co/rHJL95bvU5",
-    "createdAt": "Wed Mar 25 17:21:01 +0000 2026",
-    "metrics": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 2 }
-  },
-  {
-    "tags": [ "Economy", "Politics" ],
-    "user": { "screenName": "TheEconomist", "name": "The Economist", "followersCount": 25950730 },
-    "images": [],
-    "tweetUrl": "https://x.com/TheEconomist/status/2036855646352539818",
-    "fullText": "Concerns about Islamophobia are a factor in this expansion. Reported hate crimes against Muslims have risen in Canada in recent years. State-schools are responding to the critique https://t.co/D5U0N5W2gN",
-    "createdAt": "Wed Mar 25 17:20:03 +0000 2026",
-    "metrics": {
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 1 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9891520 },
-    "images": [],
-    "tweetUrl": "https://x.com/business/status/2036856164143489095",
-    "fullText": "At 5:30 a.m. at the Virgin Hotels Las Vegas, the ETF industry’s biggest annual conference was taking place on the casino floor. https://t.co/K5m9G4EL4D",
-    "createdAt": "Wed Mar 25 17:22:07 +0000 2026",
-    "metrics": {
-      "likes": 2,
-      "retweets": 0,
+      "likes": 0,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "screenName": "business", "name": "Bloomberg", "followersCount": 9892415 },
+    "images": [],
+    "tweetUrl": "https://x.com/business/status/2036913529312215499",
+    "fullText": "Tens of thousands of passengers remain stranded weeks into the Iran conflict, as mass cancellations across Gulf hubs overwhelm carriers and leave travelers scrambling to find ways home. https://t.co/mmWILqk0F2",
+    "createdAt": "Wed Mar 25 21:10:04 +0000 2026",
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3, "retweets": 0, "replies": 3 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134600 },
+    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134603 },
     "images": [],
     "tweetUrl": "https://x.com/FitchRatings/status/2036805486138298864",
     "fullText": "The escalating Iran conflict creates new headwinds for the U.S. #homebuilding and building products sector. Sustained high #oil prices will increase input costs while weakening #housing demand through higher mortgage rates and weak consumer confidence. https://t.co/ZrC4T9XnxL https://t.co/Gv8uToDTai",
@@ -1816,11 +1918,11 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134600 },
+    "user": { "screenName": "FitchRatings", "name": "Fitch Ratings", "followersCount": 134603 },
     "images": [],
     "tweetUrl": "https://x.com/FitchRatings/status/2036760049100456437",
     "fullText": "Save the date for the Paris #BankingSummit2026, hosted by #FitchRatings and PwC. Join us to hear expert insights and dynamic discussions on #geopolitics, #sovereignty, #DigitalBanks, #PrivateCredit disintermediation, #stablecoins, and more. \n\nRegister now: https://t.co/g3C8mDaVk1 https://t.co/SDfu1yrvdB",
