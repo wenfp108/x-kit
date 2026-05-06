@@ -1,82 +1,135 @@
 # x-kit
 
-一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。
+> X (Twitter) VIP 账号监控 + 推文采集系统
 
-![x-kit](./images/action-stats.png)
-## 功能特点
+## 架构
 
-- 自动抓取指定用户的基本信息和推文
-- 定时更新用户时间线数据
-- 支持数据本地化存储
-- GitHub Actions 自动化部署
+```
+dev-accounts.json (47 个 VIP 目标)
+         │
+    ┌────▼──────────────────────┐
+    │     fetch-sniper.ts       │  每 4 小时
+    │  按标签配额抓取 VIP 推文   │
+    │  传播加权排序 → Top N      │
+    │  增长追踪 + Checkpoint     │
+    └───────────────────────────┘
+         │
+    ┌────▼──────────────────────┐
+    │     sync-to-bank.ts       │  Sniper 完成后自动触发
+    │  tweets/*.json → Central-Bank/twitter/
+    └───────────────────────────┘
+         │
+    ┌────▼──────────────────────┐
+    │   refinery-erngine (下游)  │
+    │   AI 审计 + 信号生成       │
+    └───────────────────────────┘
 
-## 更新日志
+    ┌───────────────────────────┐
+    │   fetch-tweets.ts         │  每 30 分钟
+    │   首页时间线采集           │
+    └───────────────────────────┘
 
-- 2024-12-24 添加每日发布推文功能 `post-twitter-daily.yml` `post-tweet.ts`
-- 2025-01-02 添加获取用户推文功能 `fetch-user-tweets.ts`
-
-## 安装
-
-```bash
-bun install
+    ┌───────────────────────────┐
+    │   post-tweet.ts           │  每天 00:00
+    │   自动发推（语录卡片）     │
+    └───────────────────────────┘
 ```
 
-## 使用方法
+## 核心流程
 
-### 1. 配置环境变量
+### 1. Sniper（主力采集）
 
-在项目根目录创建 `.env` 文件,添加以下配置:
-
-```bash
-AUTH_TOKEN=你的X认证Token
-GET_ID_X_TOKEN=用于获取用户ID的Token
+```
+读取 dev-accounts.json → 获取 47 个 VIP 目标
+  → 对每个目标：getUserTweets (count=40)
+  → 过滤最近 2 天推文
+  → 传播加权评分排序
+  → 按标签配额取 Top N
+  → 增长追踪（与上次数据对比）
+  → 每 5 人 Checkpoint 保存
+  → 写入 tweets/YYYY-MM-DD.json
 ```
 
-### 2. 添加需要追踪的用户
+### 2. 传播加权评分
 
-在 `dev-accounts.json` 中添加用户信息:
-
-```json
-{
-  "username": "用户名",
-  "twitter_url": "用户主页链接", 
-  "description": "用户描述",
-  "tags": ["标签1", "标签2"]
-}
+```python
+score = views + (likes × 5) + (replies × 20) + (bookmarks × 50) + ((retweets + quotes) × 100)
 ```
 
-### 3. 运行脚本
+互动权重：bookmarks > retweets/quotes > replies > likes > views
 
-```bash
-# 获取用户信息
-bun run scripts/index.ts
+### 3. 标签配额系统
 
-# 获取最新推文
-bun run scripts/fetch-tweets.ts
+每个 VIP 根据标签决定取几条推文：
 
-# 批量关注用户
-bun run scripts/batch-follow.ts
-```
+| 标签 | 配额 | 说明 |
+|---|---|---|
+| Science | 8 | 高价值，多取 |
+| Tech / Finance / Geopolitics | 5 | 核心领域 |
+| General | 4 | 默认 |
+| Economy / Politics / Crypto | 3 | 中等 |
+| Meme | 2 | 低优先 |
+| Noise | 1 | 最少 |
 
-## 自动化部署
+### 4. 增长追踪
 
-项目使用 GitHub Actions 实现自动化:
+每次采集与历史数据对比，计算增量：
+- `growth`：本次采集相对上次的增量（views, likes, retweets, replies）
+- `peakGrowth`：记录单次最大增量时刻
 
-- `get-home-latest-timeline.yml`: 每30分钟获取一次最新推文
-- `daily-get-tweet-id.yml`: 每天获取一次用户信息
+## Workflow 链路
+
+| Workflow | 触发 | 作用 |
+|---|---|---|
+| `sniper-action.yml` | 每 4 小时 | 主力采集：更新账号 ID + 抓取推文 |
+| `bank-sync-watchdog.yml` | Sniper 完成后 | 自动同步到 Central-Bank |
+| `get-home-latest-timeline.yml` | 每 30 分钟 | 首页时间线采集 |
+| `daily-get-tweet-id.yml` | 每天 00:00 | 更新 VIP 用户 Profile |
+| `post-twitter-daily.yml` | 每天 00:00 | 自动发推 |
+| `update-accounts.yml` | 手动 | 批量更新账号 ID |
 
 ## 数据存储
 
-- 用户信息保存在 `accounts/` 目录
-- 推文数据保存在 `tweets/` 目录,按日期命名
+| 目录 | 内容 |
+|---|---|
+| `accounts/` | VIP 用户 Profile（restId、粉丝数等） |
+| `tweets/` | 每日推文数据，按日期命名（YYYY-MM-DD.json） |
+| `dev-accounts.json` | VIP 目标列表 + 标签配置 |
+
+## 关联仓库
+
+| 仓库 | 用途 |
+|---|---|
+| [x-kit](https://github.com/wenfp108/x-kit) | 本仓库。X 数据采集 |
+| [Central-Bank](https://github.com/wenfp108/Central-Bank) | 数据存储（twitter/ 目录） |
+| [Refinery-Engine](https://github.com/wenfp108/refinery-erngine) | 下游：AI 审计 + 信号生成 |
+
+## 环境变量
+
+| 变量 | 用途 |
+|---|---|
+| `AUTH_TOKEN` | X 认证 Token（登录态，用于发推、抓时间线） |
+| `GET_ID_X_TOKEN` | X Guest Token（用于获取用户 ID） |
+| `GH_TOKEN` | GitHub PAT（Actions 提交用） |
 
 ## 技术栈
 
-- Bun
-- TypeScript 
-- Twitter API
-- GitHub Actions
+- **Runtime**: Bun
+- **Language**: TypeScript
+- **X API**: twitter-openapi-typescript（非官方，cookie 认证）
+- **自动化**: GitHub Actions
 
-## License
+## 本地运行
 
-MIT
+```bash
+bun install
+
+# 获取用户 ID
+GET_ID_X_TOKEN=xxx bun run scripts/index.ts
+
+# 抓取推文
+AUTH_TOKEN=xxx bun run scripts/fetch-sniper.ts
+
+# 抓取首页时间线
+AUTH_TOKEN=xxx bun run scripts/fetch-tweets.ts
+```
