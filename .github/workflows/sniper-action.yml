@@ -1,54 +1,53 @@
-name: Sniper Elite (Fetch Target Tweets)
+  name: Sniper Elite (Fetch Target Tweets)                                                                                               
+                                                 
+  on:                                                                                                                                    
+    schedule:                                                                                                                            
+      - cron: '17 */4 * * *'   # 每4小时运行一次                                                                                         
+    workflow_dispatch:      # 允许手动触发                                                                                               
+                                                                                                                                         
+  jobs:                                                                                                                                  
+    snipe:                                                  
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write                                                                                                                    
+  
+      steps:                                                                                                                             
+        - uses: actions/checkout@v3                         
+          with:                                                                                                                          
+            token: ${{ secrets.GH_TOKEN }}                                                                                               
+                                                                                                                                         
+        - name: Setup Git                                                                                                                
+          run: |                                            
+            git config --global user.name 'Sniper Bot'                                                                                   
+            git config --global user.email 'bot@sniper.alpha'                                                                            
+                                                                                                                                         
+        - name: Setup Bun                                                                                                                
+          uses: oven-sh/setup-bun@v1                        
 
-on:
-  schedule:
-    - cron: '17 */4 * * *'   # 每4小时运行一次
-  workflow_dispatch:      # 允许手动触发
+        - name: Install dependencies
+          run: bun install
 
-jobs:
-  snipe:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          
-      - name: Setup Git
-        run: |
-          git config --global user.name 'Sniper Bot'
-          git config --global user.email 'bot@sniper.alpha'
-          
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-        
-      - name: Install dependencies
-        run: bun install
-        
-      - name: Update Account IDs
-        env:
-          GET_ID_X_TOKEN: ${{ secrets.GET_ID_X_TOKEN }}
-        run: bun run scripts/index.ts
+        - name: Update Account IDs
+          env:
+            GET_ID_X_TOKEN: ${{ secrets.GET_ID_X_TOKEN }}
+          run: bun run scripts/index.ts                                                                                                  
+  
+        - name: Run Sniper                                                                                                               
+          env:                                              
+            AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          run: bun run scripts/fetch-sniper.ts
 
-      - name: Run Sniper
-        env:
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-        run: bun run scripts/fetch-sniper.ts
-        
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "bot@sniper.alpha"
-          git config --local user.name "Sniper Bot"
-          
-          # 1. 暂存所有更改并提交（清空工作区）
-          git add .
-          git commit -m "🎯 Sniper hit: updated tweets [skip ci]" || exit 0
-          
-          # 2. 拉取远程更新并使用 -X theirs 策略自动解决冲突
-          # 
-          git pull --rebase -X theirs origin main
-          
-          # 3. 强制推送以确保云端数据最新
-          git push origin main
+        - name: Commit and push changes
+          run: |
+            git config --local user.email "bot@sniper.alpha"
+            git config --local user.name "Sniper Bot"                                                                                    
+  
+            # 1. 暂存所有更改并提交（清空工作区）                                                                                        
+            git add .                                       
+            git commit -m "🎯 Sniper hit: updated tweets [skip ci]" || exit 0
+                                                                                                                                         
+            # 2. 拉取远程更新并使用 -X theirs 策略自动解决冲突                                                                           
+            git pull --rebase -X theirs origin main                                                                                      
+                                                                                                                                         
+            # 3. 普通推送（不用 --force，避免丢数据）                                                                                    
+            git push origin main
