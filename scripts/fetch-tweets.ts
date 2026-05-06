@@ -1,4 +1,4 @@
-import { XAuthClient } from "./utils";
+import { XAuthClient, withRetry } from "./utils";
 import { get } from "lodash";
 import dayjs from "dayjs";
 import fs from "fs-extra";
@@ -6,9 +6,11 @@ import fs from "fs-extra";
 const client = await XAuthClient();
 
 console.log("📡 Fetching latest timeline...");
-const resp = await client.getTweetApi().getHomeLatestTimeline({
-  count: 100,
-});
+const resp = await withRetry(
+  () => client.getTweetApi().getHomeLatestTimeline({ count: 100 }),
+  3,
+  'Home timeline'
+);
 
 const rawData = resp.data.data || [];
 console.log(`🔍 [Debug] API returned ${rawData.length} raw items.`);

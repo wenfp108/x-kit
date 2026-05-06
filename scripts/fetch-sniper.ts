@@ -1,4 +1,4 @@
-import { XAuthClient } from "./utils";
+import { XAuthClient, withRetry } from "./utils";
 import { get } from "lodash";
 import dayjs from "dayjs";
 import fs from "fs-extra";
@@ -93,7 +93,9 @@ const loadIntoMap = (filePath: string) => {
     try {
       const rows = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
       rows.forEach((row: any) => historyMap.set(row.tweetUrl, row));
-    } catch (e) {}
+    } catch (e) {
+      console.warn(`⚠️ Failed to load history from ${filePath}`);
+    }
   }
 };
 loadIntoMap(yesterdayPath);
@@ -112,11 +114,15 @@ for (const [index, target] of shuffledTargets.entries()) {
   console.log(`\n[${currentNum}/${shuffledTargets.length}] 📡 Fetching @${target.screenName} [Tags: ${target.tags.join(',') || 'General'} -> Limit: ${limit}]...`);
   
   try {
-    const resp = await client.getTweetApi().getUserTweets({
-      userId: target.restId,
-      count: 40,
-      includePromotedContent: false 
-    });
+    const resp = await withRetry(
+      () => client.getTweetApi().getUserTweets({
+        userId: target.restId,
+        count: 40,
+        includePromotedContent: false
+      }),
+      3,
+      `@${target.screenName} tweets`
+    );
 
     const timeline = get(resp, "data.data", []);
     let userTweets = timeline.map((item: any) => {

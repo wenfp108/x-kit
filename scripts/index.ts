@@ -1,5 +1,5 @@
 import accounts from "../dev-accounts.json" with { type: "json" };
-import { xGuestClient } from "./utils.ts";
+import { xGuestClient, withRetry } from "./utils.ts";
 import {get} from 'lodash';
 import fs from 'fs-extra';
 
@@ -21,7 +21,11 @@ for (const account of accounts) {
   const client = await xGuestClient();
   let user: any = {};
   try {
-    user = await client.getUserApi().getUserByScreenName({screenName: account.username});
+    user = await withRetry(
+      () => client.getUserApi().getUserByScreenName({screenName: account.username}),
+      3,
+      `@${account.username} profile`
+    );
     const userData = get(user, 'data.user', {});
     if (Object.keys(userData).length > 0) {
       fs.writeFileSync(`./accounts/${account.username}.json`, JSON.stringify(userData, null, 2));
