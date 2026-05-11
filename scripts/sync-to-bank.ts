@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 
-// 1. 定义路径
 const ROOT = process.cwd();
 const TWEETS_DIR = path.resolve(ROOT, 'tweets');
 const BANK_ROOT = path.resolve(ROOT, '../central_bank');
@@ -15,7 +14,10 @@ function fileHash(filePath: string): string {
 
 async function syncLogic() {
   const today = new Date().toISOString().split('T')[0];
-  console.log(`🚀 Sync Target: Central-Bank/twitter/`);
+  const [y, m, d] = today.split('-');
+  const hierDir = path.join(BANK_TARGET_DIR, y, m, d);
+
+  console.log(`🚀 Sync Target: Central-Bank/twitter/${y}/${m}/${d}/`);
   console.log(`📅 Date: ${today}`);
 
   if (!fs.existsSync(BANK_ROOT)) {
@@ -23,8 +25,8 @@ async function syncLogic() {
     process.exit(1);
   }
 
-  if (!fs.existsSync(BANK_TARGET_DIR)) {
-    fs.mkdirSync(BANK_TARGET_DIR, { recursive: true });
+  if (!fs.existsSync(hierDir)) {
+    fs.mkdirSync(hierDir, { recursive: true });
   }
 
   if (fs.existsSync(TWEETS_DIR)) {
@@ -33,23 +35,18 @@ async function syncLogic() {
 
     files.forEach(file => {
       if (!file.endsWith('.json')) return;
+      if (!file.includes(today)) return;
 
       const src = path.join(TWEETS_DIR, file);
-      const dest = path.join(BANK_TARGET_DIR, file);
+      const dest = path.join(hierDir, file);
 
       try {
-        // 只同步今天的文件（其他文件由历史数据管理）
-        if (!file.includes(today)) return;
-
-        // 内容对比：目标文件不存在或内容不同才复制
         if (fs.existsSync(dest)) {
-          if (fileHash(src) === fileHash(dest)) {
-            return; // 内容相同，跳过
-          }
+          if (fileHash(src) === fileHash(dest)) return;
         }
 
         fs.copyFileSync(src, dest);
-        console.log(`✅ [Synced] ${file} -> /twitter/`);
+        console.log(`✅ [Synced] ${file} -> twitter/${y}/${m}/${d}/`);
         syncCount++;
       } catch (e) {
         console.error(`❌ Error syncing ${file}:`, e);
