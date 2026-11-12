@@ -1,564 +1,547 @@
 [
   {
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "followersCount": 1166143 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120877466831016117",
+    "fullText": "RT @superbeyinsiz: Fuck israel",
+    "createdAt": "Thu Nov 12 13:52:46 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 31032,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 31032, "replies": 0 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "followersCount": 3599467 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120876636673659000",
+    "fullText": "BREAKING: NVIDIA CEO Jensen Huang resigns",
+    "createdAt": "Thu Nov 12 13:49:28 +0000 2026",
+    "metrics": {
+      "likes": 37608,
+      "retweets": 7074,
+      "replies": 838,
+      "quotes": 3660,
+      "bookmarks": 1389,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 37608, "retweets": 7074, "replies": 838 }
+  },
+  {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "followersCount": 4153103 },
+    "user": { "followersCount": 4156234 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120758327747674287",
     "fullText": "RT @Arminn_Ai: Jensen Huang in the Matrix, learning how Chinese spies work\n\nWait till the end 👀 https://t.co/RPpXKDunLh",
     "createdAt": "Thu Nov 12 05:59:21 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 7025,
+      "retweets": 13172,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 7025, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Politics" ],
-    "user": { "followersCount": 5394315 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120662592645431675",
-    "fullText": "RT @CNN: Scott Colom will defeat Sen. Cindy Hyde-Smith in a major upset to become the first Democrat that voters in deep-red Mississippi ha…",
-    "createdAt": "Wed Nov 11 23:38:56 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 2936,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 2936, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 2741244 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120696537458114929",
-    "fullText": "Our message to Nvidia's board:\n\nDo not fire Jensen Huang.\n\nThere is no clear replacement for Jensen Huang. We are confident that his departure would ultimately be a net negative for Nvidia, its shareholders, and the AI Revolution.\n\nFirst, take a look at the data. History also",
-    "createdAt": "Thu Nov 12 01:53:49 +0000 2026",
-    "metrics": {
-      "likes": 11427,
-      "retweets": 1245,
-      "replies": 1023,
-      "quotes": 253,
-      "bookmarks": 1056,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 11427, "retweets": 1245, "replies": 1023 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 2551155 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120685983758778748",
-    "fullText": "RT @michaeldweiss: New: The contents of a hacked computer belonging to John Mark Dougin, an American ex-cop living in Russia, offer documen…",
-    "createdAt": "Thu Nov 12 01:11:53 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 1831,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 1831, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "followersCount": 3598790 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120747011540681177",
-    "fullText": "BREAKING: Indonesia's Vice President resigns amid scandal over his academic qualifications",
-    "createdAt": "Thu Nov 12 05:14:23 +0000 2026",
-    "metrics": {
-      "likes": 4851,
-      "retweets": 1061,
-      "replies": 170,
-      "quotes": 376,
-      "bookmarks": 210,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 4851, "retweets": 1061, "replies": 170 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 2741244 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120663608065704205",
-    "fullText": "BREAKING: Nvidia, $NVDA, is now working with an \"outside firm\" to find a new CEO to replace Jensen Huang, per Bloomberg.\n\nThe company is also reportedly weighing naming a temporary CEO while searching for a replacement.",
-    "createdAt": "Wed Nov 11 23:42:58 +0000 2026",
-    "metrics": {
-      "likes": 7265,
-      "retweets": 527,
-      "replies": 361,
-      "quotes": 176,
-      "bookmarks": 389,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 7265, "retweets": 527, "replies": 361 }
+    "growth": { "views": 0, "likes": 0, "retweets": 6147, "replies": 0 }
   },
   {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "followersCount": 4153103 },
+    "user": { "followersCount": 4156234 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120752211588452715",
     "fullText": "You’d think we’d have learned from Steve Jobs and Travis Kalanick that one does not just simply replace the founder…",
     "createdAt": "Thu Nov 12 05:35:03 +0000 2026",
     "metrics": {
-      "likes": 6959,
-      "retweets": 547,
-      "replies": 317,
-      "quotes": 86,
-      "bookmarks": 471,
+      "likes": 26647,
+      "retweets": 2433,
+      "replies": 689,
+      "quotes": 322,
+      "bookmarks": 2079,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 6959, "retweets": 547, "replies": 317 }
+    "growth": { "views": 0, "likes": 19688, "retweets": 1886, "replies": 372 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 2741244 },
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "followersCount": 1166143 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120706332198105503",
-    "fullText": "RT @KobeissiLetter: Our message to Nvidia's board:\n\nDo not fire Jensen Huang.\n\nThere is no clear replacement for Jensen Huang. We are confi…",
-    "createdAt": "Thu Nov 12 02:32:45 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120875489309192343",
+    "fullText": "Did it hit you that a centibillionaire, Jensen Huang, is less free than a random plumber?",
+    "createdAt": "Thu Nov 12 13:44:55 +0000 2026",
+    "metrics": {
+      "likes": 11668,
+      "retweets": 1252,
+      "replies": 327,
+      "quotes": 155,
+      "bookmarks": 1147,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 11668, "retweets": 1252, "replies": 327 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Finance" ],
+    "user": { "followersCount": 4156234 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120888813543477650",
+    "fullText": "RT @shortmagsmle: This is how the whole country works",
+    "createdAt": "Thu Nov 12 14:37:52 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 1245,
+      "retweets": 1841,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1245, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 1841, "replies": 0 }
   },
   {
-    "tags": [ "Crypto", "Finance" ],
-    "user": { "followersCount": 5219355 },
+    "tags": [ "Politics", "Geopolitics", "Science" ],
+    "user": { "followersCount": 2392044 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120525843558781180",
-    "fullText": "Deutsche ₿ank. https://t.co/k0gKuWaW4U",
-    "createdAt": "Wed Nov 11 14:35:33 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120877508778504387",
+    "fullText": "JUST IN - Jensen Huang resigns as Nvidia CEO.",
+    "createdAt": "Thu Nov 12 13:52:56 +0000 2026",
     "metrics": {
-      "likes": 4960,
-      "retweets": 503,
-      "replies": 298,
-      "quotes": 48,
-      "bookmarks": 200,
+      "likes": 4683,
+      "retweets": 681,
+      "replies": 214,
+      "quotes": 326,
+      "bookmarks": 190,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 507, "retweets": 49, "replies": 18 }
+    "growth": { "views": 0, "likes": 4683, "retweets": 681, "replies": 214 }
   },
   {
     "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
-    "user": { "followersCount": 2267439 },
+    "user": { "followersCount": 2267884 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120688976311005412",
     "fullText": "No. Bill Clinton did not resign.\nJensen Huang shouldn’t either.\nAnd the Nvidia board shouldn’t fire him.\nParticularly in the heat of the moment.\nRide it out and ignore the journos.\nClinton did. And then no one cared. https://t.co/dITPKVHrfn",
     "createdAt": "Thu Nov 12 01:23:47 +0000 2026",
     "metrics": {
-      "likes": 4458,
-      "retweets": 460,
-      "replies": 259,
-      "quotes": 59,
-      "bookmarks": 209,
+      "likes": 6386,
+      "retweets": 644,
+      "replies": 323,
+      "quotes": 78,
+      "bookmarks": 311,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 4458, "retweets": 460, "replies": 259 }
+    "growth": { "views": 0, "likes": 1928, "retweets": 184, "replies": 64 }
   },
   {
     "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "followersCount": 241328678 },
+    "user": { "followersCount": 241307991 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120761225529168312",
-    "fullText": "11 years ago",
-    "createdAt": "Thu Nov 12 06:10:52 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120912138772369758",
+    "fullText": "SpaceX community benefits",
+    "createdAt": "Thu Nov 12 16:10:33 +0000 2026",
     "metrics": {
-      "likes": 3656,
-      "retweets": 368,
-      "replies": 671,
-      "quotes": 58,
-      "bookmarks": 223,
+      "likes": 5833,
+      "retweets": 628,
+      "replies": 780,
+      "quotes": 54,
+      "bookmarks": 148,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 3656, "retweets": 368, "replies": 671 }
+    "growth": { "views": 0, "likes": 5833, "retweets": 628, "replies": 780 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "followersCount": 3599467 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120877184839790958",
+    "fullText": "BREAKING: NVIDIA names current CFO Colette Kress as CEO for interim period",
+    "createdAt": "Thu Nov 12 13:51:39 +0000 2026",
+    "metrics": {
+      "likes": 3629,
+      "retweets": 524,
+      "replies": 89,
+      "quotes": 117,
+      "bookmarks": 127,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3629, "retweets": 524, "replies": 89 }
   },
   {
     "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "followersCount": 1165780 },
+    "user": { "followersCount": 1166143 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120502697938039021",
     "fullText": "I declined an invitation to speak in a certain country among a collection of hotshots because of the presence of the Israeli ambassador in the group nauseates me, fills me with moral disgust.",
     "createdAt": "Wed Nov 11 13:03:34 +0000 2026",
     "metrics": {
-      "likes": 5488,
-      "retweets": 400,
-      "replies": 46,
-      "quotes": 35,
-      "bookmarks": 150,
+      "likes": 5923,
+      "retweets": 423,
+      "replies": 47,
+      "quotes": 38,
+      "bookmarks": 173,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 912, "retweets": 52, "replies": 3 }
+    "growth": { "views": 0, "likes": 435, "retweets": 23, "replies": 1 }
   },
   {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "followersCount": 3598790 },
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "followersCount": 418639 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120674897303330908",
-    "fullText": "BREAKING: Nvidia is seeking to find a new CEO to replace Jensen Huang, according to Bloomberg report.",
-    "createdAt": "Thu Nov 12 00:27:50 +0000 2026",
-    "metrics": {
-      "likes": 3794,
-      "retweets": 333,
-      "replies": 139,
-      "quotes": 186,
-      "bookmarks": 106,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 3794, "retweets": 333, "replies": 139 }
-  },
-  {
-    "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "followersCount": 241328678 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120762397443215678",
-    "fullText": "RT @laobaishare: 火箭回收成功瞬间，马斯克的反应。 https://t.co/LMRBuKEDDd",
-    "createdAt": "Thu Nov 12 06:15:32 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120892435920527685",
+    "fullText": "RT @ggreenwald: This Jensen Huang/Nvidia scandal is quite bizarre. The most dominant CEOs of the world's most powerful corporations rarely…",
+    "createdAt": "Thu Nov 12 14:52:15 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 683,
+      "retweets": 809,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 683, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 809, "replies": 0 }
   },
   {
     "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "followersCount": 2391908 },
+    "user": { "followersCount": 2392044 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120734175997366496",
-    "fullText": "NEW - Acting Navy Secretary Hung Cao tells USS George H.W. Bush families that their loved ones won’t be home for the holidays, warning that if the U.S. didn’t stop Iran now, it would soon have too many cruise missiles and drones to penetrate and become a \"nuclear-armed Iran.\"",
-    "createdAt": "Thu Nov 12 04:23:23 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120887507000635447",
+    "fullText": "NEW - 5 people shot in Vida gym, Washington D.C., a shelter in place order is active. Suspect  has not been apprehended. https://t.co/vbYBQvE9cf",
+    "createdAt": "Thu Nov 12 14:32:40 +0000 2026",
     "metrics": {
-      "likes": 1807,
-      "retweets": 286,
-      "replies": 96,
-      "quotes": 61,
-      "bookmarks": 253,
+      "likes": 1843,
+      "retweets": 505,
+      "replies": 61,
+      "quotes": 60,
+      "bookmarks": 126,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1807, "retweets": 286, "replies": 96 }
+    "growth": { "views": 0, "likes": 1843, "retweets": 505, "replies": 61 }
   },
   {
     "tags": [ "Finance", "Economy", "Crypto" ],
-    "user": { "followersCount": 1140061 },
+    "user": { "followersCount": 1140078 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120605185529852408",
     "fullText": "RT @AutismCapital: Oh my God. What a banger. https://t.co/pcbg2QuMeN",
     "createdAt": "Wed Nov 11 19:50:49 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 575,
+      "retweets": 668,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 331, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 93, "replies": 0 }
   },
   {
-    "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "followersCount": 4153103 },
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "followersCount": 5394497 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120716120617529777",
-    "fullText": "RT @balajis: No. Bill Clinton did not resign.\nJensen Huang shouldn’t either.\nAnd the Nvidia board shouldn’t fire him.\nParticularly in the h…",
-    "createdAt": "Thu Nov 12 03:11:38 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 456,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 456, "replies": 0 }
-  },
-  {
-    "tags": [ "Crypto", "Finance" ],
-    "user": { "followersCount": 5219355 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120580116963004755",
-    "fullText": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit and Digital Equity. Bringing $STRC and $MSTR onchain is another step toward capital markets that never close.\nhttps://t.co/nWVyRfRGjU",
-    "createdAt": "Wed Nov 11 18:11:13 +0000 2026",
-    "metrics": {
-      "likes": 2298,
-      "retweets": 217,
-      "replies": 287,
-      "quotes": 24,
-      "bookmarks": 51,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 597, "retweets": 54, "replies": 77 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 417218 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120756588533465465",
+    "tweetUrl": "https://x.com/undefined/status/2120788881792520255",
     "fullText": "RT @amasad: Why are old stories that were not even covered up all that well become sudden international and geopolitical news?\n\nThe timing…",
-    "createdAt": "Thu Nov 12 05:52:27 +0000 2026",
+    "createdAt": "Thu Nov 12 08:00:46 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 421,
+      "retweets": 667,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 421, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 667, "replies": 0 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
+    "user": { "followersCount": 3599467 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120865199137939476",
+    "fullText": "BREAKING: Eight people have died in building collapse in Brooklyn, New York.",
+    "createdAt": "Thu Nov 12 13:04:01 +0000 2026",
+    "metrics": {
+      "likes": 2941,
+      "retweets": 366,
+      "replies": 54,
+      "quotes": 46,
+      "bookmarks": 82,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2941, "retweets": 366, "replies": 54 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 2742795 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120904975320789406",
+    "fullText": "BREAKING: President Trump calls for former Apple CEO Tim Cook to become the next CEO of Nvidia, $NVDA.\n\n“A legend replaces a legend,” Trump says. https://t.co/QkIKJPZzV0",
+    "createdAt": "Thu Nov 12 15:42:05 +0000 2026",
+    "metrics": {
+      "likes": 3112,
+      "retweets": 227,
+      "replies": 233,
+      "quotes": 86,
+      "bookmarks": 171,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 3112, "retweets": 227, "replies": 233 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "followersCount": 5394497 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120789484216197241",
+    "fullText": "RT @adrianzenz: Rahile Omer, the youngest detainee photographed in the Xinjiang Police Files, has died in a Chinese prison at 23.\n\nRFA Uygh…",
+    "createdAt": "Thu Nov 12 08:03:10 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 515,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 515, "replies": 0 }
   },
   {
     "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "followersCount": 4153103 },
+    "user": { "followersCount": 4156234 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120715151758577900",
-    "fullText": "RT @pmddomingos: CEOs have affairs all the time. Get over it.",
-    "createdAt": "Thu Nov 12 03:07:47 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120798325066911758",
+    "fullText": "Datacenters are a globally competitive market. Someone, somewhere, will build them.",
+    "createdAt": "Thu Nov 12 08:38:17 +0000 2026",
+    "metrics": {
+      "likes": 2403,
+      "retweets": 168,
+      "replies": 144,
+      "quotes": 28,
+      "bookmarks": 283,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2403, "retweets": 168, "replies": 144 }
+  },
+  {
+    "tags": [ "Crypto", "Tech", "Science" ],
+    "user": { "followersCount": 7919929 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120819695247139231",
+    "fullText": "RT @sohamsankaran: We’re making a personalized cancer vaccine for Yash, a 34 year-old pancreatic cancer patient, in the open with his conse…",
+    "createdAt": "Thu Nov 12 10:03:12 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 330,
+      "retweets": 419,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 330, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 419, "replies": 0 }
   },
   {
-    "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "followersCount": 2391908 },
+    "tags": [ "Finance", "Science", "Geopolitics" ],
+    "user": { "followersCount": 1166143 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120639270947836255",
-    "fullText": "NEW - Argentine President Javier Milei weeps as he says goodbye to Pope Leo, who departs for Peru after his three-day visit to Argentina. https://t.co/kCkZYGbSIY",
-    "createdAt": "Wed Nov 11 22:06:16 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120860533243154452",
+    "fullText": "RT @mpawlo: Jensen Huang should have spent more time studying @nntaleb. Trying to maintain a reputation as a family man and a wholesome guy…",
+    "createdAt": "Thu Nov 12 12:45:29 +0000 2026",
     "metrics": {
-      "likes": 1487,
-      "retweets": 76,
-      "replies": 67,
-      "quotes": 14,
-      "bookmarks": 130,
+      "likes": 0,
+      "retweets": 416,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1168, "retweets": 59, "replies": 39 }
+    "growth": { "views": 0, "likes": 0, "retweets": 416, "replies": 0 }
   },
   {
-    "tags": [ "Politics", "Geopolitics", "Science" ],
-    "user": { "followersCount": 2391908 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 2742795 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120646438300352995",
-    "fullText": "JUST IN - Nvidia shares drop after reports that Jensen Huang had another affair with an executive who reported to him.",
-    "createdAt": "Wed Nov 11 22:34:45 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120899669341446242",
+    "fullText": "BREAKING: Nvidia stock, $NVDA, pares losses, rising back above $163/share, as investors buy the dip after Jensen Huang resigns.\n\nThe stock has now erased half of its loss on the day.\n\nNvidia’s future remains highly uncertain. https://t.co/fewcoGJqC9",
+    "createdAt": "Thu Nov 12 15:21:00 +0000 2026",
     "metrics": {
-      "likes": 1099,
-      "retweets": 78,
-      "replies": 52,
-      "quotes": 51,
-      "bookmarks": 62,
+      "likes": 1998,
+      "retweets": 178,
+      "replies": 158,
+      "quotes": 50,
+      "bookmarks": 80,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 824, "retweets": 54, "replies": 35 }
+    "growth": { "views": 0, "likes": 1998, "retweets": 178, "replies": 158 }
   },
   {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 417218 },
+    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
+    "user": { "followersCount": 2267884 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120754098261885236",
-    "fullText": "The best proof you're going to get that the press is playing a very dubious role in the Jensen Huang saga.\n\nHow can you say someone's head \"must roll\" on the strength of an allegation - that Alice Huang is a spy - that nobody has backed with a single piece of public evidence and",
-    "createdAt": "Thu Nov 12 05:42:33 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120773150665511019",
+    "fullText": "RT @brianchau57: My Experience With the Leaders of the Jensen Coup\n\nAt the start of 2025, numerous Washington, D.C. based NGOs began spread…",
+    "createdAt": "Thu Nov 12 06:58:15 +0000 2026",
     "metrics": {
-      "likes": 563,
-      "retweets": 120,
-      "replies": 41,
-      "quotes": 11,
-      "bookmarks": 75,
+      "likes": 0,
+      "retweets": 388,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 563, "retweets": 120, "replies": 41 }
+    "growth": { "views": 0, "likes": 0, "retweets": 341, "replies": 0 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "followersCount": 755487 },
+    "user": { "followersCount": 755617 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120673529951813985",
     "fullText": "Conversational AI is going to transform education and deliver personalized tutoring at scale. But we have to build it right.\n\nMost current AI tools in education optimize for the wrong thing: getting the answer. But the point of homework is not the output, it's learning to think",
     "createdAt": "Thu Nov 12 00:22:24 +0000 2026",
     "metrics": {
-      "likes": 347,
-      "retweets": 43,
-      "replies": 82,
-      "quotes": 16,
-      "bookmarks": 199,
+      "likes": 611,
+      "retweets": 79,
+      "replies": 123,
+      "quotes": 19,
+      "bookmarks": 376,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 347, "retweets": 43, "replies": 82 }
+    "growth": { "views": 0, "likes": 264, "retweets": 36, "replies": 41 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 2551155 },
+    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
+    "user": { "followersCount": 2267884 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120680661690327312",
-    "fullText": "Republican Sen. Cindy Hyde-Smith has officially conceded to Democrat Scott Colom in Mississippi. https://t.co/kpyo3lVSUK",
-    "createdAt": "Thu Nov 12 00:50:44 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120907972603773012",
+    "fullText": "RT @TrungTPhan: Elon and Jensen after Jensen joins SpaceX to run Terafab https://t.co/k28ow2hkBM",
+    "createdAt": "Thu Nov 12 15:53:59 +0000 2026",
     "metrics": {
-      "likes": 1401,
-      "retweets": 66,
-      "replies": 26,
-      "quotes": 9,
-      "bookmarks": 84,
+      "likes": 0,
+      "retweets": 295,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1401, "retweets": 66, "replies": 26 }
+    "growth": { "views": 0, "likes": 0, "retweets": 295, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 2742795 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120908498804293843",
+    "fullText": "BREAKING: The S&amp;P 500 erases all losses and turns green as investors buy the dip in Nvidia, $NVDA.\n\nNvidia has now erased more than half of its loss on the day. https://t.co/mEee9b3Nud",
+    "createdAt": "Thu Nov 12 15:56:05 +0000 2026",
+    "metrics": {
+      "likes": 1384,
+      "retweets": 123,
+      "replies": 97,
+      "quotes": 27,
+      "bookmarks": 43,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 1384, "retweets": 123, "replies": 97 }
+  },
+  {
+    "tags": [ "Tech", "Politics", "Economy" ],
+    "user": { "followersCount": 241307991 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120798842451058773",
+    "fullText": "RT @NarutoNolimits: Why Elon Musk believes we could colonize the entire galaxy in a million years\n\nTo Elon Musk, it's not even a hard quest…",
+    "createdAt": "Thu Nov 12 08:40:21 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 256,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 256, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "followersCount": 1165780 },
+    "user": { "followersCount": 1166143 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120503238952727009",
     "fullText": "The below is correct.",
     "createdAt": "Wed Nov 11 13:05:43 +0000 2026",
     "metrics": {
-      "likes": 684,
-      "retweets": 71,
+      "likes": 747,
+      "retweets": 79,
       "replies": 11,
       "quotes": 1,
-      "bookmarks": 164,
+      "bookmarks": 178,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 104, "retweets": 8, "replies": 1 }
+    "growth": { "views": 0, "likes": 63, "retweets": 8, "replies": 0 }
   },
   {
-    "tags": [ "Politics", "Economy", "Geopolitics", "Science" ],
-    "user": { "followersCount": 3598790 },
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "followersCount": 1484375 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120694790983675954",
-    "fullText": "BREAKING: Two dead after building collapses in Brooklyn, New York.",
-    "createdAt": "Thu Nov 12 01:46:53 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120860692362231966",
+    "fullText": "22% of nvidia’s revenue was coming from singapore…until nvidia stopped reporting it. less than ideal.",
+    "createdAt": "Thu Nov 12 12:46:07 +0000 2026",
     "metrics": {
-      "likes": 1392,
-      "retweets": 74,
-      "replies": 32,
-      "quotes": 6,
+      "likes": 946,
+      "retweets": 102,
+      "replies": 35,
+      "quotes": 11,
       "bookmarks": 47,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 1392, "retweets": 74, "replies": 32 }
+    "growth": { "views": 0, "likes": 946, "retweets": 102, "replies": 35 }
   },
   {
     "tags": [ "Economy", "Finance", "Politics" ],
-    "user": { "followersCount": 495467 },
+    "user": { "followersCount": 495510 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120495446179131412",
     "fullText": "There is now little doubt that the Fed will raise rates in December. After a third firm inflation report, the question is how fast: continue to take it one meeting at a time with 25? front-load with 50? signal the possibility of a faster sequence of 25s?\n\nTactical calls like this",
     "createdAt": "Wed Nov 11 12:34:45 +0000 2026",
     "metrics": {
-      "likes": 362,
-      "retweets": 77,
-      "replies": 76,
-      "quotes": 21,
-      "bookmarks": 37,
+      "likes": 377,
+      "retweets": 80,
+      "replies": 82,
+      "quotes": 23,
+      "bookmarks": 43,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 26, "retweets": 10, "replies": 8 }
+    "growth": { "views": 0, "likes": 15, "retweets": 3, "replies": 6 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120537196390473788",
-    "fullText": "\"Simply Aging\"\nA brilliant perspective on the complex (anything but simple) biology of human aging, by @VadimGladyshev @gladyshev_lab open-access @PNASNews https://t.co/wDaNy7YvhL https://t.co/GWkv5Ih1XN",
-    "createdAt": "Wed Nov 11 15:20:39 +0000 2026",
-    "metrics": {
-      "likes": 230,
-      "retweets": 54,
-      "replies": 9,
-      "quotes": 2,
-      "bookmarks": 160,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 76, "retweets": 14, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 1974034 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120662640972144887",
-    "fullText": "$NVDA  - *NVIDIA WORKING WITH OUTSIDE FIRM TO FIND POSSIBLE NEW CEO",
-    "createdAt": "Wed Nov 11 23:39:08 +0000 2026",
-    "metrics": {
-      "likes": 456,
-      "retweets": 62,
-      "replies": 45,
-      "quotes": 43,
-      "bookmarks": 14,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 456, "retweets": 62, "replies": 45 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 1974034 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120679435972022678",
-    "fullText": "*WHITE HOUSE ISN'T INTERVENING IN NVIDIA BOARD'S DECISION: WAPO",
-    "createdAt": "Thu Nov 12 00:45:52 +0000 2026",
-    "metrics": {
-      "likes": 576,
-      "retweets": 49,
-      "replies": 55,
-      "quotes": 19,
-      "bookmarks": 21,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 576, "retweets": 49, "replies": 55 }
-  },
-  {
-    "tags": [ "Economy", "Finance" ],
-    "user": { "followersCount": 1118273 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120655409488789804",
-    "fullText": "Another twist in the Nvidia story as the company’s board investigates its Founder CEO.\nMarkets essentially shrugged off the first round of this saga on the assumption that the CEO would weather it.\nThis latest development challenges that assumption in an environment in which\nThis https://t.co/GYzUe2WBgO",
-    "createdAt": "Wed Nov 11 23:10:24 +0000 2026",
-    "metrics": {
-      "likes": 399,
-      "retweets": 58,
-      "replies": 60,
-      "quotes": 5,
-      "bookmarks": 37,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 399, "retweets": 58, "replies": 60 }
-  },
-  {
-    "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
+    "user": { "followersCount": 832818 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120611958768668752",
     "fullText": "Getting it wrong for many decades.\nSince the 1950's, pacemaker leads have been placed in the right ventricle. A new randomized trial challenging that dogma found marked superiority of outcomes for pacing from the left bundle branch. https://t.co/DzMUaStZjS https://t.co/BmNg6GZSFC",
     "createdAt": "Wed Nov 11 20:17:44 +0000 2026",
     "metrics": {
-      "likes": 242,
-      "retweets": 63,
-      "replies": 12,
+      "likes": 293,
+      "retweets": 77,
+      "replies": 15,
       "quotes": 5,
-      "bookmarks": 60,
+      "bookmarks": 73,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 127, "retweets": 39, "replies": 6 }
+    "growth": { "views": 0, "likes": 51, "retweets": 14, "replies": 3 }
+  },
+  {
+    "tags": [ "Tech", "Politics", "Economy" ],
+    "user": { "followersCount": 241307991 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120923092872790445",
+    "fullText": "RT @SawyerMerritt: These are the community benefits if @SpaceX builds their planned $50 billion Arizona Supercomputing Campus:\n\n• 6,500 job…",
+    "createdAt": "Thu Nov 12 16:54:04 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 130,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 130, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
@@ -568,69 +551,137 @@
     "fullText": "Good Morning from Germany, where the debt path is heading towards 100% of GDP. The Council of Economic Experts projects public debt could reach 98% by 2040 if defence borrowing continues unchanged. Gradually scaling it back would see debt peak at around 87% in 2037; but leave a https://t.co/CtkXebs6FY",
     "createdAt": "Wed Nov 11 14:17:29 +0000 2026",
     "metrics": {
-      "likes": 267,
-      "retweets": 70,
+      "likes": 303,
+      "retweets": 76,
       "replies": 24,
-      "quotes": 6,
-      "bookmarks": 31,
+      "quotes": 7,
+      "bookmarks": 35,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 28, "retweets": 9, "replies": 2 }
+    "growth": { "views": 0, "likes": 36, "retweets": 6, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 1974034 },
+    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
+    "user": { "followersCount": 1779892 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120662714980933653",
-    "fullText": "*NVIDIA WEIGHS NAMING TEMPORARY CEO BEFORE HOLDING WIDER SEARCH",
-    "createdAt": "Wed Nov 11 23:39:25 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120904813202288758",
+    "fullText": "Existing home sales plunged 5.5% MoM in October and 8.76% YoY, hitting the lowest level since August 2010. But 2010 was after real estate prices crashed. Today's low sales come before the crash. Get ready for the mother of all housing crashes, especially if the Fed keeps hiking.",
+    "createdAt": "Thu Nov 12 15:41:26 +0000 2026",
     "metrics": {
-      "likes": 462,
-      "retweets": 44,
-      "replies": 59,
-      "quotes": 15,
-      "bookmarks": 30,
+      "likes": 414,
+      "retweets": 57,
+      "replies": 54,
+      "quotes": 6,
+      "bookmarks": 34,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 462, "retweets": 44, "replies": 59 }
+    "growth": { "views": 0, "likes": 414, "retweets": 57, "replies": 54 }
+  },
+  {
+    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
+    "user": { "followersCount": 1779892 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120876066269171908",
+    "fullText": "Gold lost all of its post-midterm gains just because higher-than-expected inflation resulted in more Fed talk about the potential for future rate hikes that are too small to actually do anything to slow inflation's rise. Call the Fed's bluff. Buy the dip. https://t.co/CY02g7NyCR",
+    "createdAt": "Thu Nov 12 13:47:12 +0000 2026",
+    "metrics": {
+      "likes": 524,
+      "retweets": 43,
+      "replies": 107,
+      "quotes": 2,
+      "bookmarks": 29,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 524, "retweets": 43, "replies": 107 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
+    "user": { "followersCount": 832818 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120543595354874162",
-    "fullText": "The critical role the blood brain barrier (BBB) plays in the Alzheimer's disease model, and how to modulate the  BBB \"transportome\" and rescue brain astrocytes @CellCellPress \nhttps://t.co/x2sBbvq1i7 https://t.co/7mpNFMbrI9",
-    "createdAt": "Wed Nov 11 15:46:05 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120558799958556872",
+    "fullText": "The obesity adverse outcome story.\nBMI is a poor and misleading way to quantify obesity\nWhen the CAD-obesity definition is used, we see the increased risk of all-cause mortality (top graphs) and lesser risk for preclinical obesity (lower graphs)\n@Nature \nhttps://t.co/mxx5ENViwz https://t.co/g9SAXAWftH",
+    "createdAt": "Wed Nov 11 16:46:30 +0000 2026",
     "metrics": {
-      "likes": 175,
+      "likes": 169,
       "retweets": 46,
-      "replies": 7,
-      "quotes": 4,
-      "bookmarks": 61,
+      "replies": 22,
+      "quotes": 3,
+      "bookmarks": 75,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 57, "retweets": 20, "replies": 2 }
+    "growth": { "views": 0, "likes": 39, "retweets": 10, "replies": 2 }
   },
   {
-    "tags": [ "Finance", "Science", "Geopolitics" ],
-    "user": { "followersCount": 1165780 },
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 1975156 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120485274572476441",
-    "fullText": "Yes, \"Ai is capable\"... of some things.\nFind the \"things\".\nOne needs conditioning.",
-    "createdAt": "Wed Nov 11 11:54:20 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120914245303107708",
+    "fullText": "JENSEN HUANG AGREES TO TESTIFY BEFORE CONGRESS BEFORE THANKSGIVING - CNBC",
+    "createdAt": "Thu Nov 12 16:18:55 +0000 2026",
     "metrics": {
-      "likes": 456,
-      "retweets": 23,
-      "replies": 31,
-      "quotes": 2,
-      "bookmarks": 72,
+      "likes": 467,
+      "retweets": 51,
+      "replies": 16,
+      "quotes": 12,
+      "bookmarks": 18,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 64, "retweets": 2, "replies": 2 }
+    "growth": { "views": 0, "likes": 467, "retweets": 51, "replies": 16 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 2574797 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120561386225070504",
+    "fullText": "They're likely to be more concerned with appearances than actually achieving the goal; this can lead to ruin over time. #principleoftheday https://t.co/IKV7qHobc3",
+    "createdAt": "Wed Nov 11 16:56:47 +0000 2026",
+    "metrics": {
+      "likes": 443,
+      "retweets": 35,
+      "replies": 24,
+      "quotes": 8,
+      "bookmarks": 57,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 92, "retweets": 7, "replies": 1 }
+  },
+  {
+    "tags": [ "Economy", "Finance" ],
+    "user": { "followersCount": 1118426 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120896220885303489",
+    "fullText": "Sobering US housing data: October sales of existing US homes fell 5.5% to their lowest level in 16 years.\nThink of this as another data point consistent with my view that, with nothing making room in the bond market for the significant uptick in AI-related borrowing, higher",
+    "createdAt": "Thu Nov 12 15:07:18 +0000 2026",
+    "metrics": {
+      "likes": 297,
+      "retweets": 54,
+      "replies": 35,
+      "quotes": 7,
+      "bookmarks": 27,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 297, "retweets": 54, "replies": 35 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "followersCount": 832818 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120565777229344841",
+    "fullText": "A study on accelerated aging with chemotherapy for breast cancer\nMore aggressive chemo, improved breast cancer survival but a tradeoff of accelerated biological aging and increased risk of non-breast cancer mortality\nhttps://t.co/YONcyOHJjP",
+    "createdAt": "Wed Nov 11 17:14:14 +0000 2026",
+    "metrics": {
+      "likes": 158,
+      "retweets": 45,
+      "replies": 14,
+      "quotes": 3,
+      "bookmarks": 70,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 45, "retweets": 17, "replies": 4 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "followersCount": 1364187 },
+    "user": { "followersCount": 1364759 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120323958952046636",
     "fullText": "RT @ReutersWorld: EXCLUSIVE: Covert Russian network exploited French riots on social media, EU report says https://t.co/lZxd71ugKX",
@@ -646,219 +697,202 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 2573993 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 385282 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120561386225070504",
-    "fullText": "They're likely to be more concerned with appearances than actually achieving the goal; this can lead to ruin over time. #principleoftheday https://t.co/IKV7qHobc3",
-    "createdAt": "Wed Nov 11 16:56:47 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120814780336542108",
+    "fullText": "Good Morning from Germany, where trade w/China has hit another grim record: a €114bn deficit in the 12 months through Sep. Some relief comes from the US: Germany’s trade surplus has rebounded to €51bn, partly offsetting the China shortfall. https://t.co/O2yfShc7yo",
+    "createdAt": "Thu Nov 12 09:43:41 +0000 2026",
     "metrics": {
-      "likes": 351,
-      "retweets": 28,
-      "replies": 23,
-      "quotes": 7,
-      "bookmarks": 46,
+      "likes": 223,
+      "retweets": 43,
+      "replies": 22,
+      "quotes": 6,
+      "bookmarks": 19,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 113, "retweets": 8, "replies": 7 }
+    "growth": { "views": 0, "likes": 223, "retweets": 43, "replies": 22 }
   },
   {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 1484246 },
+    "tags": [ "Science" ],
+    "user": { "followersCount": 832818 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120650764401950784",
-    "fullText": "jensen looking like a no show on trump’s shenzhen trip next week.",
-    "createdAt": "Wed Nov 11 22:51:56 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120663070884454694",
+    "fullText": "Moving on to preventing cancer with vaccines\nWith today's @NEJM publication of the melanoma treatment vaccine success https://t.co/iMa78nPCUv\nThe editorial notes the remarkable potential for vaccines to prevent cancer: \nhttps://t.co/iMa78nPCUv\n\"a vaccine against 25 recurrent https://t.co/0nZUPT3JX4",
+    "createdAt": "Wed Nov 11 23:40:50 +0000 2026",
     "metrics": {
-      "likes": 533,
+      "likes": 163,
       "retweets": 40,
-      "replies": 28,
-      "quotes": 2,
-      "bookmarks": 9,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 473, "retweets": 33, "replies": 22 }
-  },
-  {
-    "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120558799958556872",
-    "fullText": "The obesity adverse outcome story.\nBMI is a poor and misleading way to quantify obesity\nWhen the CAD-obesity definition is used, we see the increased risk of all-cause mortality (top graphs) and lesser risk for preclinical obesity (lower graphs)\n@Nature \nhttps://t.co/mxx5ENViwz https://t.co/g9SAXAWftH",
-    "createdAt": "Wed Nov 11 16:46:30 +0000 2026",
-    "metrics": {
-      "likes": 130,
-      "retweets": 36,
-      "replies": 20,
+      "replies": 12,
       "quotes": 3,
-      "bookmarks": 57,
+      "bookmarks": 38,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 51, "retweets": 18, "replies": 2 }
+    "growth": { "views": 0, "likes": 74, "retweets": 18, "replies": 3 }
   },
   {
-    "tags": [ "Tech", "Politics", "Economy" ],
-    "user": { "followersCount": 241328678 },
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 2551441 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120765326233137566",
-    "fullText": "RT @mntruell: Bot 1.0 is out!",
-    "createdAt": "Thu Nov 12 06:27:10 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120920326695428394",
+    "fullText": "Secretary of War Pete Hegseth has awarded the Joint Service Commendation Medal to Spcecialist Iglesias, the 3rd U.S. Infantry Regiment “Old Guard” sentinel captured on video yesterday halting his walk to admonish the Secretary’s party after some in the group grew too loud near https://t.co/vmEyHxPnyQ",
+    "createdAt": "Thu Nov 12 16:43:05 +0000 2026",
     "metrics": {
-      "likes": 0,
-      "retweets": 77,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 77, "replies": 0 }
-  },
-  {
-    "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120565777229344841",
-    "fullText": "A study on accelerated aging with chemotherapy for breast cancer\nMore aggressive chemo, improved breast cancer survival but a tradeoff of accelerated biological aging and increased risk of non-breast cancer mortality\nhttps://t.co/YONcyOHJjP",
-    "createdAt": "Wed Nov 11 17:14:14 +0000 2026",
-    "metrics": {
-      "likes": 113,
-      "retweets": 28,
-      "replies": 10,
-      "quotes": 2,
-      "bookmarks": 61,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 57, "retweets": 8, "replies": 1 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Finance" ],
-    "user": { "followersCount": 4153103 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120713344504176713",
-    "fullText": "RT @lithos_graphein: Honestly disappointed with everyone who is writing him off. He's one of our most talented tech visionaries. No reason…",
-    "createdAt": "Thu Nov 12 03:00:36 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 55,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 55, "replies": 0 }
-  },
-  {
-    "tags": [ "Economy", "Finance" ],
-    "user": { "followersCount": 1118273 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120577133424554390",
-    "fullText": "Flying under the radar, at least for now:\nThe Japanese yen has weakened to almost 160 per US dollar, a level widely seen as entering the FX intervention zone.\nThis “repeated game” dymanic is in large part a reflection of the delays in aligning Japan’s fiscal, monetary and https://t.co/Xs0DrvD1vr",
-    "createdAt": "Wed Nov 11 17:59:21 +0000 2026",
-    "metrics": {
-      "likes": 218,
+      "likes": 276,
       "retweets": 23,
-      "replies": 36,
-      "quotes": 5,
-      "bookmarks": 15,
+      "replies": 27,
+      "quotes": 9,
+      "bookmarks": 22,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 51, "retweets": 5, "replies": 4 }
-  },
-  {
-    "tags": [ "Crypto", "Finance" ],
-    "user": { "followersCount": 5219355 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120580771928842563",
-    "fullText": "RT @Strategy: Digital Credit is built for everyone. $MSTR $STRC https://t.co/p7IZ7keLEC",
-    "createdAt": "Wed Nov 11 18:13:49 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 52,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 7, "replies": 0 }
+    "growth": { "views": 0, "likes": 276, "retweets": 23, "replies": 27 }
   },
   {
     "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "followersCount": 1779595 },
+    "user": { "followersCount": 1779892 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120763833891352613",
-    "fullText": "Banks Have $2 Trillion in Mortgage Losses... 4x the 2008 Crisis https://t.co/baBay8p2Vq",
-    "createdAt": "Thu Nov 12 06:21:14 +0000 2026",
-    "metrics": {
-      "likes": 132,
-      "retweets": 26,
-      "replies": 26,
-      "quotes": 2,
-      "bookmarks": 20,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 132, "retweets": 26, "replies": 26 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 346854 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120669832718827859",
-    "fullText": "Never deleting this app",
-    "createdAt": "Thu Nov 12 00:07:42 +0000 2026",
-    "metrics": {
-      "likes": 442,
-      "retweets": 20,
-      "replies": 20,
-      "quotes": 0,
-      "bookmarks": 6,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 442, "retweets": 20, "replies": 20 }
-  },
-  {
-    "tags": [ "Tech", "Finance", "Politics", "Crypto" ],
-    "user": { "followersCount": 2267439 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120773150665511019",
-    "fullText": "RT @brianchau57: My Experience With the Leaders of the Jensen Coup\n\nAt the start of 2025, numerous Washington, D.C. based NGOs began spread…",
-    "createdAt": "Thu Nov 12 06:58:15 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120903405162156098",
+    "fullText": "RT @zerohedge: Existing Home Sales Crash To 16 Year Lows In October https://t.co/uPJiF65F5G",
+    "createdAt": "Thu Nov 12 15:35:50 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 47,
+      "retweets": 59,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 47, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 59, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Politics" ],
+    "user": { "followersCount": 5394497 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120663675321102479",
+    "fullText": "\"It has to be admitted that, speaking quantitatively, the greater part of the influence of the Poetics on our writers has consisted in unverified beliefs that Aristotle said this or that, which he did not say.\"\n\n— L. J. Potts",
+    "createdAt": "Wed Nov 11 23:43:14 +0000 2026",
+    "metrics": {
+      "likes": 237,
+      "retweets": 14,
+      "replies": 58,
+      "quotes": 4,
+      "bookmarks": 35,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 81, "retweets": 7, "replies": 13 }
+  },
+  {
+    "tags": [ "Tech", "Science", "Finance" ],
+    "user": { "followersCount": 4156234 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120798896402419965",
+    "fullText": "RT @NavalQuotes247: \"The more secrets you have, the less happy you’re going to be.\"\n\n@naval",
+    "createdAt": "Thu Nov 12 08:40:34 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 58,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 58, "replies": 0 }
+  },
+  {
+    "tags": [ "Politics", "Geopolitics", "Science" ],
+    "user": { "followersCount": 2392044 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120906644439593266",
+    "fullText": "NEW - BloombergNEF CEO, Albert Cheung, highlights the fact that all of the different technologies critical to the \"green transition\" are predominantly manufactured in China. https://t.co/ODMAXSQNrl",
+    "createdAt": "Thu Nov 12 15:48:43 +0000 2026",
+    "metrics": {
+      "likes": 160,
+      "retweets": 30,
+      "replies": 14,
+      "quotes": 5,
+      "bookmarks": 24,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 160, "retweets": 30, "replies": 14 }
   },
   {
     "tags": [ "Economy", "Finance" ],
-    "user": { "followersCount": 1118273 },
+    "user": { "followersCount": 1118426 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120483522783613268",
-    "fullText": "This chart, which comes from a Financial Times article,  illustrates how two core themes set out a year ago for 2026 have been playing out across European bonds: dispersion and volatility. \nThese themes have also been evident in other market segments, as well as several economies https://t.co/U4qvOlYqNV",
-    "createdAt": "Wed Nov 11 11:47:23 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120883635930780078",
+    "fullText": "Needless to say, the just-announced resignation of Nvidia's CEO Jensen Huang is a significant development given his key roles within the company and well beyond.\nYet, far from concluding this episode, it is just one chapter of a bigger issue with economic, financial, and",
+    "createdAt": "Thu Nov 12 14:17:17 +0000 2026",
     "metrics": {
-      "likes": 152,
-      "retweets": 23,
-      "replies": 22,
-      "quotes": 4,
-      "bookmarks": 13,
+      "likes": 175,
+      "retweets": 32,
+      "replies": 19,
+      "quotes": 1,
+      "bookmarks": 18,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 15, "retweets": 2, "replies": 1 }
+    "growth": { "views": 0, "likes": 175, "retweets": 32, "replies": 19 }
+  },
+  {
+    "tags": [ "Crypto", "Finance" ],
+    "user": { "followersCount": 5219681 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120902101337534549",
+    "fullText": "RT @Strategy: A small slice of weekly bank lending could absorb every new bitcoin mined. $MSTR $STRC https://t.co/nvk4jks9ge",
+    "createdAt": "Thu Nov 12 15:30:40 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 51,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 51, "replies": 0 }
   },
   {
     "tags": [ "Crypto", "Tech", "Science" ],
-    "user": { "followersCount": 7920052 },
+    "user": { "followersCount": 7919929 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120306201850442234",
-    "fullText": "RT @NathanpmYoung: 🪇🎉 Announcement 🎉🪇\n\nAn Epistemics Fund, sponsored by @oughtinc\n\nOught plans to make between $500k and $5M in grants to t…",
-    "createdAt": "Wed Nov 11 00:02:46 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120674593186947308",
+    "fullText": "RT @RuxandraTeslo: What are the visions of the post-AGI future in San Francisco? Many think we're all going to die, but even the \"positive\"…",
+    "createdAt": "Thu Nov 12 00:26:37 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 45,
+      "retweets": 49,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 12, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "followersCount": 418639 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120859585472864626",
+    "fullText": "RT @JFPuget: As all NVIDIA employees I guess, I am deeply concerned by the campaign against Jensen Huang. Removing him would be a disaster.…",
+    "createdAt": "Thu Nov 12 12:41:43 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 42,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 42, "replies": 0 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "followersCount": 1364759 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120332385493671969",
+    "fullText": "RT @NYU_Courant: We're hiring! New York University expects to have several tenure-track faculty positions in Computer Science and invites q…",
+    "createdAt": "Wed Nov 11 01:46:49 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 38,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
@@ -867,297 +901,331 @@
     "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
   },
   {
-    "tags": [ "Tech", "Science", "Politics" ],
-    "user": { "followersCount": 5394315 },
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 2551441 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120663675321102479",
-    "fullText": "\"It has to be admitted that, speaking quantitatively, the greater part of the influence of the Poetics on our writers has consisted in unverified beliefs that Aristotle said this or that, which he did not say.\"\n\n— L. J. Potts",
-    "createdAt": "Wed Nov 11 23:43:14 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120912502330364394",
+    "fullText": "President Donald J. Trump's Special Envoys Steve Witkoff and Jared Kushner have departed Moscow, Russia and are now heading to Helsinki, Finland following their meetings in Abu Dhabi and Moscow to discuss ending the war in Ukraine on board U.S. Air Force C-40B 02-0042 with call https://t.co/uVm9CImrm4",
+    "createdAt": "Thu Nov 12 16:11:59 +0000 2026",
     "metrics": {
-      "likes": 156,
-      "retweets": 7,
-      "replies": 45,
-      "quotes": 4,
-      "bookmarks": 25,
+      "likes": 155,
+      "retweets": 18,
+      "replies": 13,
+      "quotes": 2,
+      "bookmarks": 12,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 156, "retweets": 7, "replies": 45 }
+    "growth": { "views": 0, "likes": 155, "retweets": 18, "replies": 13 }
   },
   {
     "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
+    "user": { "followersCount": 832818 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120663070884454694",
-    "fullText": "Moving on to preventing cancer with vaccines\nWith today's @NEJM publication of the melanoma treatment vaccine success https://t.co/iMa78nPCUv\nThe editorial notes the remarkable potential for vaccines to prevent cancer: \nhttps://t.co/iMa78nPCUv\n\"a vaccine against 25 recurrent https://t.co/0nZUPT3JX4",
-    "createdAt": "Wed Nov 11 23:40:50 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120896724541870587",
+    "fullText": "Everyone has at least one DNA variant that affects their response to a medication. And almost no one knows that or the variant(s) they carry. @AllofUsResearch \nhttps://t.co/ytGu67pkDn @ScienceTM https://t.co/6RQAhLKjpN",
+    "createdAt": "Thu Nov 12 15:09:18 +0000 2026",
     "metrics": {
-      "likes": 89,
-      "retweets": 22,
+      "likes": 60,
+      "retweets": 16,
       "replies": 9,
-      "quotes": 2,
-      "bookmarks": 17,
+      "quotes": 1,
+      "bookmarks": 27,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 89, "retweets": 22, "replies": 9 }
+    "growth": { "views": 0, "likes": 60, "retweets": 16, "replies": 9 }
   },
   {
-    "tags": [ "Crypto", "Tech", "Science" ],
-    "user": { "followersCount": 7920052 },
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "followersCount": 418639 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120674593186947308",
-    "fullText": "RT @RuxandraTeslo: What are the visions of the post-AGI future in San Francisco? Many think we're all going to die, but even the \"positive\"…",
-    "createdAt": "Thu Nov 12 00:26:37 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120830010466730435",
+    "fullText": "RT @Bkerrychina: The UK is making it impossible to study China honestly\nEither you accept the dogma that the People’s Republic is an existe…",
+    "createdAt": "Thu Nov 12 10:44:12 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 37,
+      "retweets": 35,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 37, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 35, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 2551155 },
+    "tags": [ "Crypto", "Finance" ],
+    "user": { "followersCount": 5219681 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120677841256030517",
-    "fullText": "RT @Tammuz_Intel: Iraqi Security Forces are currently conducting arrest warrants, eastern Baghdad.  🇮🇶",
-    "createdAt": "Thu Nov 12 00:39:32 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120901859930190256",
+    "fullText": "RT @Strategy: Join us on November 19 at 5pm ET for our Q3 2026 Earnings Investor Q&amp;A with @Saylor and @PhongLe, hosted by @NatBrunell. \nhtt…",
+    "createdAt": "Thu Nov 12 15:29:42 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 37,
+      "retweets": 35,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 37, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Science" ],
-    "user": { "followersCount": 1364187 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120332385493671969",
-    "fullText": "RT @NYU_Courant: We're hiring! New York University expects to have several tenure-track faculty positions in Computer Science and invites q…",
-    "createdAt": "Wed Nov 11 01:46:49 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 36,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
-  },
-  {
-    "tags": [ "Tech", "Science", "Politics" ],
-    "user": { "followersCount": 5394315 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120478643155505366",
-    "fullText": "The Eterna cal 1466. Those 7 tiny ball bearings supporting the automatic-winding rotor were Eterna's great innovation. Eventually everyone switched from using a central post to this design, even Rolex. https://t.co/zJIe5uIkqA",
-    "createdAt": "Wed Nov 11 11:27:59 +0000 2026",
-    "metrics": {
-      "likes": 151,
-      "retweets": 9,
-      "replies": 50,
-      "quotes": 3,
-      "bookmarks": 11,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 13, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 35, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy", "Crypto" ],
-    "user": { "followersCount": 1140061 },
+    "user": { "followersCount": 1140078 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120584811064774901",
     "fullText": "RT @TimmerFidelity: Another look at where the market stands technically is to consider where we are relative to the prevailing trendline. T…",
     "createdAt": "Wed Nov 11 18:29:52 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 30,
+      "retweets": 33,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 6, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 3, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 145481 },
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 1975156 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120477530159481121",
-    "fullText": "The Fed just paused rate hikes while expanding its balance sheet, with core PCE (inflation) yoy running at 3.1% vs. 1.5% in 2019. It has been above the central bank's beloved (sarcasm) 2% target since March 2021; facts are facts.\n\n*Bloomberg terminal data. https://t.co/RABvdEChSl",
-    "createdAt": "Wed Nov 11 11:23:34 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120914448613318681",
+    "fullText": "NVIDIA INTERIM CEO KRESS GATHERING EXECUTIVE TEAM TODAY AT HQ - CNBC",
+    "createdAt": "Thu Nov 12 16:19:43 +0000 2026",
     "metrics": {
-      "likes": 67,
-      "retweets": 12,
-      "replies": 7,
-      "quotes": 3,
-      "bookmarks": 14,
+      "likes": 152,
+      "retweets": 16,
+      "replies": 15,
+      "quotes": 2,
+      "bookmarks": 2,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 5, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 152, "retweets": 16, "replies": 15 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "followersCount": 3432681 },
+    "tags": [ "Geopolitics", "Politics", "Economy" ],
+    "user": { "followersCount": 1484375 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120773703365484716",
-    "fullText": "German Taxpayers Bled Dry: Nearly 60% Of Welfare For Families With Kids Goes To Foreigners https://t.co/lCUrz4iYQP",
-    "createdAt": "Thu Nov 12 07:00:27 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120906482078072936",
+    "fullText": "nvidia stock down ~20% in the past 10 days, loss of $600 billion. \n\nlast night’s dip alone = big tech’s fourth worst one-day loss (-$360b)\n\njensen: out https://t.co/ERP56oaSCQ",
+    "createdAt": "Thu Nov 12 15:48:04 +0000 2026",
     "metrics": {
-      "likes": 62,
-      "retweets": 13,
+      "likes": 75,
+      "retweets": 20,
       "replies": 7,
       "quotes": 1,
       "bookmarks": 6,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 62, "retweets": 13, "replies": 7 }
-  },
-  {
-    "tags": [ "Economy", "Politics" ],
-    "user": { "followersCount": 4617639 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120479156572242135",
-    "fullText": "TOMORROW: This year's Annual Research Conference is entitled \"Towards a Multipolar World – Technology and Geopolitics.\" Watch the opening session, policy panel, and the Mundell-Fleming Lecture of the 27th Jacques Polak Annual Research Conference on Nov 12-13. #ARCPolak https://t.co/49xsVsIIiN",
-    "createdAt": "Wed Nov 11 11:30:02 +0000 2026",
-    "metrics": {
-      "likes": 47,
-      "retweets": 12,
-      "replies": 8,
-      "quotes": 2,
-      "bookmarks": 4,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 10, "retweets": 3, "replies": 2 }
-  },
-  {
-    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "followersCount": 1779595 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120704864980226511",
-    "fullText": "Wigberto Lugo, the trustee whom OCIF put in charge of liquidating my bank, is so incompetent that he breached his own settlement agreement and is allowing Brent De Jong of Qenta to steal tens of millions of dollars that belong to the bank's customers. I knew this would be the",
-    "createdAt": "Thu Nov 12 02:26:55 +0000 2026",
-    "metrics": {
-      "likes": 139,
-      "retweets": 5,
-      "replies": 14,
-      "quotes": 0,
-      "bookmarks": 8,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 139, "retweets": 5, "replies": 14 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "followersCount": 3432681 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120734693846851791",
-    "fullText": "More Cancer Cases But Fewer Deaths In Hong Kong https://t.co/luiJ24sLFw",
-    "createdAt": "Thu Nov 12 04:25:27 +0000 2026",
-    "metrics": {
-      "likes": 80,
-      "retweets": 9,
-      "replies": 5,
-      "quotes": 2,
-      "bookmarks": 5,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 80, "retweets": 9, "replies": 5 }
-  },
-  {
-    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
-    "user": { "followersCount": 3432681 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120740985667780980",
-    "fullText": "\"This One Smells\": Ex-CIA Analyst Says Russian Death Toll Leak Arrived Right On Cue https://t.co/Cn8yhFD938",
-    "createdAt": "Thu Nov 12 04:50:27 +0000 2026",
-    "metrics": {
-      "likes": 78,
-      "retweets": 7,
-      "replies": 7,
-      "quotes": 2,
-      "bookmarks": 8,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 78, "retweets": 7, "replies": 7 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 581709 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120628889093296540",
-    "fullText": "“Americans owe it to themselves to take heed of Morgenthau’s sober vision of international politics. There is no better teacher of realism than Hans Morgenthau, the man who literally wrote the book on great-power competition,” writes CFR expert @DavidMSacks1 in his new book, The",
-    "createdAt": "Wed Nov 11 21:25:01 +0000 2026",
-    "metrics": {
-      "likes": 27,
-      "retweets": 7,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 18,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 20, "retweets": 4, "replies": 0 }
+    "growth": { "views": 0, "likes": 75, "retweets": 20, "replies": 7 }
   },
   {
     "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 417218 },
+    "user": { "followersCount": 1484375 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120494618332856413",
-    "fullText": "RT @pstAsiatech: Bertrand: In fact, it looks like Megaspeed - Alice Huang's company - was a counter-reaction to official Chinese policy: a…",
-    "createdAt": "Wed Nov 11 12:31:28 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120875022390792475",
+    "fullText": "trump now saying (once again) no need for an iran deal. \n\ncould see disruptions to the strait lasting for a good while yet…",
+    "createdAt": "Thu Nov 12 13:43:03 +0000 2026",
+    "metrics": {
+      "likes": 138,
+      "retweets": 17,
+      "replies": 11,
+      "quotes": 1,
+      "bookmarks": 2,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 138, "retweets": 17, "replies": 11 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 145484 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120847864884502613",
+    "fullText": "Apple - is the beloved \"AI safe haven\" at 11x sales. \n\n*From 2009-2019, $AAPL traded at 2x to 5x sales; Buffett just dumped 773 million shares of the iPhone maker. \n\n**Nvidia 33% off sale - Apple at an all-time high. Has never happened; top 2 stocks in the S&amp;P 500. https://t.co/cHFnkFP798",
+    "createdAt": "Thu Nov 12 11:55:09 +0000 2026",
+    "metrics": {
+      "likes": 64,
+      "retweets": 12,
+      "replies": 8,
+      "quotes": 4,
+      "bookmarks": 14,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 64, "retweets": 12, "replies": 8 }
+  },
+  {
+    "tags": [ "Crypto", "Tech", "Science" ],
+    "user": { "followersCount": 7919929 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120818741537849514",
+    "fullText": "RT @VitalikButerin: @misparkl3 @Fatalmeh ok please don't do this\n\ncontra those losers who tried to go after aya in early 2025, bullying is…",
+    "createdAt": "Thu Nov 12 09:59:25 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 17,
+      "retweets": 27,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 27, "replies": 0 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "followersCount": 832818 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120895309446578321",
+    "fullText": "Trying to buy healthspan with lots of money. \nFrom gene therapy, to hyperbaric chambers, multiple \"longevity doctors\" on speed dial, to an abundance of unproven biohacking tactics\ngift link, by @GunjanJS \nhttps://t.co/466GEEJotQ https://t.co/2JoTqueHa3",
+    "createdAt": "Thu Nov 12 15:03:40 +0000 2026",
+    "metrics": {
+      "likes": 44,
+      "retweets": 9,
+      "replies": 9,
+      "quotes": 2,
+      "bookmarks": 21,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 44, "retweets": 9, "replies": 9 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 145481 },
+    "user": { "followersCount": 346898 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120653784674099230",
-    "fullText": "Passive Investing is Broken\n\nTop 2 Stocks S&amp;P 500 composition:\n\n2026: 15.3%*\n2016: 5.2%**\n\n*Nvidia + Apple \n**Apple + Microsoft https://t.co/TJq9SmM8Z1",
-    "createdAt": "Wed Nov 11 23:03:56 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120899011741970910",
+    "fullText": "RT @dailystoic: https://t.co/CpPqnauGTj",
+    "createdAt": "Thu Nov 12 15:18:23 +0000 2026",
     "metrics": {
-      "likes": 38,
-      "retweets": 4,
-      "replies": 13,
-      "quotes": 1,
-      "bookmarks": 15,
+      "likes": 0,
+      "retweets": 24,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 38, "retweets": 4, "replies": 13 }
+    "growth": { "views": 0, "likes": 0, "retweets": 24, "replies": 0 }
   },
   {
     "tags": [ "Economy", "Politics" ],
-    "user": { "followersCount": 4617639 },
+    "user": { "followersCount": 4619197 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120650129602752805",
     "fullText": "Why does foreign investment bring fewer exports to Latin America and the Caribbean than to other emerging markets? Our new Regional Economic Outlook chapter points to two gaps to close: technology absorption and trade logistics https://t.co/UbuFsVxvtF https://t.co/dtf0jft36c",
     "createdAt": "Wed Nov 11 22:49:25 +0000 2026",
     "metrics": {
-      "likes": 32,
-      "retweets": 9,
-      "replies": 8,
+      "likes": 52,
+      "retweets": 16,
+      "replies": 13,
       "quotes": 0,
       "bookmarks": 5,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 32, "retweets": 9, "replies": 8 }
+    "growth": { "views": 0, "likes": 20, "retweets": 7, "replies": 5 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "followersCount": 3434803 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120923364214882390",
+    "fullText": "*US PROBING IF ALICE HUANG HELPED SMUGGLE SUPER MICRO PRODUCTS",
+    "createdAt": "Thu Nov 12 16:55:09 +0000 2026",
+    "metrics": {
+      "likes": 76,
+      "retweets": 11,
+      "replies": 9,
+      "quotes": 1,
+      "bookmarks": 4,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 76, "retweets": 11, "replies": 9 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "followersCount": 832818 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120912532152213542",
+    "fullText": "How multimodal AI, combined with blood test omics via \"liquid biopsies,\" will transform cancer monitoring and enable earliest detection. \nopen-access @CellCellPress \nhttps://t.co/PoDyz9S3S6 https://t.co/ekhEKF0PlH",
+    "createdAt": "Thu Nov 12 16:12:06 +0000 2026",
+    "metrics": {
+      "likes": 18,
+      "retweets": 8,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 20,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 18, "retweets": 8, "replies": 0 }
+  },
+  {
+    "tags": [ "Crypto", "Finance" ],
+    "user": { "followersCount": 5219681 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120904120781426852",
+    "fullText": "RT @apyx_fi: Digital credit yield vs. the rest of DeFi. 👇\n\n$apyUSD 30D APY: 13.84%\n\nBuilt on digital credit dividends. 👑 https://t.co/y4YcB…",
+    "createdAt": "Thu Nov 12 15:38:41 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 18,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 18, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 1975156 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120920476063351293",
+    "fullText": "FED'S GOOLSBEE: FED IS FAILING ON THE INFLATION SIDE OF MANDATE",
+    "createdAt": "Thu Nov 12 16:43:40 +0000 2026",
+    "metrics": {
+      "likes": 78,
+      "retweets": 5,
+      "replies": 12,
+      "quotes": 3,
+      "bookmarks": 5,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 78, "retweets": 5, "replies": 12 }
+  },
+  {
+    "tags": [ "Economy", "Finance" ],
+    "user": { "followersCount": 1118426 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120916971893969284",
+    "fullText": "Once again, US equity markets are demonstrating very impressive resilience.\nAfter the earlier Nvidia-led selloff, all three major indices rebounded and are currently trading higher for the day.\n(CNBC data below.) \n#economy #markets #nvidia #investors #investing https://t.co/4W6t88capZ",
+    "createdAt": "Thu Nov 12 16:29:45 +0000 2026",
+    "metrics": {
+      "likes": 54,
+      "retweets": 8,
+      "replies": 12,
+      "quotes": 0,
+      "bookmarks": 5,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 54, "retweets": 8, "replies": 12 }
+  },
+  {
+    "tags": [ "Economy", "Politics" ],
+    "user": { "followersCount": 4619197 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120883071734149407",
+    "fullText": "🔴 LIVE NOW: IMF Managing Director @KGeorgieva, opens the 27th Jacques Polak Annual Research Conference, “Towards a Multipolar World – Technology and Geopolitics.” Watch the opening and follow the program: #ARCPolak https://t.co/2E0zQnHdoj",
+    "createdAt": "Thu Nov 12 14:15:03 +0000 2026",
+    "metrics": {
+      "likes": 27,
+      "retweets": 11,
+      "replies": 4,
+      "quotes": 1,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 27, "retweets": 11, "replies": 4 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "followersCount": 1364187 },
+    "user": { "followersCount": 1364759 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120329897600053703",
     "fullText": "RT @WIRED: Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate re…",
@@ -1173,144 +1241,59 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 346854 },
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 2551441 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120716049079316823",
-    "fullText": "RT @factoryfootages: If something is good, there is no need to change it. https://t.co/1NBEhGCtOj",
-    "createdAt": "Thu Nov 12 03:11:21 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120904409295237396",
+    "fullText": "Good coverage of the entire sequence of events this morning in D.C. from @angertab.🤙",
+    "createdAt": "Thu Nov 12 15:39:50 +0000 2026",
     "metrics": {
-      "likes": 0,
-      "retweets": 12,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 12, "replies": 0 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 1484246 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120734258310631817",
-    "fullText": "good morning dubai! \n\na little overcast, regular traffic, airport a lot busier than a few months ago… https://t.co/JRTOAHLIBN",
-    "createdAt": "Thu Nov 12 04:23:43 +0000 2026",
-    "metrics": {
-      "likes": 73,
-      "retweets": 4,
-      "replies": 11,
-      "quotes": 0,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 73, "retweets": 4, "replies": 11 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Economy" ],
-    "user": { "followersCount": 1484246 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120647939798294760",
-    "fullText": "extraordinary week. in some ways a bigger deal than the midterms.",
-    "createdAt": "Wed Nov 11 22:40:43 +0000 2026",
-    "metrics": {
-      "likes": 39,
-      "retweets": 4,
-      "replies": 5,
-      "quotes": 1,
-      "bookmarks": 2,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 9, "retweets": 1, "replies": 1 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "followersCount": 26330059 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120768580270612802",
-    "fullText": "Fighting between the Ethiopian army and Tigray’s ruling party has resumed. If it continues, this latest round will be dramatically different from the previous civil war. Register for free to learn why  https://t.co/3cdsBONojq",
-    "createdAt": "Thu Nov 12 06:40:06 +0000 2026",
-    "metrics": {
-      "likes": 9,
-      "retweets": 5,
-      "replies": 2,
-      "quotes": 1,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 9, "retweets": 5, "replies": 2 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 346854 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120666794876612695",
-    "fullText": "I nominate James Fishback, former Head of Macro at Greenlight Capital, as the new CEO of NVDA https://t.co/ElsTSnAtGd",
-    "createdAt": "Wed Nov 11 23:55:38 +0000 2026",
-    "metrics": {
-      "likes": 59,
+      "likes": 136,
       "retweets": 2,
-      "replies": 6,
+      "replies": 3,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 9,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 59, "retweets": 2, "replies": 6 }
-  },
-  {
-    "tags": [ "Economy", "Finance", "Crypto", "Politics" ],
-    "user": { "followersCount": 1779595 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120697900699177178",
-    "fullText": "RT @SchiffGold: Can democracy survive without limits on government power? This article examines how majority rule, political polarization,…",
-    "createdAt": "Thu Nov 12 01:59:14 +0000 2026",
-    "metrics": {
-      "likes": 0,
-      "retweets": 7,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 7, "replies": 0 }
+    "growth": { "views": 0, "likes": 136, "retweets": 2, "replies": 3 }
   },
   {
     "tags": [ "Tech", "Science" ],
-    "user": { "followersCount": 1364187 },
+    "user": { "followersCount": 1364759 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120307597932654790",
     "fullText": "RT @jbhuang0604: @ylecun @TimDarcet @gabriberton in a nutshell https://t.co/hP2RxZKInv",
     "createdAt": "Wed Nov 11 00:08:19 +0000 2026",
     "metrics": {
       "likes": 0,
-      "retweets": 7,
+      "retweets": 9,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 145481 },
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 581739 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120639714453590283",
-    "fullText": "Hubris + Testosterone =",
-    "createdAt": "Wed Nov 11 22:08:02 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120894472145772811",
+    "fullText": "“Access to critical minerals, rare earth elements, and their midstream and downstream products is becoming instrumental in determining the outcome of geopolitical competition and the shape of the future world order,” writes expert Heidi E. Crebo-Rediker. “In this competition, https://t.co/UkmEtSBmqE",
+    "createdAt": "Thu Nov 12 15:00:21 +0000 2026",
     "metrics": {
-      "likes": 34,
-      "retweets": 3,
-      "replies": 5,
+      "likes": 7,
+      "retweets": 4,
+      "replies": 0,
       "quotes": 0,
-      "bookmarks": 2,
+      "bookmarks": 4,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 21, "retweets": 2, "replies": 1 }
+    "growth": { "views": 0, "likes": 7, "retweets": 4, "replies": 0 }
   },
   {
     "tags": [ "Economy", "Politics" ],
-    "user": { "followersCount": 4617639 },
+    "user": { "followersCount": 4619197 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120523888471707741",
     "fullText": "RT @STenreyroIMF: Are changes in technology &amp; geopolitics leading to multipolarity? How will this reshape the international monetary system…",
@@ -1326,114 +1309,182 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 581709 },
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "followersCount": 3434803 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120630246202311036",
-    "fullText": "“The crisis and chaos within the Pentagon will outlive the current leadership unless Congress also takes steps to fix personnel policies, particularly those affecting women,” argues expert @RobinsonL100. Although there has been growing pressure on Defense Secretary Hegseth, the https://t.co/KJNtgrESsD",
-    "createdAt": "Wed Nov 11 21:30:24 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120924398832046228",
+    "fullText": "*FED UPDATES 2027 FOMC CALENDAR, DROPS OCTOBER RATE MEETING",
+    "createdAt": "Thu Nov 12 16:59:16 +0000 2026",
     "metrics": {
-      "likes": 8,
-      "retweets": 5,
-      "replies": 1,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 4, "retweets": 1, "replies": 0 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 712400 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120592397365047753",
-    "fullText": "Factor correlations are diverging sharply. \nSince June 2026:\n📈 Low Volatility: +7.8%\n📉 Growth: -8.4%\n📉 Momentum: -18.3%\n\nExplore how E-mini Factor futures can help manage the shift: https://t.co/NzinIgunCm https://t.co/azRlaYoPok",
-    "createdAt": "Wed Nov 11 19:00:00 +0000 2026",
-    "metrics": {
-      "likes": 26,
-      "retweets": 2,
-      "replies": 3,
-      "quotes": 0,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 11, "retweets": 0, "replies": 0 }
-  },
-  {
-    "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "followersCount": 26330059 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120773613062074812",
-    "fullText": "A decent welfare state, with dignity in ill-health, poverty and old age, is as central to Europe as walkable cities and long holidays. But the continent cannot afford it https://t.co/FchRSM2vHX \n\nPhoto: Getty Images https://t.co/LcTa2B05H2",
-    "createdAt": "Thu Nov 12 07:00:06 +0000 2026",
-    "metrics": {
-      "likes": 7,
-      "retweets": 2,
-      "replies": 1,
-      "quotes": 0,
-      "bookmarks": 3,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 7, "retweets": 2, "replies": 1 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics", "Tech" ],
-    "user": { "followersCount": 306246 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120489421975749004",
-    "fullText": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization’s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurity firm has revealed. https://t.co/r0W3tP76nF",
-    "createdAt": "Wed Nov 11 12:10:49 +0000 2026",
-    "metrics": {
-      "likes": 4,
-      "retweets": 2,
-      "replies": 1,
+      "likes": 14,
+      "retweets": 3,
+      "replies": 0,
       "quotes": 1,
       "bookmarks": 1,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 1 }
+    "growth": { "views": 0, "likes": 14, "retweets": 3, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics", "Geopolitics" ],
+    "user": { "followersCount": 3434803 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120923439213003260",
+    "fullText": "Judge Denies Alaska Democratic US ​Senate Candidate's Request For Ballot Data https://t.co/23YMPF1d6C",
+    "createdAt": "Thu Nov 12 16:55:27 +0000 2026",
+    "metrics": {
+      "likes": 6,
+      "retweets": 4,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 6, "retweets": 4, "replies": 1 }
+  },
+  {
+    "tags": [ "Tech", "Science" ],
+    "user": { "followersCount": 603786 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120878837244600694",
+    "fullText": "RT @TheRundownAI: OFFICIAL: Jensen Huang has resigned as CEO of NVIDIA. https://t.co/JaWciOrwKw",
+    "createdAt": "Thu Nov 12 13:58:13 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 5,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 5, "replies": 0 }
   },
   {
     "tags": [ "Geopolitics", "Politics", "Tech" ],
-    "user": { "followersCount": 306246 },
+    "user": { "followersCount": 306262 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120647270345425066",
-    "fullText": "Nearly 3 in 4 Surveyed Military Personnel Report Chronic Knee Pain\nIn a new survey from @PaciraBio, 74% of military personnel reported chronic knee pain, and 70% lost income because of it. Dr. Yao-Wen Eliot Hu, who treated service members at Camp Pendleton, explains why pain https://t.co/GzUyHy2S67",
-    "createdAt": "Wed Nov 11 22:38:03 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120886224353136799",
+    "fullText": "The Army sentinel stepped forward to shout at the defense secretary’s entourage after hearing laughter from the group following a photo op at the solemn site on Veterans Day. #Hegseth #veteransday #unknownsoldier https://t.co/C67Ml2zJtw",
+    "createdAt": "Thu Nov 12 14:27:34 +0000 2026",
     "metrics": {
-      "likes": 8,
+      "likes": 15,
+      "retweets": 2,
+      "replies": 4,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 15, "retweets": 2, "replies": 4 }
+  },
+  {
+    "tags": [ "Science" ],
+    "user": { "followersCount": 832818 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120898659609198990",
+    "fullText": "This is applicable on a daily basis.\nThe irony of AI's remarkable predictive power and its unpredictability\nNew cover @TheEconomist https://t.co/1paHqenQTn",
+    "createdAt": "Thu Nov 12 15:16:59 +0000 2026",
+    "metrics": {
+      "likes": 13,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 2,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 13, "retweets": 1, "replies": 2 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 581739 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120917785916125607",
+    "fullText": "RT @Brad_Setser: The PBOC's official position, apparently, is that it doesn't have any hidden reserves and that the SCBs don't help with ex…",
+    "createdAt": "Thu Nov 12 16:32:59 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 3, "replies": 0 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics" ],
+    "user": { "followersCount": 581739 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120910939591467432",
+    "fullText": "The G20's agenda in December is expected to cover topics from economic growth to technological innovation. A gathering of religious and civic leaders in Salt Lake City, Utah, ahead of the summit put an emphasis on working together to reduce human suffering and advance peace https://t.co/4IIPqqvp61",
+    "createdAt": "Thu Nov 12 16:05:47 +0000 2026",
+    "metrics": {
+      "likes": 4,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 4, "retweets": 2, "replies": 1 }
+  },
+  {
+    "tags": [ "Geopolitics", "Politics", "Tech" ],
+    "user": { "followersCount": 306262 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120896949079449796",
+    "fullText": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable. https://t.co/aDIbyZ5D0q",
+    "createdAt": "Thu Nov 12 15:10:11 +0000 2026",
+    "metrics": {
+      "likes": 7,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 6, "retweets": 2, "replies": 0 }
+    "growth": { "views": 0, "likes": 7, "retweets": 2, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 712400 },
+    "user": { "followersCount": 145484 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120607497174090132",
-    "fullText": "NVIDIA reports earnings after the close on November 17. Gain capital-efficient, 23-hour access to NVIDIA through financially-settled standard and Micro Single Stock futures (SNVDA / XNVDA). https://t.co/uq7WUmvoX2 https://t.co/vXC16I49xe",
-    "createdAt": "Wed Nov 11 20:00:00 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120873376348578190",
+    "fullText": "$1T counterparty risk, ya think???",
+    "createdAt": "Thu Nov 12 13:36:31 +0000 2026",
     "metrics": {
-      "likes": 11,
+      "likes": 8,
+      "retweets": 1,
+      "replies": 4,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 8, "retweets": 1, "replies": 4 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 145484 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120875086882242940",
+    "fullText": "The Buy high - SELL low crowd...",
+    "createdAt": "Thu Nov 12 13:43:19 +0000 2026",
+    "metrics": {
+      "likes": 18,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 1,
+      "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 18, "retweets": 1, "replies": 1 }
   },
   {
-    "tags": [ "Science" ],
-    "user": { "followersCount": 832751 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 346898 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120538276113330315",
-    "fullText": "RT @DShaywitz: Great discussion! Can’t do much better than this @emollick interview w @EricTopol to get up to speed on AI in general, and p…",
-    "createdAt": "Wed Nov 11 15:24:57 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120913983821504902",
+    "fullText": "RT @Richard_Casey: Russia has limited access to trade settlement in USD, yuan or other currencies. Thus it has to go through 3rd party inte…",
+    "createdAt": "Thu Nov 12 16:17:53 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 2,
@@ -1442,49 +1493,83 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
+    "growth": { "views": 0, "likes": 0, "retweets": 2, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 712400 },
+    "user": { "followersCount": 712415 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120559564017832280",
-    "fullText": "Options Wednesday: A look at this week’s positioning\n\nThis week, activity in Micro Bitcoin options is concentrated in near-term expiries, with traders using short-dated options for tactical risk management. Track the latest volume and trend shifts on our interactive dashboard https://t.co/76foLvkWZn",
-    "createdAt": "Wed Nov 11 16:49:32 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120894386598744442",
+    "fullText": "See how derived futures and options blocks enhance intraday liquidity across 35+ equity Index futures options contracts.\n\nRead the article 👉 https://t.co/5sd5frjcwr https://t.co/mLxTT2p0Um",
+    "createdAt": "Thu Nov 12 15:00:00 +0000 2026",
     "metrics": {
-      "likes": 12,
+      "likes": 7,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 7, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 10496037 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120925855308255646",
+    "fullText": "Pentagon CIO calls freezer hacks \"a wake-up call for society\" https://t.co/y1TJydgREk",
+    "createdAt": "Thu Nov 12 17:05:03 +0000 2026",
+    "metrics": {
+      "likes": 5,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 5, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 712415 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120918113654849754",
+    "fullText": "South America is home to roughly 60% of the world's lithium reserves as well as abundant supplies of copper and rare earth deposits. In the November OpenMarkets newsletter, read about critical mineral supply chains, and more. https://t.co/Dd7LQePNdC",
+    "createdAt": "Thu Nov 12 16:34:17 +0000 2026",
+    "metrics": {
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 4, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Science" ],
+    "user": { "followersCount": 26330749 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120924649810808933",
+    "fullText": "Democrats may try again to impeach Pete Hegseth, while seeking other ways to halt the war in Iran. But their options are limited https://t.co/NM2oguotG3",
+    "createdAt": "Thu Nov 12 17:00:16 +0000 2026",
+    "metrics": {
+      "likes": 2,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 2, "retweets": 1, "replies": 0 }
+    "growth": { "views": 0, "likes": 2, "retweets": 1, "replies": 2 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 10495197 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 346898 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120778130977702007",
-    "fullText": "LISTEN: Will Nvidia oust Jensen Huang as CEO? And what’s next for AI markets? \n\nBloomberg journalists discuss here ⤵️ https://t.co/KU1NaYiflH",
-    "createdAt": "Thu Nov 12 07:18:03 +0000 2026",
-    "metrics": {
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 1,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 2 }
-  },
-  {
-    "tags": [ "Geopolitics", "Politics" ],
-    "user": { "followersCount": 581709 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120693731565125954",
-    "fullText": "RT @JamesMLindsay: #OnThisDay in 1919, Woodrow Wilson proclaimed the first Armistice Day, a holiday meant to express gratitude for the US v…",
-    "createdAt": "Thu Nov 12 01:42:40 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120920098428862496",
+    "fullText": "RT @SantiagoAuFund: @Askeladd137 @STOPED2018 @steve_alarm yep.\nthere is a difference between choosing dedollarization and being dedollarize…",
+    "createdAt": "Thu Nov 12 16:42:10 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 1,
@@ -1496,12 +1581,29 @@
     "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
   },
   {
-    "tags": [ "Politics", "Economy", "Science" ],
-    "user": { "followersCount": 26330059 },
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 133711 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120778642162581982",
-    "fullText": "While Japanese companies short of labour are competing fiercely for fresh blood, workers in their 40s and 50s are being frozen out. Register for free to discover how this “ice-age” generation has been cursed several times of over  https://t.co/0umx43LdGP",
-    "createdAt": "Thu Nov 12 07:20:05 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120803888018215157",
+    "fullText": "In the latest episode of Structured Finance in Focus, Eberhard Hackel and Sophie Crofts discuss borrower performance, household pressures and the outlook for European consumer ABS credit risk.\n\nWatch Now: https://t.co/8sMMreEucA\n\n#FitchRatings #StructuredFinance #EuropeanABS https://t.co/UDiQXwtuUX",
+    "createdAt": "Thu Nov 12 09:00:24 +0000 2026",
+    "metrics": {
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 0, "retweets": 1, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy", "Politics" ],
+    "user": { "followersCount": 10496037 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120924676268433872",
+    "fullText": "Andy Burnham’s UK government said it won’t accept EU rules on artificial intelligence as a condition of improved ties with the bloc, raising new questions about how far Britain is willing to go in any rethink of Brexit https://t.co/SUktIRV1ya",
+    "createdAt": "Thu Nov 12 17:00:22 +0000 2026",
     "metrics": {
       "likes": 2,
       "retweets": 0,
@@ -1513,42 +1615,42 @@
     "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 2 }
   },
   {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 133708 },
+    "tags": [ "Politics", "Economy", "Science" ],
+    "user": { "followersCount": 26330749 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120667899186630909",
-    "fullText": "Structured capital solutions are reshaping fund finance distribution across #APAC. CFOs, securitisation, forward-flow models and institutional investor participation were among the themes discussed at the Fund Finance Symposium in #Singapore.\n\nLearn More: https://t.co/CFuOunZxCK https://t.co/6pzAEygJ6u",
-    "createdAt": "Thu Nov 12 00:00:01 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120925913466515767",
+    "fullText": "Unlike in the European Union, governments don’t fret about the influx https://t.co/SakqYhpPIi",
+    "createdAt": "Thu Nov 12 17:05:17 +0000 2026",
     "metrics": {
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 0
-    },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 2 }
-  },
-  {
-    "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 133708 },
-    "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120592435851989050",
-    "fullText": "Limited aircraft supply and investor demand continue to support #aviation secondary-market values. Fitch Ratings designates the 737 MAX 10 as Tier 1, the MAX 7 as Tier 2 and reclassifies the 787-8 to Tier 2. #Aviation #AircraftFinance Learn More: https://t.co/FjPN3Fzj2n https://t.co/NN1BjoRCFG",
-    "createdAt": "Wed Nov 11 19:00:10 +0000 2026",
-    "metrics": {
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 1 }
+    "growth": { "views": 0, "likes": 3, "retweets": 0, "replies": 1 }
+  },
+  {
+    "tags": [ "Politics", "Economy", "Science" ],
+    "user": { "followersCount": 26330749 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120923392303833152",
+    "fullText": "The astonishing Inca site deserves more wrathful management https://t.co/lNkxXU7Wq8",
+    "createdAt": "Thu Nov 12 16:55:16 +0000 2026",
+    "metrics": {
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 2, "retweets": 0, "replies": 1 }
   },
   {
     "tags": [ "Finance", "Economy" ],
-    "user": { "followersCount": 133708 },
+    "user": { "followersCount": 133711 },
     "images": [],
     "tweetUrl": "https://x.com/undefined/status/2120728346057162831",
     "fullText": "Fitch expects strong market positions, high cash flow visibility, low capex investment risk and #telecom sector consolidation to continue to support the investment-grade #credit profiles of the rated #tower operators in APAC.\n\nRead more: https://t.co/lwDQY6icS8\n\n#AsiaPacific https://t.co/wCj3BQntvq",
@@ -1561,15 +1663,49 @@
       "bookmarks": 0,
       "views": 0
     },
-    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 1 }
+    "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 712415 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120920805588500712",
+    "fullText": "NVIDIA reports earnings after the close on November 17. Gain capital-efficient, 23-hour access to NVIDIA through financially-settled standard and Micro Single Stock futures (SNVDA / XNVDA). https://t.co/KYawsZcTKE https://t.co/oafPTQBf4J",
+    "createdAt": "Thu Nov 12 16:44:59 +0000 2026",
+    "metrics": {
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 0 }
   },
   {
     "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 10495197 },
+    "user": { "followersCount": 10496037 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120778636844269651",
-    "fullText": "Israel carried out an air strike against what it described as an operational “hub” of the Hamas militant group inside a Gaza hospital https://t.co/zGPEGlJTRv",
-    "createdAt": "Thu Nov 12 07:20:03 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120927118393549188",
+    "fullText": "European leaders may discuss the ECB’s top job at an informal summit this week, but the prime ministers of the two countries vying to succeed Christine Lagarde won’t be there to make their case https://t.co/QATnwmSrPs",
+    "createdAt": "Thu Nov 12 17:10:04 +0000 2026",
+    "metrics": {
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "growth": { "views": 0, "likes": 1, "retweets": 0, "replies": 0 }
+  },
+  {
+    "tags": [ "Finance", "Economy" ],
+    "user": { "followersCount": 133711 },
+    "images": [],
+    "tweetUrl": "https://x.com/undefined/status/2120803815414788172",
+    "fullText": "#IslamicSyndications activity is likely to remain supported by funding diversification needs across the #GCC, #ASEAN, Egypt, Turkiye and Pakistan. GCC remains the largest source of issuance, but ASEAN is increasing its presence.\nLearn More: https://t.co/vruezCXTdN\n#FitchRatings https://t.co/5OB7QMYgYg",
+    "createdAt": "Thu Nov 12 09:00:06 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 0,
@@ -1581,12 +1717,12 @@
     "growth": { "views": 0, "likes": 0, "retweets": 0, "replies": 0 }
   },
   {
-    "tags": [ "Finance", "Economy", "Politics" ],
-    "user": { "followersCount": 10495197 },
+    "tags": [ "Geopolitics", "Politics", "Tech" ],
+    "user": { "followersCount": 306262 },
     "images": [],
-    "tweetUrl": "https://x.com/undefined/status/2120777380503400951",
-    "fullText": "One of Narendra Modi’s most influential allies expressed concern that India’s strong economic growth isn’t giving young people enough opportunities, while saying the prime minister is best placed to address the problem. https://t.co/qMZedTHdpm",
-    "createdAt": "Thu Nov 12 07:15:04 +0000 2026",
+    "tweetUrl": "https://x.com/undefined/status/2120924890437923279",
+    "fullText": "SATIM, a Polish maker of AI-based analysis tools for synthetic aperture radar (SAR) imagery, has obtained a contract from Poland’s military to supply software for the automated analysis of satellite imagery. https://t.co/aPNyhTCNyy",
+    "createdAt": "Thu Nov 12 17:01:13 +0000 2026",
     "metrics": {
       "likes": 0,
       "retweets": 0,
