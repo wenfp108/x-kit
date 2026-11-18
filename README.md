@@ -20,7 +20,7 @@ dev-accounts.json (47 个 VIP 目标)
     └───────────────────────────┘
          │
     ┌────▼──────────────────────┐
-    │   refinery-erngine (下游)  │
+    │   refinery-engine (下游)   │
     │   AI 审计 + 信号生成       │
     └───────────────────────────┘
 
@@ -101,8 +101,8 @@ score = views + (likes × 5) + (replies × 20) + (bookmarks × 50) + ((retweets 
 | 仓库 | 用途 |
 |---|---|
 | [x-kit](https://github.com/wenfp108/x-kit) | 本仓库。X 数据采集 |
-| [Central-Bank](https://github.com/wenfp108/Central-Bank) | 数据存储（twitter/ 目录） |
-| [Refinery-Engine](https://github.com/wenfp108/refinery-erngine) | 下游：AI 审计 + 信号生成 |
+| Central-Bank（私有仓库） | 数据存储（twitter/ 目录） |
+| [Refinery-Engine](https://github.com/wenfp108/refinery-engine) | 下游：AI 审计 + 信号生成 |
 
 ## 环境变量
 
